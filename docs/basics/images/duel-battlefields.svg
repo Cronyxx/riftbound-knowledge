@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="805" viewBox="0 0 600 805" role="img" aria-labelledby="title desc">
+  <title id="title">Two players facing across the battlefields</title>
+  <desc id="desc">Two opposing Proving Grounds-style mats face each other across a pair of battlefields. From each player’s seat, the Rune Deck is on the left, active runes are below the base, and Legend, Chosen Champion, Trash, and Main Deck are on the right.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0L9 5L0 10Z" fill="#246b61"/>
+    </marker>
+  </defs>
+  <rect width="600" height="805" rx="20" fill="#f3f1e9"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#183f3a">
+    <text x="300" y="40" font-size="26" font-weight="700">Opponent</text>
+    <rect x="20" y="58" width="560" height="272" rx="10" fill="#e8e9dd" stroke="#9aafa5" stroke-width="2"/>
+    <circle cx="185" cy="300" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="185" y="305" font-size="14" font-weight="400">1</text>
+    <circle cx="217" cy="300" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="217" y="305" font-size="14" font-weight="400">2</text>
+    <circle cx="249" cy="300" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="249" y="305" font-size="14" font-weight="400">3</text>
+    <circle cx="281" cy="300" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="281" y="305" font-size="14" font-weight="400">4</text>
+    <circle cx="313" cy="300" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="313" y="305" font-size="14" font-weight="400">5</text>
+    <circle cx="345" cy="300" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="345" y="305" font-size="14" font-weight="400">6</text>
+    <circle cx="377" cy="300" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="377" y="305" font-size="14" font-weight="400">7</text>
+    <circle cx="409" cy="300" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="409" y="305" font-size="14" font-weight="400">8</text>
+    <text x="419" y="281" font-size="17" font-weight="700">Base</text>
+    <g transform="translate(482 229)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#b8d8c8" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Unit</text>
+    </g>
+    <g transform="translate(387 229)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#f0dfbd" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Gear</text>
+    </g>
+    <g transform="translate(200 229)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#efe4d0" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Legend</text>
+    </g>
+    <text x="200" y="183" font-size="13" font-weight="700">Champion Legend</text>
+    <g transform="translate(89 229)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#b8d8c8" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Unit</text>
+    </g>
+    <text x="89" y="183" font-size="13" font-weight="700">Chosen Champion</text>
+    <rect x="486" y="84" width="62" height="76" rx="7" fill="#dde5f5" stroke="#527970" stroke-width="2"/>
+    <rect x="490" y="89" width="62" height="76" rx="7" fill="#dde5f5" stroke="#527970" stroke-width="2"/>
+    <text x="521" y="132" font-size="17" font-weight="700">Deck</text>
+    <text x="521" y="76" font-size="17" font-weight="700">Rune Deck</text>
+    <g transform="translate(424 127)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#dde5f5" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Rune</text>
+    </g>
+    <g transform="translate(345 127)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#dde5f5" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Rune</text>
+    </g>
+    <text x="384" y="76" font-size="17" font-weight="700">Runes</text>
+    <g transform="translate(200 127)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#f1e0e7" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Spell</text>
+    </g>
+    <text x="200" y="76" font-size="17" font-weight="700">Trash</text>
+    <rect x="54" y="84" width="62" height="76" rx="7" fill="#d5dedb" stroke="#527970" stroke-width="2"/>
+    <rect x="58" y="89" width="62" height="76" rx="7" fill="#d5dedb" stroke="#527970" stroke-width="2"/>
+    <text x="89" y="132" font-size="17" font-weight="700">Deck</text>
+    <text x="89" y="76" font-size="17" font-weight="700">Main Deck</text>
+    <rect x="69" y="348" width="218" height="116" rx="10" fill="#fff" stroke="#246b61" stroke-width="2"/>
+    <text x="178" y="372" font-size="21" font-weight="700">Battlefield A</text>
+    <rect x="313" y="348" width="218" height="116" rx="10" fill="#fff" stroke="#246b61" stroke-width="2"/>
+    <text x="422" y="372" font-size="21" font-weight="700">Battlefield B</text>
+    <rect x="20" y="482" width="560" height="272" rx="10" fill="#e8e9dd" stroke="#9aafa5" stroke-width="2"/>
+    <circle cx="185" cy="506" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="185" y="511" font-size="14" font-weight="400">1</text>
+    <circle cx="217" cy="506" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="217" y="511" font-size="14" font-weight="400">2</text>
+    <circle cx="249" cy="506" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="249" y="511" font-size="14" font-weight="400">3</text>
+    <circle cx="281" cy="506" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="281" y="511" font-size="14" font-weight="400">4</text>
+    <circle cx="313" cy="506" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="313" y="511" font-size="14" font-weight="400">5</text>
+    <circle cx="345" cy="506" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="345" y="511" font-size="14" font-weight="400">6</text>
+    <circle cx="377" cy="506" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="377" y="511" font-size="14" font-weight="400">7</text>
+    <circle cx="409" cy="506" r="12" fill="#fcfbf7" stroke="#9aafa5"/>
+    <text x="409" y="511" font-size="14" font-weight="400">8</text>
+    <text x="181" y="539" font-size="17" font-weight="700">Base</text>
+    <g transform="translate(118 583)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#b8d8c8" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Unit</text>
+    </g>
+    <g transform="translate(213 583)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#f0dfbd" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Gear</text>
+    </g>
+    <g transform="translate(400 583)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#efe4d0" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Legend</text>
+    </g>
+    <text x="400" y="637" font-size="13" font-weight="700">Champion Legend</text>
+    <g transform="translate(511 583)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#b8d8c8" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Unit</text>
+    </g>
+    <text x="511" y="637" font-size="13" font-weight="700">Chosen Champion</text>
+    <rect x="44" y="642" width="62" height="76" rx="7" fill="#dde5f5" stroke="#527970" stroke-width="2"/>
+    <rect x="48" y="647" width="62" height="76" rx="7" fill="#dde5f5" stroke="#527970" stroke-width="2"/>
+    <text x="79" y="690" font-size="17" font-weight="700">Deck</text>
+    <text x="79" y="744" font-size="17" font-weight="700">Rune Deck</text>
+    <g transform="translate(176 685)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#dde5f5" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Rune</text>
+    </g>
+    <g transform="translate(255 685)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#dde5f5" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Rune</text>
+    </g>
+    <text x="216" y="744" font-size="17" font-weight="700">Runes</text>
+    <g transform="translate(400 685)">
+      <rect x="-31.0" y="-38.0" width="62" height="76" rx="7" fill="#f1e0e7" stroke="#527970" stroke-width="2"/>
+      <path d="M-13 -8L0 -23L13 -8L0 7Z" fill="#fff" stroke="#527970" stroke-width="2"/>
+      <text x="0" y="25" font-size="17" font-weight="700">Spell</text>
+    </g>
+    <text x="400" y="744" font-size="17" font-weight="700">Trash</text>
+    <rect x="476" y="642" width="62" height="76" rx="7" fill="#d5dedb" stroke="#527970" stroke-width="2"/>
+    <rect x="480" y="647" width="62" height="76" rx="7" fill="#d5dedb" stroke="#527970" stroke-width="2"/>
+    <text x="511" y="690" font-size="17" font-weight="700">Deck</text>
+    <text x="511" y="744" font-size="17" font-weight="700">Main Deck</text>
+    <text x="300" y="785" font-size="26" font-weight="700">You</text>
+  </g>
+</svg>

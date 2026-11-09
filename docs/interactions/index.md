@@ -1,5 +1,7 @@
 # Card interactions
 
+This is a supporting research checklist. See the [section overview](/advanced/) for the proposed learning plan; detailed content awaits user approval.
+
 No card-specific rulings have been documented yet.
 
 ## Record a situation
@@ -14,9 +16,9 @@ A useful interaction note starts with a precise question:
 
 ## Add an interaction
 
-Create a Markdown file in `docs/interactions/` using the template in [Writing a rules note](../contributing.md). Add a link to it below and, if it should appear in navigation, add it to the sidebar configuration.
+After topic approval, create a Markdown file in `docs/advanced/` using the template in [Writing a rules note](../contributing.md). Add a link to the Advanced Rules index and sidebar configuration.
 
-Keep unanswered situations marked **Open question**. Once an explanation has been checked, include its source and review date before marking it **Sourced note**.
+Keep unanswered situations marked **Open question**. Once an explanation has been checked, include its source and review date, then await user review before marking it **Sourced note**.
 
 ## Interaction index
 

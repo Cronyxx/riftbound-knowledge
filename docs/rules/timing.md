@@ -1,5 +1,7 @@
 # Timing & chains
 
+This is a supporting research checklist. See the [section overview](/advanced/) for the proposed learning plan; detailed content awaits user approval.
+
 ::: info Awaiting notes
 This page collects questions to research. It does not yet describe verified timing procedures.
 :::

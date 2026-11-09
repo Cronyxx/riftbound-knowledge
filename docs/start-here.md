@@ -1,28 +1,28 @@
 # Start here
 
-This notebook is a place to collect clear explanations of Riftbound rules, with enough context and sourcing to check the answer yourself.
+Riftbound Notes is organized into three learning sections. Begin with the basics, follow rules questions into advanced topics, then apply that understanding to deck studies.
 
-## Find an answer
+| Section | Who it is for | Planned coverage |
+| --- | --- | --- |
+| [01 · Basics](/basics/) | New players and anyone revisiting fundamentals | Goal and game pieces → resources → setup and turns → combat and scoring → a first game → deckbuilding. |
+| [02 · Advanced Rules](/advanced/) | Players investigating timing or tricky situations | Mechanics → timing and reactions → chains and choices → triggers and exceptions → special interactions. |
+| [03 · Meta Deck Studies](/meta/) | Players learning competitive deck plans | Deck goals → dated lists and key cards → opening decisions and play patterns → matchups and practice. |
 
-- **Looking for the rulebooks?** Open [Official sources](./sources.md).
-- **Researching a game situation?** Browse [timing](./rules/timing.md), [combat](./rules/combat.md), or [card interactions](./interactions/index.md).
-- **Building a deck?** Start with the [deckbuilding research checklist](./rules/deckbuilding.md).
-- **Have a useful explanation?** Follow [Writing a rules note](./contributing.md).
+## Current stage
 
-Use the search button in the navigation to search published notes, or copy a heading’s link to share a specific section.
+The three overall groups are approved. The topic order now follows the learning path above. The first lesson, [Basics → Objective of the game](/basics/objective), is approved as a sourced note. [Meet the cards](/basics/meet-the-cards) is approved as a sourced note. Later lessons and deck studies await drafting approval.
 
-## What the status labels mean
+## Status labels
 
 | Status | Meaning |
 | --- | --- |
-| Awaiting notes | A topic exists, but it does not contain a verified rules explanation yet. |
-| Open question | A situation has been recorded and still needs a sourced answer. |
-| Sourced note | An explanation cites an official document, a rule or section, and a review date. |
+| Awaiting approval | Proposed content; drafting has not been authorized yet. |
+| Draft — awaiting review | Drafting was approved; the content is awaiting user review. |
+| Open question | A recorded situation still needs a sourced answer. |
+| Sourced note | A user-approved rules explanation cites an official source, exact rule or section, version, and review date. |
+| Reviewed study | A user-approved deck analysis has dated evidence and separately checked rules and legality. |
+| Awaiting notes | An older research checklist with no verified explanation yet. |
 
-“Sourced note” describes our documentation process. It does not make a community explanation an official ruling.
+Community explanations do not become official rulings through these labels. Check document versions and errata before relying on a note; at an organized event, ask the event’s judge about unresolved situations.
 
-## Check the date and context
-
-Rules and card text can change. Before relying on an explanation, compare its cited version and review date with the documents in Riot’s [Rules Hub](https://playriftbound.com/en-us/rules-hub/). Check that it applies to the format you are playing.
-
-At an organized event, ask the event’s judge about an unresolved situation.
+Use local search to find published content. For sources and writing guidance, see [Official sources](/sources), [Writing a note](/contributing), and the persistent [site design and content plan](/site-design).

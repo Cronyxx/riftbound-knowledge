@@ -1,5 +1,7 @@
 # Combat & scoring
 
+This is a supporting research checklist. See the [section overview](/advanced/) for the proposed learning plan; detailed content awaits user approval.
+
 ::: info Awaiting notes
 Combat and scoring explanations have not yet been verified here. Use this checklist to guide new notes.
 :::

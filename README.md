@@ -1,8 +1,18 @@
 # Riftbound Notes
 
-A Markdown documentation site for Riftbound rules and card interactions, built with VitePress and deployed to GitHub Pages.
+A Markdown documentation site for Riftbound basics, advanced rules, and meta deck studies, built with VitePress and deployed to GitHub Pages.
 
 Includes full-text local search, topic navigation, dark mode, source guidance, and a reusable rules-note template. The initial topic pages are explicitly marked as awaiting notes; this is a documentation foundation, not a completed rulebook.
+
+## Site structure and content approval
+
+The homepage, navigation, and section indexes follow three paths:
+
+1. **Basics** — `docs/basics/`: objective, Might, costs, setup, domains, and other fundamentals.
+2. **Advanced Rules** — `docs/advanced/`: triggers, reaction opportunities, mechanics, and interactions.
+3. **Meta Deck Studies** — `docs/meta/`: dated deck studies and how to play them.
+
+The three-section grouping is approved. The first lesson, [Objective of the game](docs/basics/objective.md), is approved as a sourced note; [Meet the cards](docs/basics/meet-the-cards.md) is approved as a sourced note. Later articles await drafting approval. Read [the persistent design plan](docs/site-design.md) for topic outlines, sourcing requirements, and incremental user approval. [AGENTS.md](AGENTS.md) directs future coding sessions to this plan.
 
 ## Develop locally
 
@@ -46,7 +56,7 @@ If you use a different default branch, update the workflow branch filters and ed
 - Edit content in `docs/`.
 - Start with `docs/contributing.md` for the rules-note template and sourcing checklist.
 - Update navigation in `docs/.vitepress/config.mts` when adding a topic.
-- Add card interactions under `docs/interactions/` and link them from its index.
+- After topic approval, add card interactions under `docs/advanced/` and link them from its index.
 - Run `npm run docs:build` before submitting changes; VitePress checks internal page links.
 
 For a local preview using a project subpath, run:

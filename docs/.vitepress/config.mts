@@ -7,7 +7,7 @@ const repositoryUrl = repository ? `https://github.com/${repository}` : undefine
 
 export default defineConfig({
   title: 'Riftbound Notes',
-  description: 'A community notebook for Riftbound rules, sources, and card interactions.',
+  description: 'Learn Riftbound basics, understand advanced rules, and study competitive decks.',
   lang: 'en-US',
   base,
   cleanUrls: false,
@@ -16,30 +16,41 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'Riftbound Notes',
     nav: [
-      { text: 'Read the notes', link: '/start-here' },
-      { text: 'Official sources', link: '/sources' },
-      { text: 'Contribute', link: '/contributing' }
+      { text: 'Basics', link: '/basics/' },
+      { text: 'Advanced Rules', link: '/advanced/' },
+      { text: 'Meta Deck Studies', link: '/meta/' },
+      { text: 'Resources', items: [
+        { text: 'Start here', link: '/start-here' },
+        { text: 'Official sources', link: '/sources' },
+        { text: 'Writing a note', link: '/contributing' },
+        { text: 'Site design & plan', link: '/site-design' }
+      ] }
     ],
     sidebar: [
       {
-        text: 'THE NOTEBOOK',
+        text: '01 · BASICS',
+        items: [
+          { text: 'Overview & planned lessons', link: '/basics/' },
+          { text: 'Objective of the game', link: '/basics/objective' },
+          { text: 'Meet the cards', link: '/basics/meet-the-cards' }
+        ]
+      },
+      {
+        text: '02 · ADVANCED RULES',
+        items: [{ text: 'Overview & planned topics', link: '/advanced/' }]
+      },
+      {
+        text: '03 · META DECK STUDIES',
+        items: [{ text: 'Overview & study format', link: '/meta/' }]
+      },
+      {
+        text: 'RESOURCES',
         items: [
           { text: 'Start here', link: '/start-here' },
-          { text: 'Official sources', link: '/sources' }
+          { text: 'Official sources', link: '/sources' },
+          { text: 'Writing a note', link: '/contributing' },
+          { text: 'Site design & plan', link: '/site-design' }
         ]
-      },
-      {
-        text: 'RULES & INTERACTIONS',
-        items: [
-          { text: 'Deckbuilding', link: '/rules/deckbuilding' },
-          { text: 'Timing & chains', link: '/rules/timing' },
-          { text: 'Combat & scoring', link: '/rules/combat' },
-          { text: 'Card interactions', link: '/interactions/' }
-        ]
-      },
-      {
-        text: 'HELP IT GROW',
-        items: [{ text: 'Writing a rules note', link: '/contributing' }]
       }
     ],
     search: { provider: 'local' },

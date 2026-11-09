@@ -1,32 +1,34 @@
 ---
 layout: home
-title: The rules, within reach
+title: Learn, understand, compete
 hero:
   name: Riftbound Notes
-  text: Less searching. More playing.
-  tagline: A growing community notebook for rules references, tricky interactions, and the questions that come up across the table.
+  text: Learn. Understand. Compete.
+  tagline: Three paths through Riftbound — learn the basics, understand advanced rules, and study how competitive decks work.
   actions:
     - theme: brand
-      text: Open the notebook
-      link: /start-here
+      text: Start with the basics
+      link: /basics/
     - theme: alt
-      text: Find official rules ↗
-      link: https://playriftbound.com/en-us/rules-hub/
+      text: Explore the learning plan
+      link: /start-here
 features:
-  - title: Find the source
-    details: A guide to Riot’s rules documents, patch notes, and errata. Start with the document that answers your question.
-    link: /sources
-    linkText: Browse official sources
-  - title: Keep useful notes
-    details: Dedicated spaces for deckbuilding, timing, combat, and scoring. Add explanations with references as the notebook grows.
-    link: /rules/deckbuilding
-    linkText: Explore the topics
-  - title: Work through interactions
-    details: Record the board state, question, answer, and source so the next player can follow the same reasoning.
-    link: /interactions/
-    linkText: Document an interaction
+  - title: 01 · Basics
+    details: Start with the objective, card anatomy, Might, costs, setup, and domains. Build toward playing a complete game.
+    link: /basics/
+    linkText: Explore the basics
+  - title: 02 · Advanced Rules
+    details: Work through triggers, reaction opportunities, chains, mechanics, and special interactions with precise rules references.
+    link: /advanced/
+    linkText: Explore advanced rules
+  - title: 03 · Meta Deck Studies
+    details: Study deck plans, key cards, opening decisions, sequencing, and matchups using dated lists and competitive evidence.
+    link: /meta/
+    linkText: Explore deck studies
 ---
 
-::: info A notebook in progress
-This site is a starter for documenting rules. Topic pages are marked as awaiting notes; no card-specific rulings have been added yet. For a ruling today, consult the [official Rules Hub](https://playriftbound.com/en-us/rules-hub/).
+::: info Learning plan · Awaiting approval
+The three overall groups are approved. The first lesson, [Objective of the game](/basics/objective), is approved as a sourced note. [Meet the cards](/basics/meet-the-cards) is approved as a sourced note. Later lessons and deck studies will be added incrementally after approval. No meta deck studies have been added yet.
 :::
+
+Rules explanations will cite Riot’s rulebook and relevant updates. Deck studies will distinguish rules from strategic analysis. See the [official sources guide](/sources) and [site design and content plan](/site-design).

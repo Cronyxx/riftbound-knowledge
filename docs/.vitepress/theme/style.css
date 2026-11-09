@@ -32,3 +32,43 @@
 .VPFeature { border-top: 2px solid var(--vp-c-brand-1); }
 .VPSidebar .group .title { letter-spacing: 0.07em; }
 .vp-doc h1 { font-family: Georgia, 'Times New Roman', serif; font-weight: 500; }
+
+.card-examples {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.card-examples figure {
+  display: grid;
+  align-content: start;
+  gap: 12px;
+  margin: 0;
+  padding: 14px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+}
+
+.card-examples a {
+  display: grid;
+  place-items: center;
+  aspect-ratio: 744 / 1039;
+}
+
+.card-examples img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.card-examples figcaption {
+  font-size: 0.875rem;
+  line-height: 1.45;
+}
+
+@media (max-width: 480px) {
+  .card-examples {
+    grid-template-columns: 1fr;
+  }
+}
