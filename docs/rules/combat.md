@@ -1,9 +1,9 @@
 # Combat & scoring
 
-This is a supporting research checklist. See the [section overview](/advanced/) for the proposed learning plan; detailed content awaits user approval.
+This supporting research checklist remains available for further questions. Read the published draft on [combat and scoring edge cases](/advanced/combat-and-scoring) for the initial Duel article.
 
 ::: info Awaiting notes
-Combat and scoring explanations have not yet been verified here. Use this checklist to guide new notes.
+The linked Advanced Rules article contains sourced explanations awaiting user review. This page retains research prompts for future expansion.
 :::
 
 ## Questions to document

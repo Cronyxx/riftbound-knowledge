@@ -1,9 +1,9 @@
 # Timing & chains
 
-This is a supporting research checklist. See the [section overview](/advanced/) for the proposed learning plan; detailed content awaits user approval.
+This supporting research checklist remains available for further questions. The published drafts on [timing and reaction opportunities](/advanced/timing-and-reactions), [chains and resolution](/advanced/chains-and-resolution), [costs, targets, and choices](/advanced/costs-targets-and-choices), and [triggers](/advanced/triggers) now cover the initial batch.
 
 ::: info Awaiting notes
-This page collects questions to research. It does not yet describe verified timing procedures.
+This page collects research prompts. Read the linked Advanced Rules drafts for sourced explanations awaiting user review.
 :::
 
 ## Questions to document

@@ -31,4 +31,8 @@ features:
 Follow all 14 lessons from the objective of the game through your first Duel and deck. All 14 lessons are approved sourced notes. [Browse the Basics lessons](/basics/).
 :::
 
+::: warning Advanced Rules · Drafts available
+The [eight-article Advanced Rules path](/advanced/) now covers mechanics, timing, chains, choices, triggers, cleanup, combat, and official FAQ interactions. Sources checked November 14, 2026; content awaits user review.
+:::
+
 Rules explanations will cite Riot’s rulebook and relevant updates. Deck studies will distinguish rules from strategic analysis. See the [official sources guide](/sources) and [site design and content plan](/site-design).

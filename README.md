@@ -12,7 +12,7 @@ The homepage, navigation, and section indexes follow three paths:
 2. **Advanced Rules** — `docs/advanced/`: triggers, reaction opportunities, mechanics, and interactions.
 3. **Meta Deck Studies** — `docs/meta/`: dated deck studies and how to play them.
 
-All 14 lessons in the [Basics learning path](docs/basics/index.md) are approved sourced notes. Advanced Rules and Meta Deck Studies topics await drafting approval. Read [the persistent design plan](docs/site-design.md) for topic outlines, sourcing requirements, and incremental user approval. [AGENTS.md](AGENTS.md) directs future coding sessions to this plan.
+All 14 lessons in the [Basics learning path](docs/basics/index.md) are approved sourced notes. The eight [Advanced Rules articles](docs/advanced/index.md) are published drafts awaiting review, with sources checked November 14, 2026. Meta Deck Studies awaits drafting approval. Read [the persistent design plan](docs/site-design.md) for topic outlines, sourcing requirements, and incremental user approval. [AGENTS.md](AGENTS.md) directs future coding sessions to this plan.
 
 ## Develop locally
 

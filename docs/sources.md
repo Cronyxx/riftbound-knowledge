@@ -2,11 +2,13 @@
 
 Start at Riot’s [Riftbound Rules Hub](https://playriftbound.com/en-us/rules-hub/). It brings together the rulebooks, legality information, patch notes, and errata.
 
-**Source hub reviewed:** November 9, 2026. This notebook does not automatically synchronize with Riot’s documents.
+**Source hub reviewed:** November 14, 2026. This notebook does not automatically synchronize with Riot’s documents. Individual articles retain their own review dates.
 
 ## Reference baseline
 
 On this review date, Riot’s hub linked to [Core Rules dated October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf) and listed Tournament Rules with the same update date. It also linked [Radiance patch notes effective October 16, 2026](https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/). Check the hub again before writing each article; this baseline does not verify any lesson’s content.
+
+The Advanced Rules batch also checks the [Radiance Rules FAQ and Clarifications](https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/), published October 26, 2026, and [Radiance errata](https://playriftbound.com/en-us/news/announcements/radiance-errata-updates/), October 9. The FAQ explains its precedence over differing points in the current Core Rules until superseded by a newer Core Rules document. Keep the document dates together when researching a case.
 
 ## Pick the right reference
 

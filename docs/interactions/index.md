@@ -1,8 +1,8 @@
 # Card interactions
 
-This is a supporting research checklist. See the [section overview](/advanced/) for the proposed learning plan; detailed content awaits user approval.
+This is a supporting research checklist. See the [Advanced Rules learning path](/advanced/) for the published draft batch.
 
-No card-specific rulings have been documented yet.
+The [Special card interactions draft](/advanced/special-card-interactions) explains official FAQ cases involving Gravity Field, Charm, Angler Wyrm, and Runeblade Anvil. These explanations await user review.
 
 ## Record a situation
 
@@ -22,4 +22,5 @@ Keep unanswered situations marked **Open question**. Once an explanation has bee
 
 ## Interaction index
 
-New interaction notes will be linked here as they are added.
+- [Special card interactions](/advanced/special-card-interactions) — Gravity Field movement costs and Runeblade Anvil’s permission duration. Draft — awaiting review; sources checked November 14, 2026.
+- [Costs, targets, and choices](/advanced/costs-targets-and-choices) — Atakhan with Mordekaiser, Iron Revenant, and a Void Seeker targeting example. Draft — awaiting review; sources checked November 14, 2026.

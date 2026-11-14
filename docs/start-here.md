@@ -10,7 +10,7 @@ Riftbound Notes is organized into three learning sections. Begin with the basics
 
 ## Current stage
 
-All 14 Basics lessons are approved sourced notes. The [Basics learning path](/basics/) lists each lesson in order. Advanced Rules and Meta Deck Studies topics await drafting approval.
+All 14 Basics lessons are approved sourced notes. The [Basics learning path](/basics/) lists each lesson in order. All eight [Advanced Rules articles](/advanced/) are published as **Draft — awaiting review**, with sources checked November 14, 2026. Meta Deck Studies awaits drafting approval.
 
 ## Status labels
 
