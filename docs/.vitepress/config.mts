@@ -29,6 +29,7 @@ export default defineConfig({
     sidebar: [
       {
         text: '01 · BASICS',
+        collapsed: false,
         items: [
           { text: 'Basics learning path', link: '/basics/' },
           { text: 'Objective of the game', link: '/basics/objective' },
@@ -49,14 +50,17 @@ export default defineConfig({
       },
       {
         text: '02 · ADVANCED RULES',
+        collapsed: false,
         items: [{ text: 'Overview & planned topics', link: '/advanced/' }]
       },
       {
         text: '03 · META DECK STUDIES',
+        collapsed: false,
         items: [{ text: 'Overview & study format', link: '/meta/' }]
       },
       {
         text: 'RESOURCES',
+        collapsed: false,
         items: [
           { text: 'Start here', link: '/start-here' },
           { text: 'Official sources', link: '/sources' },

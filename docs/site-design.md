@@ -16,6 +16,8 @@ The primary site has exactly three learning sections, in this order:
 
 Each section index is the authoritative proposed topic list. The homepage presents these three sections; the navigation and sidebar follow the same order. Start here, sources, contributing, and this plan are supporting pages, not additional learning sections.
 
+Sidebar groups are collapsible and start expanded. Readers can toggle each section heading to hide or show its links.
+
 Future articles live under `docs/basics/<topic>.md`, `docs/advanced/<topic>.md`, or `docs/meta/<deck-or-topic>.md`. Add real article links to both the section index and sidebar when creating them. Use descriptive, stable filenames. Until then, topic rows remain plain text with their status; do not link to nonexistent pages.
 
 Preserve existing `/rules/` and `/interactions/` URLs as supporting research checklists. Move their material into the appropriate section only as approved articles are written, keeping a useful pointer at an old URL if its content moves. Do not create a fourth primary section.
