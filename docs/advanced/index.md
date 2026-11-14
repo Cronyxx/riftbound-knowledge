@@ -16,7 +16,7 @@ Finished [Build your first deck](/basics/build-your-first-deck)? Continue with [
 | 2 | [Timing and reaction opportunities](/advanced/timing-and-reactions) | Game states, Priority, Focus, and passing. | Draft — awaiting review |
 | 3 | [Costs, targets, and choices](/advanced/costs-targets-and-choices) | Payment order, choices made before responses, and changed targets. | Draft — awaiting review |
 | 4 | [Triggers](/advanced/triggers) | Conditions, processing, multiple triggers, and optional instructions. | Draft — awaiting review |
-| 5 | [Effects, exceptions, and cleanup](/advanced/effects-and-cleanup) | Linked instructions, layers, and game-state checks. | Draft — awaiting review |
+| 5 | [Effects, exceptions, and cleanup](/advanced/effects-and-cleanup) | Linked instructions, ongoing modifiers, layer calculations, and repeated cleanup, with worked examples. | Draft — awaiting review |
 | 6 | [Mechanics and keywords](/advanced/mechanics-and-keywords) | Action, Reaction, Hidden, and buff counters. | Draft — awaiting review |
 | 7 | [Combat and scoring edge cases](/advanced/combat-and-scoring) | Damage assignment, control, scoring limits, the final point, and victory checks. | Draft — awaiting review |
 | 8 | [Special card interactions](/advanced/special-card-interactions) | Gravity Field with Charm or Angler Wyrm, and Runeblade Anvil’s permission duration. | Draft — awaiting review |
@@ -34,5 +34,7 @@ The user selected this mechanics and official-FAQ batch on November 14, 2026. It
 ## Rules references
 
 The batch uses Core Rules updated October 9, 2026, Radiance patch notes effective October 16, relevant errata, and the Radiance FAQ published October 26. The [Rules Hub](https://playriftbound.com/en-us/rules-hub/) was checked November 14, 2026. Exact references appear beside explanations, with a source record on each article. See the [sources guide](/sources) for the sourcing process.
+
+The expanded cleanup and layers article was rechecked November 15, 2026. Each article records its own source review date.
 
 Existing [timing](/rules/timing), [combat](/rules/combat), and [interaction](/interactions/) research checklists remain available as supporting material.
