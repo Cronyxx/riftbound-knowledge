@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-labelledby="title desc">
+  <title id="title">Combat damage at one battlefield</title>
+  <desc id="desc">The 4-Might attacker deals 4 damage to the 2-Might defender, and the defender deals 2 damage to the attacker at the same time.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0L9 5L0 10Z" fill="#246b61"/>
+    </marker>
+  </defs>
+  <rect width="600" height="330" rx="20" fill="#f3f1e9"/>
+  <rect x="22" y="22" width="556" height="286" rx="16" fill="#e0ece3" stroke="#246b61" stroke-width="2"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#183f3a">
+    <text x="300" y="63" font-size="24" font-weight="700">At the battlefield</text>
+    <text x="125" y="111" font-size="20" font-weight="700">Your attacker</text>
+    <text x="475" y="111" font-size="20" font-weight="700">Their defender</text>
+    <rect x="67" y="151" width="116" height="79" rx="9" fill="#b8d8c8" stroke="#527970" stroke-width="2"/>
+    <rect x="435" y="132" width="80" height="116" rx="9" fill="#f0dfbd" stroke="#527970" stroke-width="2"/>
+    <text x="125" y="198" font-size="20" font-weight="700">4 Might</text>
+    <text x="475" y="198" font-size="20" font-weight="700">2 Might</text>
+    <text x="300" y="147" font-size="20" font-weight="700">4 damage</text>
+    <path d="M199 169H415" fill="none" stroke="#246b61" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M415 211H199" fill="none" stroke="#246b61" stroke-width="3" marker-end="url(#arrow)"/>
+    <text x="300" y="243" font-size="20" font-weight="700">2 damage</text>
+    <text x="300" y="285" font-size="19">Both units take damage at the same time.</text>
+  </g>
+</svg>

@@ -12,7 +12,7 @@ The homepage, navigation, and section indexes follow three paths:
 2. **Advanced Rules** — `docs/advanced/`: triggers, reaction opportunities, mechanics, and interactions.
 3. **Meta Deck Studies** — `docs/meta/`: dated deck studies and how to play them.
 
-The three-section grouping is approved. The first lesson, [Objective of the game](docs/basics/objective.md), is approved as a sourced note; [Meet the cards](docs/basics/meet-the-cards.md) is approved as a sourced note. Later articles await drafting approval. Read [the persistent design plan](docs/site-design.md) for topic outlines, sourcing requirements, and incremental user approval. [AGENTS.md](AGENTS.md) directs future coding sessions to this plan.
+All 14 lessons in the [Basics learning path](docs/basics/index.md) are approved sourced notes. Advanced Rules and Meta Deck Studies topics await drafting approval. Read [the persistent design plan](docs/site-design.md) for topic outlines, sourcing requirements, and incremental user approval. [AGENTS.md](AGENTS.md) directs future coding sessions to this plan.
 
 ## Develop locally
 

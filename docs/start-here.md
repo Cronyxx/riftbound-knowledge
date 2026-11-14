@@ -10,7 +10,7 @@ Riftbound Notes is organized into three learning sections. Begin with the basics
 
 ## Current stage
 
-The three overall groups are approved. The topic order now follows the learning path above. The first lesson, [Basics → Objective of the game](/basics/objective), is approved as a sourced note. [Meet the cards](/basics/meet-the-cards) is approved as a sourced note. Later lessons and deck studies await drafting approval.
+All 14 Basics lessons are approved sourced notes. The [Basics learning path](/basics/) lists each lesson in order. Advanced Rules and Meta Deck Studies topics await drafting approval.
 
 ## Status labels
 

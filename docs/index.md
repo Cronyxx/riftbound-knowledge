@@ -27,8 +27,8 @@ features:
     linkText: Explore deck studies
 ---
 
-::: info Learning plan · Awaiting approval
-The three overall groups are approved. The first lesson, [Objective of the game](/basics/objective), is approved as a sourced note. [Meet the cards](/basics/meet-the-cards) is approved as a sourced note. Later lessons and deck studies will be added incrementally after approval. No meta deck studies have been added yet.
+::: info The Basics learning path
+Follow all 14 lessons from the objective of the game through your first Duel and deck. All 14 lessons are approved sourced notes. [Browse the Basics lessons](/basics/).
 :::
 
 Rules explanations will cite Riot’s rulebook and relevant updates. Deck studies will distinguish rules from strategic analysis. See the [official sources guide](/sources) and [site design and content plan](/site-design).

@@ -30,9 +30,21 @@ export default defineConfig({
       {
         text: '01 · BASICS',
         items: [
-          { text: 'Overview & planned lessons', link: '/basics/' },
+          { text: 'Basics learning path', link: '/basics/' },
           { text: 'Objective of the game', link: '/basics/objective' },
-          { text: 'Meet the cards', link: '/basics/meet-the-cards' }
+          { text: 'Meet the cards', link: '/basics/meet-the-cards' },
+          { text: 'The play area', link: '/basics/play-area' },
+          { text: 'Reading a unit', link: '/basics/reading-a-unit' },
+          { text: 'Domains', link: '/basics/domains' },
+          { text: 'Runes, resources, and costs', link: '/basics/runes-and-costs' },
+          { text: 'Game setup', link: '/basics/game-setup' },
+          { text: 'A turn, step by step', link: '/basics/turn-structure' },
+          { text: 'Playing cards and using abilities', link: '/basics/playing-cards' },
+          { text: 'Movement and battlefields', link: '/basics/movement' },
+          { text: 'Your first combat', link: '/basics/combat' },
+          { text: 'Scoring and winning', link: '/basics/scoring' },
+          { text: 'Your first game', link: '/basics/first-game' },
+          { text: 'Build your first deck', link: '/basics/build-your-first-deck' }
         ]
       },
       {

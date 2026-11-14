@@ -75,7 +75,7 @@ Your **Main Deck** is your stack of units, spells, and gear; the Chosen Champion
 
 Use the examples above or your own cards. Find a unit, a spell, and a rune. Explain which one fights, which one gives instructions to follow, and which one supplies resources. Use the table to check yourself.
 
-Next planned lesson: **The play area**—where these cards belong on the table.
+Next lesson is [The play area](/basics/play-area), which shows where these cards belong on the table.
 
 [Previous: Objective of the game](/basics/objective) · [Basics learning path](/basics/)
 

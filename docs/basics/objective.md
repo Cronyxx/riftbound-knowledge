@@ -35,16 +35,22 @@ Here, **scoring a battlefield** means conquering or holding it. Each battlefield
 Suppose you have **3 points**, and no effects change how you earn points:
 
 1. You move a **unit**, a card that can fight for you, from your base to an empty battlefield. It stays there and you take control, conquering it for **4 points total**.
+
+   ![Your unit moves from your base to Battlefield A. Your score rises from 3 to 4.](./images/conquer-on-your-turn.svg)
+
 2. Your opponent takes their turn, but you keep control of that battlefield.
+
+   ![Your unit stays at Battlefield A during your opponent’s turn. Your score stays at 4.](./images/keep-control-on-opponents-turn.svg)
+
 3. During your next Beginning Phase, you hold it and gain another point. You now have **5 points**.
 
-![Your unit moves from your base to Battlefield A. You conquer to reach 4 points, keep the unit there during the opponent’s turn, and hold to reach 5.](./images/conquer-and-hold.svg)
+   ![Your unit holds Battlefield A during your next Beginning Phase. Your score rises from 4 to 5.](./images/hold-on-your-next-turn.svg)
 
 This gives you a reason both to take battlefields and to protect the ones you already control.
 
 ## What comes next?
 
-Next lesson: [Meet the cards](/basics/meet-the-cards). We will return to scoring through more examples later. Detailed victory checks and final-point exceptions belong in [Advanced Rules](/advanced/).
+Next lesson: [Meet the cards](/basics/meet-the-cards). See [Scoring and winning](/basics/scoring) for a worked example of earning the eighth point. Detailed victory checks and final-point exceptions belong in [Advanced Rules](/advanced/).
 
 [Back to the Basics learning path](/basics/)
 
