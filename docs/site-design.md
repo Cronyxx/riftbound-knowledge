@@ -11,7 +11,7 @@ The primary site has exactly three learning sections, in this order:
 | Section | Canonical route | Purpose |
 | --- | --- | --- |
 | Basics | `/basics/` | A guided first game: objective, cards, play area, Might, domains, resources and costs, setup, turns, actions, movement, combat, scoring, a walkthrough, then deckbuilding. |
-| Advanced Rules | `/advanced/` | Card vocabulary and mechanics, timing and reactions, chains, choices, triggers, effects and cleanup, combat edge cases, then combined interactions. |
+| Advanced Rules | `/advanced/` | Chains and resolution, timing and reactions, costs and choices, triggers, effects and cleanup, mechanics and keywords, combat edge cases, then combined interactions. |
 | Meta Deck Studies | `/meta/` | Evidence-based studies of competitive decks and how to pilot them. |
 
 Each section index is the authoritative proposed topic list. The homepage presents these three sections; the navigation and sidebar follow the same order. Start here, sources, contributing, and this plan are supporting pages, not additional learning sections.
@@ -27,7 +27,7 @@ Preserve existing `/rules/` and `/interactions/` URLs as supporting research che
 The three overall groups are approved. Within each group, teach prerequisites before concepts that depend on them. The section indexes record the exact order.
 
 - **Basics:** orient the reader with the goal, cards, and play area; introduce Might, domains, and resources; use a prepared deck for setup and turn flow; explain actions, movement, combat, and scoring; complete a guided game before asking the reader to build a deck. Introduce the objective briefly at the start and practice ordinary scoring after combat; reserve exact timing and scoring exceptions for Advanced Rules. Keep each lesson focused on one small concept.
-- **Advanced Rules:** decode mechanics and keywords before studying timing; introduce reaction opportunities and chains before detailed choices and triggers; teach effects and cleanup before combined combat cases and special interactions. Individual mechanics may link forward to timing prerequisites without trying to teach every exception in the opening overview.
+- **Advanced Rules:** continue from the final Basics lesson with chains, finalization, and resolution; then explain timing and reaction opportunities, costs and choices, triggers, and effects and cleanup. Apply those foundations to mechanics and keywords before revisiting combat and scoring edge cases and finishing with special card interactions. The opening chain article introduces the minimal response vocabulary it needs; detailed timing follows in the next article. This order was requested November 14, 2026. Keep the index, sidebar, and previous/next links in this sequence, with a direct link from the final Basics lesson.
 - **Meta Deck Studies:** establish the competitive context, then let readers choose a study. In each study, explain the deck’s goal before its full list, then connect key cards to opening decisions, play patterns, matchup adjustments, and practice.
 
 This is an editorial learning sequence, not a claim about the order of procedures in the official rulebook. Every eventual gameplay procedure must still follow the current official rules.

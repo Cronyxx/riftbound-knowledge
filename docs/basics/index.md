@@ -27,6 +27,10 @@ Start with the [Objective of the game](/basics/objective), or use [Your first ga
 | 13 | [Your first game](/basics/first-game) | Follow a scripted Garen versus Lux game from setup to the eighth point. | Sourced note |
 | 14 | [Build your first deck](/basics/build-your-first-deck) | Assemble a constructed Duel deck and try a starter deck swap. | Sourced note |
 
+## Continue after Basics
+
+After [Build your first deck](/basics/build-your-first-deck), continue with [Advanced Rules: Chains and resolution](/advanced/chains-and-resolution). The next path explains the procedures behind responses, interacting effects, and more complex combat.
+
 ## Lesson format
 
 Each lesson teaches a simple concept using accurate game terms. Define each new term at first mention, and build on ideas already introduced. Include enough context and a useful gameplay example to explain how the concept works. Keep exact official references in an expandable source note so they remain easy to check. Technical procedures and exceptions belong in [Advanced Rules](/advanced/).

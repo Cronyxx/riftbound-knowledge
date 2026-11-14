@@ -6,6 +6,8 @@ For two-player Duel. Sources checked November 14, 2026. This first mechanics bat
 
 ## What does a keyword let you do?
 
+Use the chain, timing, choice, and cleanup procedures from the preceding articles to read these mechanics. Start with the Action and Reaction permissions you have already used, then apply them to Hidden and buff counters.
+
 Keywords can grant permission, change a procedure, or refer to a game object. Read the keyword together with the rest of the card: timing permission does not waive costs or targeting requirements.
 
 | Term | How to use it | Reference |
@@ -31,7 +33,7 @@ A temporary Might increase is not automatically a buff counter. Track the counte
 
 [Riftbound Core Rules][core], updated October 9, 2026; sections cited above. [Rules Hub][hub], [Radiance patch notes][patch] (effective October 16), and [Radiance errata][errata] (October 9) checked November 14, 2026. Use corrected card text when applying Hidden to individual cards.
 
-[Next: Timing and reaction opportunities](/advanced/timing-and-reactions) · [Advanced Rules learning path](/advanced/)
+[Previous: Effects, exceptions, and cleanup](/advanced/effects-and-cleanup) · [Next: Combat and scoring edge cases](/advanced/combat-and-scoring)
 
 [core]: https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf
 [hub]: https://playriftbound.com/en-us/rules-hub/

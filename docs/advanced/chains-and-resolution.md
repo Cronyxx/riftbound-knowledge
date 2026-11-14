@@ -4,6 +4,12 @@
 For two-player Duel. Sources checked November 14, 2026.
 :::
 
+## From playing a card to resolving its effect
+
+In Basics, you paid costs, played units, and followed spell instructions. This article unpacks the steps inside a play. Start here after [Build your first deck](/basics/build-your-first-deck); the next article explains the timing of responses in more detail.
+
+Two terms will help: **Priority** is permission to take a discretionary action. **Reaction** is a keyword that can permit a card or ability to be played while a chain exists. You still need an opportunity to act. ([Core Rules][core], 312; 338; 813.)
+
 ## What resolves next?
 
 The **Chain** holds cards and abilities being played. Items initially arrive as **pending**: their choices, costs, and legality still need processing. **Finalization** completes that preparation. Finalize pending items in the order they arrived; when players finish reacting, resolve the newest finalized item. These are different orders for different jobs. ([Core Rules][core], 327–340.)
@@ -30,10 +36,6 @@ Ordinary reactions wait until this preparation finishes. Resource-adding abiliti
 | When does its damage and draw happen? | Still waiting. | Follow the applicable instructions. |
 
 See the [worked Void Seeker case](/advanced/costs-targets-and-choices#what-if-the-target-changes). ([Core Rules][core], 355; 357; 359.3.e.5.)
-
-## A payment can belong to resolution
-
-Do not assume every payment mentioned on a card is part of finalization. In Riot's **Riven, Broken Blade** example, spending the buff belongs to resolution of her exhaust-triggered ability. Its effect starts with choosing a mode; the later buff payment is an instruction within that effect, rather than its base cost. Placement of the payment in the ability matters. ([Radiance FAQ][faq], Riven's buff-payment question, October 26, 2026; rule 383.3.b.)
 
 ## Follow the procedure
 
@@ -64,11 +66,17 @@ You do not get the ordinary spell-style window between a unit's finalization and
 
 Riot's **Chronobreak** example demonstrates this with several pending units: process each unit's finalization and immediate resolution in arrival order. Their play-triggered abilities wait for their own finalization. Once pending items are processed, players can react to the next finalized ability. The unit entering and its play effect resolving are separate events. ([Radiance patch notes][patch], “Chronobreak” interaction, effective October 16, 2026.)
 
+## A payment can belong to resolution
+
+Do not assume every payment mentioned on a card is part of finalization. In Riot's **Riven, Broken Blade** example, spending the buff belongs to resolution of her exhaust-triggered ability. Its effect starts with choosing a mode; the later buff payment is an instruction within that effect, rather than its base cost. Placement of the payment in the ability matters. ([Radiance FAQ][faq], Riven's buff-payment question, October 26, 2026; rule 383.3.b.)
+
+For the full treatment of triggered abilities and their choices, continue through the learning path to [Triggers](/advanced/triggers).
+
 ## Source record
 
 [Riftbound Core Rules][core], updated October 9, 2026, rules cited above. [Radiance patch notes][patch], “Chronobreak” interaction and “Pending Item Target Legality,” effective October 16, confirm the distinction between pending items and later reactions. [Radiance FAQ][faq], October 26, Riven, Broken Blade's buff-payment question, distinguishes a later payment instruction from an ability's base cost. All checked with the [Rules Hub][hub] November 14, 2026.
 
-[Previous: Timing and reaction opportunities](/advanced/timing-and-reactions) · [Next: Costs, targets, and choices](/advanced/costs-targets-and-choices)
+[Previous: Build your first deck](/basics/build-your-first-deck) · [Next: Timing and reaction opportunities](/advanced/timing-and-reactions)
 
 [core]: https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf
 [hub]: https://playriftbound.com/en-us/rules-hub/

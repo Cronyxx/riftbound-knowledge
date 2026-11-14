@@ -53,12 +53,12 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Advanced Rules learning path', link: '/advanced/' },
-          { text: 'Mechanics and keywords', link: '/advanced/mechanics-and-keywords' },
-          { text: 'Timing and reaction opportunities', link: '/advanced/timing-and-reactions' },
           { text: 'Chains and resolution', link: '/advanced/chains-and-resolution' },
+          { text: 'Timing and reaction opportunities', link: '/advanced/timing-and-reactions' },
           { text: 'Costs, targets, and choices', link: '/advanced/costs-targets-and-choices' },
           { text: 'Triggers', link: '/advanced/triggers' },
           { text: 'Effects, exceptions, and cleanup', link: '/advanced/effects-and-cleanup' },
+          { text: 'Mechanics and keywords', link: '/advanced/mechanics-and-keywords' },
           { text: 'Combat and scoring edge cases', link: '/advanced/combat-and-scoring' },
           { text: 'Special card interactions', link: '/advanced/special-card-interactions' }
         ]

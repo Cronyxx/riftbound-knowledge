@@ -33,7 +33,7 @@ These outcomes apply the Duel rules to the stated examples. Victory is checked d
 
 [Riftbound Core Rules][core], updated October 9, 2026, rules cited above; [Radiance patch notes][patch], effective October 16, “2v2 Scoring” checked to distinguish team rules from these Duel examples. [Rules Hub][hub] checked November 14, 2026.
 
-[Previous: Effects, exceptions, and cleanup](/advanced/effects-and-cleanup) · [Next: Special card interactions](/advanced/special-card-interactions)
+[Previous: Mechanics and keywords](/advanced/mechanics-and-keywords) · [Next: Special card interactions](/advanced/special-card-interactions)
 
 [core]: https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf
 [hub]: https://playriftbound.com/en-us/rules-hub/

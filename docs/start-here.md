@@ -5,7 +5,7 @@ Riftbound Notes is organized into three learning sections. Begin with the basics
 | Section | Who it is for | Planned coverage |
 | --- | --- | --- |
 | [01 · Basics](/basics/) | New players and anyone revisiting fundamentals | Goal and game pieces → resources → setup and turns → combat and scoring → a first game → deckbuilding. |
-| [02 · Advanced Rules](/advanced/) | Players investigating timing or tricky situations | Mechanics → timing and reactions → chains and choices → triggers and exceptions → special interactions. |
+| [02 · Advanced Rules](/advanced/) | Players investigating timing or tricky situations | Chains and resolution → timing and choices → triggers and cleanup → mechanics → combat and scoring edge cases → special interactions. |
 | [03 · Meta Deck Studies](/meta/) | Players learning competitive deck plans | Deck goals → dated lists and key cards → opening decisions and play patterns → matchups and practice. |
 
 ## Current stage

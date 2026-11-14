@@ -30,7 +30,7 @@ Recheck legality as the effect resolves. An illegal target is unaffected; the sp
 
 [Riftbound Core Rules][core], updated October 9, 2026, rules cited above; [Radiance FAQ][faq], October 26, Atakhan/Mordekaiser question; [Radiance patch notes][patch], effective October 16, “Pick” and “Making New Choices.” [Rules Hub][hub] and these sources checked November 14, 2026.
 
-[Previous: Chains and resolution](/advanced/chains-and-resolution) · [Next: Triggers](/advanced/triggers)
+[Previous: Timing and reaction opportunities](/advanced/timing-and-reactions) · [Next: Triggers](/advanced/triggers)
 
 [core]: https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf
 [hub]: https://playriftbound.com/en-us/rules-hub/

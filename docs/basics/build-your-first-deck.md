@@ -39,6 +39,10 @@ The Proving Grounds starter supplies **Trifarian War Camp**. For a constructed D
 
 *Card image © Riot Games. [Official Card Gallery](https://playriftbound.com/en-us/card-gallery/).*
 
+## Continue to Advanced Rules
+
+You have followed a first game and built a deck. Continue with [Chains and resolution](/advanced/chains-and-resolution) to unpack what happens when you play a card, before learning when players can respond.
+
 [Previous lesson: Your first game](/basics/first-game) · [Basics learning path](/basics/)
 
 <details>

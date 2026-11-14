@@ -30,7 +30,7 @@ Combat and ending cleanups insert special steps. The Ending Phase heals units an
 
 [Riftbound Core Rules][core], updated October 9, 2026, rules cited above; [Radiance patch notes][patch], effective October 16, sections named above. Checked with the [Rules Hub][hub] November 14, 2026.
 
-[Previous: Triggers](/advanced/triggers) · [Next: Combat and scoring edge cases](/advanced/combat-and-scoring)
+[Previous: Triggers](/advanced/triggers) · [Next: Mechanics and keywords](/advanced/mechanics-and-keywords)
 
 [core]: https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf
 [hub]: https://playriftbound.com/en-us/rules-hub/

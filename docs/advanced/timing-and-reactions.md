@@ -6,6 +6,8 @@ For two-player Duel. Sources checked November 14, 2026.
 
 ## Can I act right now?
 
+You now know what [finalization and resolution](/advanced/chains-and-resolution) do. This article explains the opportunities between them. **Action** permits play during an open showdown; **Reaction** includes that permission and also permits play during a closed state. The [later mechanics article](/advanced/mechanics-and-keywords) applies these permissions to Hidden and other card text. ([Core Rules][core], 806; 813.)
+
 Check the game state and who has **Priority**, the exclusive permission to take a discretionary action. A card having Reaction does not let you interrupt an instruction while another effect resolves. ([Core Rules][core], 303.1; 307–313; 340.1.)
 
 | State | What is happening? | Ordinary permission |
@@ -35,7 +37,7 @@ Abilities that Add resources have special processing, including certain opportun
 
 [Riftbound Core Rules][core], updated October 9, 2026, rules cited above; [Rules Hub][hub] and [Radiance patch notes][patch], effective October 16, checked November 14, 2026.
 
-[Previous: Mechanics and keywords](/advanced/mechanics-and-keywords) · [Next: Chains and resolution](/advanced/chains-and-resolution)
+[Previous: Chains and resolution](/advanced/chains-and-resolution) · [Next: Costs, targets, and choices](/advanced/costs-targets-and-choices)
 
 [core]: https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf
 [hub]: https://playriftbound.com/en-us/rules-hub/

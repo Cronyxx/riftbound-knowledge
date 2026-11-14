@@ -18,7 +18,7 @@ features:
     link: /basics/
     linkText: Explore the basics
   - title: 02 · Advanced Rules
-    details: Work through triggers, reaction opportunities, chains, mechanics, and special interactions with precise rules references.
+    details: Continue from Basics with chains and resolution, then timing, choices, triggers, cleanup, mechanics, combat, and card interactions.
     link: /advanced/
     linkText: Explore advanced rules
   - title: 03 · Meta Deck Studies
@@ -32,7 +32,7 @@ Follow all 14 lessons from the objective of the game through your first Duel and
 :::
 
 ::: warning Advanced Rules · Drafts available
-The [eight-article Advanced Rules path](/advanced/) now covers mechanics, timing, chains, choices, triggers, cleanup, combat, and official FAQ interactions. Sources checked November 14, 2026; content awaits user review.
+The [eight-article Advanced Rules path](/advanced/) continues from Basics through chains, timing, choices, triggers, cleanup, mechanics, combat, and official FAQ interactions. Sources checked November 14, 2026; content awaits user review.
 :::
 
 Rules explanations will cite Riot’s rulebook and relevant updates. Deck studies will distinguish rules from strategic analysis. See the [official sources guide](/sources) and [site design and content plan](/site-design).
