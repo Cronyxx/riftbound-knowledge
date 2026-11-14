@@ -14,7 +14,7 @@ Start with [Mechanics and keywords](/advanced/mechanics-and-keywords), then foll
 | --- | --- | --- | --- |
 | 1 | [Mechanics and keywords](/advanced/mechanics-and-keywords) | Action, Reaction, Hidden, and buff counters. | Draft — awaiting review |
 | 2 | [Timing and reaction opportunities](/advanced/timing-and-reactions) | Game states, Priority, Focus, and passing. | Draft — awaiting review |
-| 3 | [Chains and resolution](/advanced/chains-and-resolution) | Pending items, finalization, resolution, and immediate entry of units and gear. | Draft — awaiting review |
+| 3 | [Chains and resolution](/advanced/chains-and-resolution) | What finalization commits, what resolution carries out, reaction windows, and immediate entry of units and gear. | Draft — awaiting review |
 | 4 | [Costs, targets, and choices](/advanced/costs-targets-and-choices) | Payment order, choices made before responses, and changed targets. | Draft — awaiting review |
 | 5 | [Triggers](/advanced/triggers) | Conditions, processing, multiple triggers, and optional instructions. | Draft — awaiting review |
 | 6 | [Effects, exceptions, and cleanup](/advanced/effects-and-cleanup) | Linked instructions, layers, and game-state checks. | Draft — awaiting review |
