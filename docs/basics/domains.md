@@ -50,10 +50,10 @@ Next lesson is [Runes, resources, and costs](/basics/runes-and-costs).
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Domain identity, matching all printed domains, and cards without domains: 103.2.b.1–103.2.b.6.
-  - Rune Deck domain requirements: 103.4.a.1.
-  - Symbol placement, colors, and shapes: 103.2.b.2 and 134.1–134.2.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Domain identity, matching all printed domains, and cards without domains: [103.2.b.1](/reference/core-rules#rule-103-2-b-1)–[103.2.b.6](/reference/core-rules#rule-103-2-b-6).
+  - Rune Deck domain requirements: [103.4.a.1](/reference/core-rules#rule-103-4-a-1).
+  - Symbol placement, colors, and shapes: [103.2.b.2](/reference/core-rules#rule-103-2-b-2) and [134.1](/reference/core-rules#rule-134-1)–[134.2](/reference/core-rules#rule-134-2).
 - [Proving Grounds How to Play](https://uvsgames.com/wp-content/uploads/2025/11/OGS-ProvingGrounds-HowtoPlay-EN.pdf), “Meet Your Legends,” Garen deck list. Checked November 9, 2026.
 - [Riot’s Rules Hub](https://playriftbound.com/en-us/rules-hub/). Checked for the current Core Rules and relevant updates November 9, 2026.
 

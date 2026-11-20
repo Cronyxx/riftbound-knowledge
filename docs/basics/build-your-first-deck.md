@@ -48,10 +48,10 @@ You have followed a first game and built a deck. Continue with [Chains and resol
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Legend, domain identity, Chosen Champion, copy limit, and Signature cards: 103.2–103.3.
-  - Rune Deck and distinct battlefields: 103.4–103.5.
-  - Chosen Champion placement and Duel battlefield selection: 112 and 487.4–487.5.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Legend, domain identity, Chosen Champion, copy limit, and Signature cards: [103.2](/reference/core-rules#rule-103-2)–[103.3](/reference/core-rules#rule-103-3).
+  - Rune Deck and distinct battlefields: [103.4](/reference/core-rules#rule-103-4)–[103.5](/reference/core-rules#rule-103-5).
+  - Chosen Champion placement and Duel battlefield selection: [112](/reference/core-rules#rule-112) and [487.4](/reference/core-rules#rule-487-4)–[487.5](/reference/core-rules#rule-487-5).
 - [Proving Grounds How to Play](https://uvsgames.com/wp-content/uploads/2025/11/OGS-ProvingGrounds-HowtoPlay-EN.pdf), “Meet Your Legends,” Garen deck list. [Card Gallery](https://playriftbound.com/en-us/card-gallery/), Cithria of Cloudfield (OGN-139/298) and Dune Drake (OGN-131/298). Checked November 9, 2026.
 - [Riot’s Rules Hub](https://playriftbound.com/en-us/rules-hub/), “Constructed Format Legality,” updated September 18, 2026. Checked November 9, 2026.
 

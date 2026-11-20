@@ -33,6 +33,13 @@
 .VPSidebar .group .title { letter-spacing: 0.07em; }
 .vp-doc h1 { font-family: Georgia, 'Times New Roman', serif; font-weight: 500; }
 
+/* Native hash navigation from the rule lookup must clear the fixed header. */
+.rulebook-anchors span {
+  display: block;
+  height: 0;
+  scroll-margin-top: calc(var(--vp-nav-height) + 24px);
+}
+
 .card-examples {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));

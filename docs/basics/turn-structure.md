@@ -48,10 +48,10 @@ Next lesson is [Playing cards and using abilities](/basics/playing-cards).
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Start of turn and the second player’s extra rune: 315.1–315.4 and 487.7.
-  - Actions and passing the turn: 316.5 and 316.9–317.3.
-  - Playing the example unit and paying with Basic Runes: 143.4, 164.2.a, 355.2.a, and 357.1.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Start of turn and the second player’s extra rune: [315.1](/reference/core-rules#rule-315-1)–[315.4](/reference/core-rules#rule-315-4) and [487.7](/reference/core-rules#rule-487-7).
+  - Actions and passing the turn: [316.5](/reference/core-rules#rule-316-5) and [316.9](/reference/core-rules#rule-316-9)–[317.3](/reference/core-rules#rule-317-3).
+  - Playing the example unit and paying with Basic Runes: [143.4](/reference/core-rules#rule-143-4), [164.2.a](/reference/core-rules#rule-164-2-a), [355.2.a](/reference/core-rules#rule-355-2-a), and [357.1](/reference/core-rules#rule-357-1).
 - [Riot’s Card Gallery](https://playriftbound.com/en-us/card-gallery/), Daring Poro (OGN-210/298). [Rules Hub](https://playriftbound.com/en-us/rules-hub/) and [Testing Start of Game Rules, October 15, 2026](https://playriftbound.com/en-us/news/organizedplay/testing-start-of-game-rules/). Checked November 9, 2026 for the printed cost, current rules, and scope of event playtests.
 
 </details>

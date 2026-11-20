@@ -2,6 +2,8 @@
 
 Start at Riot’s [Riftbound Rules Hub](https://playriftbound.com/en-us/rules-hub/). It brings together the rulebooks, legality information, patch notes, and errata.
 
+For numbered Core Rules citations, use the [official rulebook reference](/reference/core-rules). It embeds Riot’s October 9, 2026 PDF and opens the page containing a linked rule or subrule. Its index was checked November 20, 2026; this does not change individual articles’ review dates or the source baseline below.
+
 **Source hub reviewed:** November 14, 2026. This notebook does not automatically synchronize with Riot’s documents. Individual articles retain their own review dates.
 
 ## Reference baseline
@@ -31,5 +33,7 @@ Record these details with every explanation:
 - The rule number or section heading.
 - The date you checked it.
 - Any relevant card errata and the format being discussed.
+
+Link each Core Rules number to its local anchor, for example [359.3.e.5](/reference/core-rules#rule-359-3-e-5). The reference page retains the direct official PDF URL; keep other official documents linked directly.
 
 See [Writing a rules note](./contributing.md) for a reusable template.

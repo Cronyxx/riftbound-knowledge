@@ -14,7 +14,7 @@ The primary site has exactly three learning sections, in this order:
 | Advanced Rules | `/advanced/` | Chains and resolution, timing and reactions, costs and choices, triggers, effects and cleanup, mechanics and keywords, combat edge cases, then combined interactions. |
 | Meta Deck Studies | `/meta/` | Evidence-based studies of competitive decks and how to pilot them. |
 
-Each section index is the authoritative proposed topic list. The homepage presents these three sections; the navigation and sidebar follow the same order. Start here, sources, contributing, and this plan are supporting pages, not additional learning sections.
+Each section index is the authoritative proposed topic list. The homepage presents these three sections; the navigation and sidebar follow the same order. Start here, the official rulebook reference, sources, contributing, and this plan are supporting pages, not additional learning sections.
 
 Sidebar groups are collapsible and start expanded. Readers can toggle each section heading to hide or show its links.
 
@@ -61,8 +61,10 @@ Objective of the game introduces Victory Score, battlefields, Conquer, Hold, and
 
 ## Rules accuracy and references
 
+**Authorized reference addition, November 20, 2026:** The [official rulebook reference](/reference/core-rules) is a supporting resource in navigation and the sidebar. It embeds Riot’s official Core Rules PDF and supplies local anchors for individual rules and subrules, without reproducing the full text. The index uses the October 9, 2026 edition, confirmed against the live Rules Hub on November 20, 2026. Existing Core Rules citations link to this page and its numbered anchors. Keep article review dates and approval labels unchanged when migrating links. Preserve direct official URLs, edition metadata, and update guidance on the reference page. This addition does not authorize further lessons or deck studies.
+
 - Consult the live [Riot Rules Hub](https://playriftbound.com/en-us/rules-hub/) before each rules article; do not assume this plan’s source versions remain current.
-- Cite the actual official document URL, title, version/date, exact rule number or section, and review date. For Basics, keep the mapping to the lesson’s claims in an expandable reference note; advanced articles should place citations beside the explanations they support.
+- Cite the title, version/date, exact rule number or section, and review date. Core Rules citations can point to the local rulebook’s specific anchors, which retain the actual official document URL and metadata. Other sources retain their direct official URLs. For Basics, keep the mapping to the lesson’s claims in an expandable reference note; advanced articles should place citations beside the explanations they support.
 - Check applicable patch notes, FAQs, card text, and errata as well as the Core Rules. For event procedures and legality, consult Tournament Rules and the appropriate format’s current legality information.
 - Explain rules in original, beginner-friendly language; do not copy long rulebook passages. Cite exceptions and check examples against the rules.
 - Specify the mode/format where it affects setup, deck construction, scoring, or a ruling. Do not silently generalize one mode to all play.

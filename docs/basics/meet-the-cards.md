@@ -84,15 +84,15 @@ Next lesson is [The play area](/basics/play-area), which shows where these cards
 
 - [Proving Grounds How to Play](https://uvsgames.com/wp-content/uploads/2025/11/OGS-ProvingGrounds-HowtoPlay-EN.pdf), “Setting up the Game.” The diagrams adapt the starter mat layout.
 - [Riot Games, Core Rules][core] — updated October 9, 2026; checked November 9, 2026.
-  - Card categories and deck groups: 133.4–133.7. Base and battlefield placement: 107.1–107.2.
-  - Units, gear, and Equipment: 140–152, especially 150; battlefield control: 190.4; combat: 461–468.
-  - Spells and Trash: 157–158, 108.2.
-  - Runes and resources: 161–163.
-  - Battlefields and scoring: 170, 471–473.
-  - Legends and their abilities: 174; Champion Legend and Chosen Champion: 103.2–103.3.a, 108.3, 176.1.
+  - Card categories and deck groups: [133.4](/reference/core-rules#rule-133-4)–[133.7](/reference/core-rules#rule-133-7). Base and battlefield placement: [107.1](/reference/core-rules#rule-107-1)–[107.2](/reference/core-rules#rule-107-2).
+  - Units, gear, and Equipment: [140](/reference/core-rules#rule-140)–[152](/reference/core-rules#rule-152), especially [150](/reference/core-rules#rule-150); battlefield control: [190.4](/reference/core-rules#rule-190-4); combat: [461](/reference/core-rules#rule-461)–[468](/reference/core-rules#rule-468).
+  - Spells and Trash: [157](/reference/core-rules#rule-157)–[158](/reference/core-rules#rule-158), [108.2](/reference/core-rules#rule-108-2).
+  - Runes and resources: [161](/reference/core-rules#rule-161)–[163](/reference/core-rules#rule-163).
+  - Battlefields and scoring: [170](/reference/core-rules#rule-170), [471](/reference/core-rules#rule-471)–[473](/reference/core-rules#rule-473).
+  - Legends and their abilities: [174](/reference/core-rules#rule-174); Champion Legend and Chosen Champion: [103.2](/reference/core-rules#rule-103-2)–[103.3.a](/reference/core-rules#rule-103-3-a), [108.3](/reference/core-rules#rule-108-3), [176.1](/reference/core-rules#rule-176-1).
 - [Official Rules Hub](https://playriftbound.com/en-us/rules-hub/) — checked for the current Core Rules on November 9, 2026.
 - [Radiance patch notes](https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/) — effective October 16, 2026; and [Radiance Rules FAQ](https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/) — October 26, 2026. Checked November 9, 2026; this introduction uses ordinary card roles, not their special card interactions.
 
 </details>
 
-[core]: https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf
+[core]: /reference/core-rules

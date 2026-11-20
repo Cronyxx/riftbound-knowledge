@@ -36,10 +36,10 @@ Next lesson is [Scoring and winning](/basics/scoring).
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Combat, the showdown, and attacker and defender roles: 316.7, 461–466.
-  - Current Might, damage, and when a unit is killed: 142.4, 143.2, 467.1–467.2, and 323.4.
-  - Healing, recall, control, and conquering: 456–458, 468.1, 468.5, and 471.1.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Combat, the showdown, and attacker and defender roles: [316.7](/reference/core-rules#rule-316-7), [461](/reference/core-rules#rule-461)–[466](/reference/core-rules#rule-466).
+  - Current Might, damage, and when a unit is killed: [142.4](/reference/core-rules#rule-142-4), [143.2](/reference/core-rules#rule-143-2), [467.1](/reference/core-rules#rule-467-1)–[467.2](/reference/core-rules#rule-467-2), and [323.4](/reference/core-rules#rule-323-4).
+  - Healing, recall, control, and conquering: [456](/reference/core-rules#rule-456)–[458](/reference/core-rules#rule-458), [468.1](/reference/core-rules#rule-468-1), [468.5](/reference/core-rules#rule-468-5), and [471.1](/reference/core-rules#rule-471-1).
 - [Riot’s Rules Hub](https://playriftbound.com/en-us/rules-hub/) and [Radiance patch notes](https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/). Checked November 9, 2026.
 
 </details>

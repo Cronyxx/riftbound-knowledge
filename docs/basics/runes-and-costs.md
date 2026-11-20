@@ -48,11 +48,11 @@ Next lesson is [Game setup](/basics/game-setup).
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Cost symbols, Energy, Power, and Basic Rune abilities: 131, 162–164.2.
-  - Starting the turn and channeling: 315.1 and 431.
-  - Paying Energy and Power: 357.1 and 445.2.
-  - Exhausting, readying, and recycling: 415–417.1.b.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Cost symbols, Energy, Power, and Basic Rune abilities: [131](/reference/core-rules#rule-131), [162](/reference/core-rules#rule-162)–[164.2](/reference/core-rules#rule-164-2).
+  - Starting the turn and channeling: [315.1](/reference/core-rules#rule-315-1) and [431](/reference/core-rules#rule-431).
+  - Paying Energy and Power: [357.1](/reference/core-rules#rule-357-1) and [445.2](/reference/core-rules#rule-445-2).
+  - Exhausting, readying, and recycling: [415](/reference/core-rules#rule-415)–[417.1.b](/reference/core-rules#rule-417-1-b).
 - [Riot’s Card Gallery](https://playriftbound.com/en-us/card-gallery/), Garen, Commander (OGS-013/024) and Order Rune. [Rules Hub](https://playriftbound.com/en-us/rules-hub/) and [Radiance Rules FAQ](https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/) checked November 9, 2026.
 
 </details>

@@ -20,7 +20,7 @@ Assume no other effects alter movement or costs, and all spells and abilities ar
 
 **Situation:** Your Angler Wyrm is at the battlefield with your Gravity Field. Its activated ability instructs your opponent to move their unit there.
 
-**Answer:** The opponent performs this move, so Gravity Field's cost applies to them. If they decline or cannot pay, their unit does not move. Compare the actor named by the instruction with the Charm case. ([Radiance FAQ][faq], Angler Wyrm/Gravity Field question; rules 204.4 and 412.2 as cited by Riot.)
+**Answer:** The opponent performs this move, so Gravity Field's cost applies to them. If they decline or cannot pay, their unit does not move. Compare the actor named by the instruction with the Charm case. ([Radiance FAQ][faq], Angler Wyrm/Gravity Field question; rules [204.4](/reference/core-rules#rule-204-4) and [412.2](/reference/core-rules#rule-412-2) as cited by Riot.)
 
 ## Runeblade Anvil: when does permission expire?
 
@@ -38,7 +38,7 @@ Write down whose turn it is, locations, controllers, the action's performer, tar
 
 [Previous: Combat and scoring edge cases](/advanced/combat-and-scoring) · [Advanced Rules learning path](/advanced/)
 
-[core]: https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf
+[core]: /reference/core-rules
 [hub]: https://playriftbound.com/en-us/rules-hub/
 [faq]: https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/
 [errata]: https://playriftbound.com/en-us/news/announcements/radiance-errata-updates/

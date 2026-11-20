@@ -37,11 +37,11 @@ Next lesson is [Your first game](/basics/first-game).
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Holding during the Beginning Phase: 315.2.b.
-  - Conquering, holding, and the scoring limit: 471–473.
-  - Final-point rule and its scope: 473.1.a–473.1.b.
-  - Winning and the Duel’s Victory Score: 194.2, 474, and 487.3.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Holding during the Beginning Phase: [315.2.b](/reference/core-rules#rule-315-2-b).
+  - Conquering, holding, and the scoring limit: [471](/reference/core-rules#rule-471)–[473](/reference/core-rules#rule-473).
+  - Final-point rule and its scope: [473.1.a](/reference/core-rules#rule-473-1-a)–[473.1.b](/reference/core-rules#rule-473-1-b).
+  - Winning and the Duel’s Victory Score: [194.2](/reference/core-rules#rule-194-2), [474](/reference/core-rules#rule-474), and [487.3](/reference/core-rules#rule-487-3).
 - [Riot’s Rules Hub](https://playriftbound.com/en-us/rules-hub/) and [Radiance patch notes](https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/). Checked November 9, 2026.
 
 </details>

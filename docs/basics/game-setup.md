@@ -42,10 +42,10 @@ Next lesson is [A turn, step by step](/basics/turn-structure).
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Champion cards, separate decks, first player, and starting hand: 110–116.
-  - Mulligan order and recycling: 117–118 and 417.5.
-  - Battlefields and second player’s extra rune for 1v1 (Duel): 487.4–487.7.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Champion cards, separate decks, first player, and starting hand: [110](/reference/core-rules#rule-110)–[116](/reference/core-rules#rule-116).
+  - Mulligan order and recycling: [117](/reference/core-rules#rule-117)–[118](/reference/core-rules#rule-118) and [417.5](/reference/core-rules#rule-417-5).
+  - Battlefields and second player’s extra rune for 1v1 (Duel): [487.4](/reference/core-rules#rule-487-4)–[487.7](/reference/core-rules#rule-487-7).
 - [Proving Grounds How to Play](https://uvsgames.com/wp-content/uploads/2025/11/OGS-ProvingGrounds-HowtoPlay-EN.pdf), “Parts of a Deck” and “Setting Up the Game,” pp. 4 and 7. Checked November 9, 2026 for starter components and layout.
 - [Riot’s Rules Hub](https://playriftbound.com/en-us/rules-hub/) and [Testing Start of Game Rules, October 15, 2026](https://playriftbound.com/en-us/news/organizedplay/testing-start-of-game-rules/). Checked November 9, 2026 for current rules and the scope of event playtests.
 

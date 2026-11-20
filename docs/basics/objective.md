@@ -58,11 +58,11 @@ Next lesson: [Meet the cards](/basics/meet-the-cards). See [Scoring and winning]
 <summary>Official references</summary>
 
 - [Proving Grounds How to Play](https://uvsgames.com/wp-content/uploads/2025/11/OGS-ProvingGrounds-HowtoPlay-EN.pdf), “Setting up the Game.” The diagrams adapt the starter mat layout.
-- [Riot Games, Core Rules][core] — updated October 9, 2026; winning goal: rules 194.2 and 487.3; battlefields: 487.4; play area: 107.1–107.2; moving and taking control: 144, 348.2; readying and holding: 315.1–315.2, 471–473; checked November 9, 2026.
+- [Riot Games, Core Rules][core] — updated October 9, 2026; winning goal: rules [194.2](/reference/core-rules#rule-194-2) and [487.3](/reference/core-rules#rule-487-3); battlefields: [487.4](/reference/core-rules#rule-487-4); play area: [107.1](/reference/core-rules#rule-107-1)–[107.2](/reference/core-rules#rule-107-2); moving and taking control: [144](/reference/core-rules#rule-144), [348.2](/reference/core-rules#rule-348-2); readying and holding: [315.1](/reference/core-rules#rule-315-1)–[315.2](/reference/core-rules#rule-315-2), [471](/reference/core-rules#rule-471)–[473](/reference/core-rules#rule-473); checked November 9, 2026.
 - [Official Rules Hub](https://playriftbound.com/en-us/rules-hub/) — current document link checked November 9, 2026.
 - [Radiance patch notes](https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/) — effective October 16, 2026; checked for relevant updates November 9, 2026.
 - [Radiance Rules FAQ and Clarifications](https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/) — published October 26, 2026; checked for relevant clarifications November 9, 2026. No named-card interaction is used in this lesson.
 
 </details>
 
-[core]: https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf
+[core]: /reference/core-rules

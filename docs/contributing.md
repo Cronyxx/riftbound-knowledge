@@ -47,9 +47,14 @@ When verified, explain the answer. After user review and approval, change the st
 
 ## Editorial checks
 
+- Link Core Rules numbers to the [official rulebook reference](/reference/core-rules), for example `[359.3.e.5](/reference/core-rules#rule-359-3-e-5)`. Link both endpoints of a range. Keep the edition and article review date with the citation; the reference page retains the official PDF URL.
 - Use current official sources and cite the specific section that supports the explanation.
 - Distinguish a card’s printed text from any updated text.
 - Write explanations in your own words; keep direct quotations brief.
 - Make uncertain points explicit instead of presenting them as established rules.
 - Recheck affected notes when rules or errata change.
 - Use descriptive link labels and headings so search results are useful.
+
+## Maintaining the rulebook index
+
+Check the live Rules Hub before updating the reference. Download the official PDF, update the source URL, version, and index review date in `docs/reference/core-rules.json`, then run `python3 scripts/index-rulebook.py /path/to/official-core-rules.pdf` in an environment with `pypdf`. The script records a SHA-256 checksum, PDF page count, and rule-to-page mapping and regenerates the anchor include without copying the rule text. Verify representative page mappings and existing citations before building. Do not silently relabel an older article as checked against a newer edition.

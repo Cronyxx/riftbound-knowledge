@@ -41,11 +41,11 @@ Next lesson is [Your first combat](/basics/combat).
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Standard Move, routes, and the cost to move: 144 and 415.
-  - Establishing and maintaining control: 190.3–190.4.
-  - Showdowns, empty battlefields, and combat: 316.7–316.8 and 344–348.
-  - Conquering and the example point: 471.1–473.1.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Standard Move, routes, and the cost to move: [144](/reference/core-rules#rule-144) and [415](/reference/core-rules#rule-415).
+  - Establishing and maintaining control: [190.3](/reference/core-rules#rule-190-3)–[190.4](/reference/core-rules#rule-190-4).
+  - Showdowns, empty battlefields, and combat: [316.7](/reference/core-rules#rule-316-7)–[316.8](/reference/core-rules#rule-316-8) and [344](/reference/core-rules#rule-344)–[348](/reference/core-rules#rule-348).
+  - Conquering and the example point: [471.1](/reference/core-rules#rule-471-1)–[473.1](/reference/core-rules#rule-473-1).
 - [Riot’s Rules Hub](https://playriftbound.com/en-us/rules-hub/) and [Radiance Rules FAQ](https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/). Checked November 9, 2026 for the current Core Rules and Standard Move clarifications.
 
 </details>

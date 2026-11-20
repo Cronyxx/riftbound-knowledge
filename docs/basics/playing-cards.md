@@ -43,11 +43,11 @@ Next lesson is [Movement and battlefields](/basics/movement).
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Playing cards and choosing locations or targets before paying: 349–350, 355.2, 355.5–355.9, and 357.
-  - Chosen Champion: 108.3.d.
-  - Unit, gear, and spell placement: 143.4, 149.1–149.2, 157–158, and 351.
-  - Activated abilities and adding resources: 151.1, 376, 415.5, and 430.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Playing cards and choosing locations or targets before paying: [349](/reference/core-rules#rule-349)–[350](/reference/core-rules#rule-350), [355.2](/reference/core-rules#rule-355-2), [355.5](/reference/core-rules#rule-355-5)–[355.9](/reference/core-rules#rule-355-9), and [357](/reference/core-rules#rule-357).
+  - Chosen Champion: [108.3.d](/reference/core-rules#rule-108-3-d).
+  - Unit, gear, and spell placement: [143.4](/reference/core-rules#rule-143-4), [149.1](/reference/core-rules#rule-149-1)–[149.2](/reference/core-rules#rule-149-2), [157](/reference/core-rules#rule-157)–[158](/reference/core-rules#rule-158), and [351](/reference/core-rules#rule-351).
+  - Activated abilities and adding resources: [151.1](/reference/core-rules#rule-151-1), [376](/reference/core-rules#rule-376), [415.5](/reference/core-rules#rule-415-5), and [430](/reference/core-rules#rule-430).
 - [Riot’s Card Gallery](https://playriftbound.com/en-us/card-gallery/), Daring Poro (OGN-210/298), Seal of Unity (OGN-245/298), and Falling Comet (OGN-085/298). [Rules Hub](https://playriftbound.com/en-us/rules-hub/) checked November 9, 2026.
 
 </details>

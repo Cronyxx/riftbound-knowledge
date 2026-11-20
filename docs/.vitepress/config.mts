@@ -11,6 +11,7 @@ export default defineConfig({
   lang: 'en-US',
   base,
   cleanUrls: false,
+  srcExclude: ['reference/rule-anchors.md'],
   lastUpdated: true,
   head: [['meta', { name: 'theme-color', content: '#133f3d' }]],
   themeConfig: {
@@ -21,6 +22,7 @@ export default defineConfig({
       { text: 'Meta Deck Studies', link: '/meta/' },
       { text: 'Resources', items: [
         { text: 'Start here', link: '/start-here' },
+        { text: 'Official rulebook', link: '/reference/core-rules' },
         { text: 'Official sources', link: '/sources' },
         { text: 'Writing a note', link: '/contributing' },
         { text: 'Site design & plan', link: '/site-design' }
@@ -73,6 +75,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Start here', link: '/start-here' },
+          { text: 'Official rulebook', link: '/reference/core-rules' },
           { text: 'Official sources', link: '/sources' },
           { text: 'Writing a note', link: '/contributing' },
           { text: 'Site design & plan', link: '/site-design' }

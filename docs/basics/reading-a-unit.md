@@ -42,11 +42,11 @@ Next lesson is [Domains](/basics/domains).
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Cost, full card name, and type: 131–133.
-  - Rules text and flavor text: 135 and 138.
-  - Printed and current Might, lethal damage, and combat damage: 142.4, 143.2, and 467.2.
-  - Meaning of “here,” locations, and Might changes: 053.3–053.4, 146.1, and 479.4. For Garen’s text, see his printed card and the official FAQ example below.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Cost, full card name, and type: [131](/reference/core-rules#rule-131)–[133](/reference/core-rules#rule-133).
+  - Rules text and flavor text: [135](/reference/core-rules#rule-135) and [138](/reference/core-rules#rule-138).
+  - Printed and current Might, lethal damage, and combat damage: [142.4](/reference/core-rules#rule-142-4), [143.2](/reference/core-rules#rule-143-2), and [467.2](/reference/core-rules#rule-467-2).
+  - Meaning of “here,” locations, and Might changes: [053.3](/reference/core-rules#rule-053-3)–[053.4](/reference/core-rules#rule-053-4), [146.1](/reference/core-rules#rule-146-1), and [479.4](/reference/core-rules#rule-479-4). For Garen’s text, see his printed card and the official FAQ example below.
 - [Riot’s Card Gallery](https://playriftbound.com/en-us/card-gallery/) and [Origins FAQ](https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-faq/), the question about Garen, Commander and a Recruit. Checked November 9, 2026.
 - [Riot’s Rules Hub](https://playriftbound.com/en-us/rules-hub/). Checked for the current Core Rules and relevant updates November 9, 2026.
 

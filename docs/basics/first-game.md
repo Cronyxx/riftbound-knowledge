@@ -54,11 +54,11 @@ Next lesson is [Build your first deck](/basics/build-your-first-deck).
 <details>
 <summary>Official references</summary>
 
-- [Riftbound Core Rules, October 9, 2026](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf). Checked November 9, 2026.
-  - Opening hand, turn order, and the second player’s extra rune: 110–118 and 487.7.
-  - Basic Runes, turn phases, and paying costs: 164.2, 315–317, and 357.1.
-  - Playing and moving units, showdown, and combat: 143.4, 144, 348, 355.2.a, and 466–468.
-  - Scoring and victory: 471–474 and 487.3.
+- [Riftbound Core Rules, October 9, 2026](/reference/core-rules). Checked November 9, 2026.
+  - Opening hand, turn order, and the second player’s extra rune: [110](/reference/core-rules#rule-110)–[118](/reference/core-rules#rule-118) and [487.7](/reference/core-rules#rule-487-7).
+  - Basic Runes, turn phases, and paying costs: [164.2](/reference/core-rules#rule-164-2), [315](/reference/core-rules#rule-315)–[317](/reference/core-rules#rule-317), and [357.1](/reference/core-rules#rule-357-1).
+  - Playing and moving units, showdown, and combat: [143.4](/reference/core-rules#rule-143-4), [144](/reference/core-rules#rule-144), [348](/reference/core-rules#rule-348), [355.2.a](/reference/core-rules#rule-355-2-a), and [466](/reference/core-rules#rule-466)–[468](/reference/core-rules#rule-468).
+  - Scoring and victory: [471](/reference/core-rules#rule-471)–[474](/reference/core-rules#rule-474) and [487.3](/reference/core-rules#rule-487-3).
 - [Proving Grounds How to Play](https://uvsgames.com/wp-content/uploads/2025/11/OGS-ProvingGrounds-HowtoPlay-EN.pdf), “Setting Up the Game” and “Meet Your Legends.” Checked November 9, 2026 for the starter layout and both deck lists.
 - [Riot’s Card Gallery](https://playriftbound.com/en-us/card-gallery/) and [Rules Hub](https://playriftbound.com/en-us/rules-hub/). Checked November 9, 2026. The named unit printings are Daring Poro (OGN-210/298) and Garen, Commander (OGS-013/024).
 

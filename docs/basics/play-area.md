@@ -43,13 +43,13 @@ Next lesson is [Reading a unit: Might and card text](/basics/reading-a-unit).
 <summary>Official references</summary>
 
 - [Riftbound Core Rules, October 9, 2026][core]. Checked November 9, 2026.
-  - Zones, bases, battlefields, and Legend Zone: 106, 107.1–107.2, 107.4.
-  - Trash, Champion Zone, decks, hand, and visible cards: 108.2–108.5, 108.7, 109.1.
-  - Drawing, playing to base, moving, and killed units: 414, 355.2.a, 144.4.a, 429.1.
-  - Runes entering the base and Duel battlefields: 431, 487.4.
+  - Zones, bases, battlefields, and Legend Zone: [106](/reference/core-rules#rule-106), [107.1](/reference/core-rules#rule-107-1)–[107.2](/reference/core-rules#rule-107-2), [107.4](/reference/core-rules#rule-107-4).
+  - Trash, Champion Zone, decks, hand, and visible cards: [108.2](/reference/core-rules#rule-108-2)–[108.5](/reference/core-rules#rule-108-5), [108.7](/reference/core-rules#rule-108-7), [109.1](/reference/core-rules#rule-109-1).
+  - Drawing, playing to base, moving, and killed units: [414](/reference/core-rules#rule-414), [355.2.a](/reference/core-rules#rule-355-2-a), [144.4.a](/reference/core-rules#rule-144-4-a), [429.1](/reference/core-rules#rule-429-1).
+  - Runes entering the base and Duel battlefields: [431](/reference/core-rules#rule-431), [487.4](/reference/core-rules#rule-487-4).
 - [Proving Grounds How to Play](https://uvsgames.com/wp-content/uploads/2025/11/OGS-ProvingGrounds-HowtoPlay-EN.pdf), “Setting Up the Game,” p. 7. Reference for the mat illustration, checked November 9, 2026.
 - [Riot’s Rules Hub](https://playriftbound.com/en-us/rules-hub/), [Radiance patch notes](https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/), and [Radiance Rules FAQ](https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/). Checked for relevant updates November 9, 2026.
 
 </details>
 
-[core]: https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf
+[core]: /reference/core-rules

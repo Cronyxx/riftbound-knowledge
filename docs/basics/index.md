@@ -37,6 +37,6 @@ Each lesson teaches a simple concept using accurate game terms. Define each new 
 
 ## Rules references
 
-Use the current [Core Rules via Riot’s Rules Hub](https://playriftbound.com/en-us/rules-hub/), alongside applicable patch notes and errata. The hub was checked on November 9, 2026 and listed Core Rules last updated October 9, 2026. Each lesson lists the rules it uses in its expandable reference note.
+Use the [official rulebook reference](/reference/core-rules), alongside applicable patch notes and errata from [Riot’s Rules Hub](https://playriftbound.com/en-us/rules-hub/). The hub was checked on November 9, 2026 and listed Core Rules last updated October 9, 2026. Each lesson links the specific rules it uses in its expandable reference note.
 
 See the [approval and sourcing process](/site-design#approval-process).

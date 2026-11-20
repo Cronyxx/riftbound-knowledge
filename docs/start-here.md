@@ -25,4 +25,4 @@ All 14 Basics lessons are approved sourced notes. The [Basics learning path](/ba
 
 Community explanations do not become official rulings through these labels. Check document versions and errata before relying on a note; at an organized event, ask the event’s judge about unresolved situations.
 
-Use local search to find published content. For sources and writing guidance, see [Official sources](/sources), [Writing a note](/contributing), and the persistent [site design and content plan](/site-design).
+Use local search to find published content. Look up exact rule numbers in the [official rulebook reference](/reference/core-rules). For sources and writing guidance, see [Official sources](/sources), [Writing a note](/contributing), and the persistent [site design and content plan](/site-design).

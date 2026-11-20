@@ -33,7 +33,7 @@ The user selected this mechanics and official-FAQ batch on November 14, 2026. It
 
 ## Rules references
 
-The batch uses Core Rules updated October 9, 2026, Radiance patch notes effective October 16, relevant errata, and the Radiance FAQ published October 26. The [Rules Hub](https://playriftbound.com/en-us/rules-hub/) was checked November 14, 2026. Exact references appear beside explanations, with a source record on each article. See the [sources guide](/sources) for the sourcing process.
+The batch uses [Core Rules updated October 9, 2026](/reference/core-rules), Radiance patch notes effective October 16, relevant errata, and the Radiance FAQ published October 26. The [Rules Hub](https://playriftbound.com/en-us/rules-hub/) was checked November 14, 2026. Exact references link to individual rules beside explanations, with a source record on each article. See the [sources guide](/sources) for the sourcing process.
 
 The expanded cleanup and layers article was rechecked November 15, 2026. Each article records its own source review date.
 
