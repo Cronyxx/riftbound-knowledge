@@ -1,6 +1,6 @@
 # Meta Deck Studies
 
-Study how competitive decks work: what they try to achieve, which cards enable the plan, and how decisions change across matchups. This section applies the concepts from [Basics](/basics/) and [Advanced Rules](/advanced/).
+Study how competitive decks work: what they try to achieve, which cards enable the plan, and how decisions change across matchups. This section applies the concepts from [Basics](/basics/), [Advanced Rules](/advanced/), and [Mechanics](/mechanics/).
 
 ::: info Awaiting approval
 No decks have been selected, ranked, or recommended yet. The outline below describes the proposed study format. Deck selection and the relevant format, region, and time period need approval before research and drafting.

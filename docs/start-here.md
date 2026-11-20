@@ -1,18 +1,19 @@
 # Start here
 
-Riftbound Notes is organized into three learning sections. Begin with the basics, follow rules questions into advanced topics, then apply that understanding to deck studies.
+Riftbound Notes is organized into four learning sections. Begin with the basics, follow rules questions into advanced topics, explore individual mechanics, then apply that understanding to deck studies.
 
 | Section | Who it is for | Planned coverage |
 | --- | --- | --- |
 | [01 · Basics](/basics/) | New players and anyone revisiting fundamentals | Goal and game pieces → resources → setup and turns → combat and scoring → a first game → deckbuilding. |
 | [02 · Advanced Rules](/advanced/) | Players investigating timing or tricky situations | Chains and resolution → timing and choices → triggers and cleanup → mechanics → combat and scoring edge cases → special interactions. |
-| [03 · Meta Deck Studies](/meta/) | Players learning competitive deck plans | Deck goals → dated lists and key cards → opening decisions and play patterns → matchups and practice. |
+| [03 · Mechanics](/mechanics/) | Players looking up an individual mechanic | Procedure → worked examples → edge cases → dated rules changes and card errata. |
+| [04 · Meta Deck Studies](/meta/) | Players learning competitive deck plans | Deck goals → dated lists and key cards → opening decisions and play patterns → matchups and practice. |
 
 ## Current stage
 
 All 14 Basics lessons are approved sourced notes. The [Basics learning path](/basics/) lists each lesson in order. The eight introductory [Advanced Rules articles](/advanced/) are published as **Draft — awaiting review**, with sources checked November 14, 2026. Meta Deck Studies awaits drafting approval.
 
-The [Mechanics studies subsection](/advanced/mechanics/) within Advanced Rules adds individual mechanic references. Its first study, [Hidden](/advanced/mechanics/hidden), covers procedures, examples, edge cases, and dated rules changes and card errata. It is **Draft — awaiting review**, with sources checked November 20, 2026.
+The [Mechanics section](/mechanics/) contains individual mechanic references. Its first study, [Hidden](/mechanics/hidden), covers procedures, examples, edge cases, and dated rules changes and card errata. It is **Draft — awaiting review**, with sources checked November 20, 2026.
 
 ## Status labels
 

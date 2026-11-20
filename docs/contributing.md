@@ -4,7 +4,7 @@ The site is written in Markdown. Each page should answer one clear question and 
 
 ## Add a page
 
-1. Create a `.md` file under `docs/basics/`, `docs/advanced/`, or `docs/meta/`, according to the approved topic.
+1. Create a `.md` file under `docs/basics/`, `docs/advanced/`, `docs/mechanics/`, or `docs/meta/`, according to the approved topic.
 2. Copy the template below and fill in the context you know.
 3. Link to the page from the relevant index. Add it to `themeConfig.sidebar` in `docs/.vitepress/config.mts` so readers can find it in its section.
 4. Preview the site with `npm run docs:dev` and check the production build with `npm run docs:build`.
@@ -12,7 +12,7 @@ The site is written in Markdown. Each page should answer one clear question and 
 
 For deck studies, use the [deck-study outline](./meta/index.md#proposed-deck-study-format) and distinguish strategic analysis from rules explanations.
 
-For an approved individual mechanic, use `docs/advanced/mechanics/<mechanic>.md` and the [Mechanics studies format](/advanced/mechanics/#what-each-study-contains). Explain the procedure, a worked example, edge cases, dated mechanic-wide changes, and separately identified card errata. Link exact local rulebook anchors beside the explanations and the relevant official update section beside each historical claim. Record the edition and review date; mark the new study Draft — awaiting review. Add it to the mechanic directory and nested sidebar group.
+For an approved individual mechanic, use `docs/mechanics/<mechanic>.md` and the [Mechanics study format](/mechanics/#what-each-study-contains). Explain the procedure, a worked example, edge cases, dated mechanic-wide changes, and separately identified card errata. Link exact local rulebook anchors beside the explanations and the relevant official update section beside each historical claim. Record the edition and review date; mark the new study Draft — awaiting review. Add it to the mechanic directory and the Mechanics sidebar group.
 
 ## Beginner lessons
 

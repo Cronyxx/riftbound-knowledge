@@ -2,34 +2,36 @@
 
 **Design recorded:** November 9, 2026
 
-**Current stage:** All 14 Basics lessons are approved sourced notes. The eight introductory Advanced Rules articles are published as **Draft — awaiting review**, following authorization on November 14, 2026. On November 20, the user requested a section for individual mechanics, starting with Hidden, explaining procedures, edge cases, and errata. The Mechanics studies subsection within Advanced Rules now contains a Hidden study marked **Draft — awaiting review**. Meta Deck Studies awaits drafting authorization.
+**Current stage:** All 14 Basics lessons are approved sourced notes. The eight introductory Advanced Rules articles are published as **Draft — awaiting review**, following authorization on November 14, 2026. The user authorized individual mechanics studies beginning with Hidden on November 20, then requested that Mechanics become its own primary section on November 21, 2026. Hidden remains **Draft — awaiting review**. Meta Deck Studies awaits drafting authorization.
 
 ## Permanent information architecture
 
-The primary site has exactly three learning sections, in this order:
+The primary site has four learning sections, in this order, following the user’s November 21, 2026 revision:
 
 | Section | Canonical route | Purpose |
 | --- | --- | --- |
 | Basics | `/basics/` | A guided first game: objective, cards, play area, Might, domains, resources and costs, setup, turns, actions, movement, combat, scoring, a walkthrough, then deckbuilding. |
 | Advanced Rules | `/advanced/` | Chains and resolution, timing and reactions, costs and choices, triggers, effects and cleanup, mechanics and keywords, combat edge cases, then combined interactions. |
+| Mechanics | `/mechanics/` | Individual mechanic references: how each works, worked examples, edge cases, dated rules changes, and card errata. |
 | Meta Deck Studies | `/meta/` | Evidence-based studies of competitive decks and how to pilot them. |
 
-Each section index is the authoritative proposed topic list. The homepage presents these three sections; the navigation and sidebar follow the same order. Start here, the official rulebook reference, sources, contributing, and this plan are supporting pages, not additional learning sections.
+Each section index is the authoritative proposed topic list. The homepage presents these four sections; the navigation and sidebar follow the same order. Start here, the official rulebook reference, sources, contributing, and this plan are supporting pages, not additional learning sections.
 
 Sidebar groups are collapsible and start expanded. Readers can toggle each section heading to hide or show its links.
 
-Future articles live under `docs/basics/<topic>.md`, `docs/advanced/<topic>.md`, or `docs/meta/<deck-or-topic>.md`. Add real article links to both the section index and sidebar when creating them. Use descriptive, stable filenames. Until then, topic rows remain plain text with their status; do not link to nonexistent pages.
+Future articles live under `docs/basics/<topic>.md`, `docs/advanced/<topic>.md`, `docs/mechanics/<mechanic>.md`, or `docs/meta/<deck-or-topic>.md`. Add real article links to both the section index and sidebar when creating them. Use descriptive, stable filenames. Until then, topic rows remain plain text with their status; do not link to nonexistent pages.
 
-Preserve existing `/rules/` and `/interactions/` URLs as supporting research checklists. Move their material into the appropriate section only as approved articles are written, keeping a useful pointer at an old URL if its content moves. Do not create a fourth primary section.
+Preserve existing `/rules/` and `/interactions/` URLs as supporting research checklists. Move their material into the appropriate section only as approved articles are written, keeping a useful pointer at an old URL if its content moves. Supporting pages are not additional primary learning sections.
 
-**Mechanics studies, requested November 20, 2026:** `/advanced/mechanics/` is a dedicated subsection within Advanced Rules, with its own mechanic directory and a collapsible sidebar group nested under Advanced Rules. Individual studies live at `/advanced/mechanics/<mechanic>`. Keep the three primary sections and their order. The original `/advanced/mechanics-and-keywords` overview remains useful and links to the deeper studies. The initial authorized study is Hidden; do not treat the new directory as authorization to fill every mechanic. Each study explains the current procedure, a worked example, edge cases, dated changes to the mechanic, and separately identified card errata. Preserve exact local rulebook anchors, official update URLs, document editions, and the study’s own review date. Distinguish publication dates from effective dates where provided, and mark selected change histories as non-exhaustive.
+**Mechanics, promoted November 21, 2026:** The user explicitly requested a primary section alongside Basics, Advanced Rules, and Meta Deck Studies. This replaces the original three-section layout and the November 20 placement within Advanced Rules. The canonical directory is `/mechanics/`, with studies at `/mechanics/<mechanic>`, its own navigation item, homepage card, and collapsible top-level sidebar group. Preserve `/advanced/mechanics/` and `/advanced/mechanics/hidden` as redirect pages that retain query strings and fragments, with readable links when JavaScript is unavailable. The original `/advanced/mechanics-and-keywords` overview remains in the Advanced Rules learning path and links to the independent Mechanics section. Hidden is the initial authorized study; moving the directory does not authorize filling every mechanic. Each study explains the current procedure, a worked example, edge cases, dated changes to the mechanic, and separately identified card errata. Preserve exact local rulebook anchors, official update URLs, document editions, and the study’s own review date. Distinguish publication dates from effective dates where provided, and mark selected change histories as non-exhaustive.
 
 ## Learning order
 
-The three overall groups are approved. Within each group, teach prerequisites before concepts that depend on them. The section indexes record the exact order.
+The four overall groups are approved. Within each group, teach prerequisites before concepts that depend on them. The section indexes record the exact order.
 
 - **Basics:** orient the reader with the goal, cards, and play area; introduce Might, domains, and resources; use a prepared deck for setup and turn flow; explain actions, movement, combat, and scoring; complete a guided game before asking the reader to build a deck. Introduce the objective briefly at the start and practice ordinary scoring after combat; reserve exact timing and scoring exceptions for Advanced Rules. Keep each lesson focused on one small concept.
 - **Advanced Rules:** continue from the final Basics lesson with chains, finalization, and resolution; then explain timing and reaction opportunities, costs and choices, triggers, and effects and cleanup. Apply those foundations to mechanics and keywords before revisiting combat and scoring edge cases and finishing with special card interactions. The opening chain article introduces the minimal response vocabulary it needs; detailed timing follows in the next article. This order was requested November 14, 2026. Keep the index, sidebar, and previous/next links in this sequence, with a direct link from the final Basics lesson.
+- **Mechanics:** let readers choose the mechanic they need. Link to relevant Advanced Rules foundations before detailed procedures and edge cases, then distinguish current behavior from historical rules changes and card errata.
 - **Meta Deck Studies:** establish the competitive context, then let readers choose a study. In each study, explain the deck’s goal before its full list, then connect key cards to opening decisions, play patterns, matchup adjustments, and practice.
 
 This is an editorial learning sequence, not a claim about the order of procedures in the official rulebook. Every eventual gameplay procedure must still follow the current official rules.
@@ -42,7 +44,7 @@ These requirements apply to all Basics lessons:
 - Use accurate game terms and define them in plain language at first mention. Do not rely on vocabulary that appears only in a future lesson. Avoid introducing a technical term merely to explain another technical term.
 - Retain useful official vocabulary such as Conquer, Hold, and Victory Score alongside simple explanations. Simplify the concept rather than replacing accurate terms with vague substitutes.
 - Explain the normal pattern without implying it has no exceptions. State an introductory goal as a goal rather than an exhaustive victory procedure.
-- Teach the normal rule and simple limits needed to make the example accurate, such as scoring a battlefield once per turn. Reserve exact timing procedures, cleanup, final-point restrictions, and unusual interactions for Advanced Rules.
+- Teach the normal rule and simple limits needed to make the example accurate, such as scoring a battlefield once per turn. Reserve exact timing procedures, cleanup, final-point restrictions, and unusual interactions for Advanced Rules or the relevant Mechanics study.
 - Preserve exact official references, versions, and review dates in an expandable reference note. Beginners should be able to read the lesson without reading rule numbers or source metadata.
 - Add simple diagrams where they clarify the concept. Use the same defined terms as the lesson, descriptive alt text, legible labels, and the existing site colors. Use realistic table layouts and card positions when they help teach gameplay. Clearly label partial layouts and example assumptions; keep diagrams consistent with cited rules.
 - Do not pad each lesson with mandatory FAQs, multiple examples, or exceptions. Add them only when they help the immediate concept.
@@ -51,7 +53,7 @@ Objective of the game introduces Victory Score, battlefields, Conquer, Hold, and
 
 ## Approval process
 
-1. Keep the approved three-section grouping. Present revisions to topic outlines as needed; the Basics learning path now includes all 14 planned lessons.
+1. Keep the approved four-section grouping. Present revisions to topic outlines as needed; the Basics learning path now includes all 14 planned lessons.
 2. Await explicit user approval for a named topic or a small, named batch before drafting detailed explanations or deck studies. Do not interpret approval of the layout as approval to fill every topic.
 3. After drafting is authorized, verify sources, write the article, and label it **Draft — awaiting review**. Make clear to readers that a draft is still under review.
 4. Await user review before marking an article **Sourced note** or **Reviewed study**. Apply requested revisions within the approved scope.

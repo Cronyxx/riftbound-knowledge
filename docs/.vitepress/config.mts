@@ -7,7 +7,7 @@ const repositoryUrl = repository ? `https://github.com/${repository}` : undefine
 
 export default defineConfig({
   title: 'Riftbound Notes',
-  description: 'Learn Riftbound basics, understand advanced rules, and study competitive decks.',
+  description: 'Learn Riftbound basics, understand advanced rules, explore mechanics, and study competitive decks.',
   lang: 'en-US',
   base,
   cleanUrls: false,
@@ -19,6 +19,7 @@ export default defineConfig({
     nav: [
       { text: 'Basics', link: '/basics/' },
       { text: 'Advanced Rules', link: '/advanced/' },
+      { text: 'Mechanics', link: '/mechanics/' },
       { text: 'Meta Deck Studies', link: '/meta/' },
       { text: 'Resources', items: [
         { text: 'Start here', link: '/start-here' },
@@ -62,19 +63,19 @@ export default defineConfig({
           { text: 'Effects, exceptions, and cleanup', link: '/advanced/effects-and-cleanup' },
           { text: 'Mechanics and keywords', link: '/advanced/mechanics-and-keywords' },
           { text: 'Combat and scoring edge cases', link: '/advanced/combat-and-scoring' },
-          { text: 'Special card interactions', link: '/advanced/special-card-interactions' },
-          {
-            text: 'Mechanics studies',
-            collapsed: false,
-            items: [
-              { text: 'Mechanic directory', link: '/advanced/mechanics/' },
-              { text: 'Hidden', link: '/advanced/mechanics/hidden' }
-            ]
-          }
+          { text: 'Special card interactions', link: '/advanced/special-card-interactions' }
         ]
       },
       {
-        text: '03 · META DECK STUDIES',
+        text: '03 · MECHANICS',
+        collapsed: false,
+        items: [
+          { text: 'Mechanic directory', link: '/mechanics/' },
+          { text: 'Hidden', link: '/mechanics/hidden' }
+        ]
+      },
+      {
+        text: '04 · META DECK STUDIES',
         collapsed: false,
         items: [{ text: 'Overview & study format', link: '/meta/' }]
       },
