@@ -13,7 +13,7 @@ The homepage, navigation, and section indexes follow four paths:
 3. **Mechanics** — `docs/mechanics/`: individual mechanics, worked examples, edge cases, rules changes, and card errata.
 4. **Meta Deck Studies** — `docs/meta/`: dated deck studies and how to play them.
 
-All 14 lessons in the [Basics learning path](docs/basics/index.md) are approved sourced notes. The eight [Advanced Rules articles](docs/advanced/index.md) are published drafts awaiting review, with sources checked November 14, 2026. The [Mechanics directory](docs/mechanics/index.md) starts with the Hidden draft, checked November 20, 2026. Meta Deck Studies awaits drafting approval. Read [the persistent design plan](docs/site-design.md) for topic outlines, sourcing requirements, and incremental user approval. [AGENTS.md](AGENTS.md) directs future coding sessions to this plan.
+All 14 lessons in the [Basics learning path](docs/basics/index.md) are approved sourced notes. The eight [Advanced Rules articles](docs/advanced/index.md) are published drafts awaiting review, with sources checked November 21, 2026. The [Mechanics directory](docs/mechanics/index.md) starts with the Hidden draft, checked November 20, 2026. Meta Deck Studies awaits drafting approval. Read [the persistent design plan](docs/site-design.md) for topic outlines, sourcing requirements, and incremental user approval. [AGENTS.md](AGENTS.md) directs future coding sessions to this plan.
 
 ## Develop locally
 

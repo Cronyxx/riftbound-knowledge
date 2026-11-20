@@ -51,6 +51,12 @@ These requirements apply to all Basics lessons:
 
 Objective of the game introduces Victory Score, battlefields, Conquer, Hold, and Beginning Phase with immediate definitions and a conquer-then-hold example. Detailed victory checks and final-point exceptions remain in the Advanced Rules outline for later approved drafting.
 
+## Advanced writing rules
+
+Requested November 21, 2026: introduce technical terms before using them in procedures or examples. Explain what each new concept means and how it arises. The opening lesson must explain what a chain is and how playing a card or ability creates one before teaching its processing order.
+
+Keep the approved eight-article order. Give brief reminders and links for earlier prerequisites; do not depend on a later lesson or the reference pane to explain vocabulary. Distinguish similar words, including counter markers versus the Counter action, and ownership versus control. Keep the articles labeled Draft — awaiting review.
+
 ## Approval process
 
 1. Keep the approved four-section grouping. Present revisions to topic outlines as needed; the Basics learning path now includes all 14 planned lessons.

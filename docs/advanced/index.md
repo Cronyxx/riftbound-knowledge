@@ -1,9 +1,11 @@
 # Advanced Rules
 
-Understand why a sequence works, when players can act, and how to resolve unusual situations. This section builds on [Basics](/basics/). Continue from playing a first game and building a deck: learn how a play moves through the chain, when players can respond, and how those procedures explain more complex cards and combat.
+Understand why a sequence works, when players can act, and how to resolve unusual situations. This section builds on [Basics](/basics/).
+
+Continue from playing a first game and building a deck: learn what happens when you play a card, when players can respond, and how those procedures explain more complex cards and combat.
 
 ::: warning Eight articles · Draft — awaiting review
-This batch is published for review. It covers two-player Duel, starting with chains, finalization, and resolution, and ending with official FAQ cases. Sources checked November 14, 2026.
+This batch is published for review. It covers two-player Duel, starting with chains, finalization, and resolution, and ending with official FAQ cases. Sources and terminology checked November 21, 2026.
 :::
 
 Finished [Build your first deck](/basics/build-your-first-deck)? Continue with [Chains and resolution](/advanced/chains-and-resolution), then follow the articles in order. Basics teaches the ordinary play pattern; this path explains what happens when players respond or several effects interact.
@@ -12,7 +14,7 @@ Finished [Build your first deck](/basics/build-your-first-deck)? Continue with [
 
 | Order | Topic | What you’ll learn | Status |
 | --- | --- | --- | --- |
-| 1 | [Chains and resolution](/advanced/chains-and-resolution) | What finalization commits, what resolution carries out, reaction windows, and immediate entry of units and gear. | Draft — awaiting review |
+| 1 | [Chains and resolution](/advanced/chains-and-resolution) | What a chain is, how playing creates one, how preparation differs from carrying out a play, and when responses happen. | Draft — awaiting review |
 | 2 | [Timing and reaction opportunities](/advanced/timing-and-reactions) | Game states, Priority, Focus, and passing. | Draft — awaiting review |
 | 3 | [Costs, targets, and choices](/advanced/costs-targets-and-choices) | Payment order, choices made before responses, and changed targets. | Draft — awaiting review |
 | 4 | [Triggers](/advanced/triggers) | Conditions, processing, multiple triggers, and optional instructions. | Draft — awaiting review |
@@ -21,24 +23,36 @@ Finished [Build your first deck](/basics/build-your-first-deck)? Continue with [
 | 7 | [Combat and scoring edge cases](/advanced/combat-and-scoring) | Damage assignment, control, scoring limits, the final point, and victory checks. | Draft — awaiting review |
 | 8 | [Special card interactions](/advanced/special-card-interactions) | Gravity Field with Charm or Angler Wyrm, and Runeblade Anvil’s permission duration. | Draft — awaiting review |
 
+## Vocabulary along the way
+
+Each article introduces its technical terms before using them in a procedure. Later lessons give short reminders and link to the earlier explanation. Rule previews provide the exact wording alongside the teaching explanation.
+
 ## Why this order?
 
-The first three articles unpack playing a card: what happens, when you can respond, and which choices you commit. Triggers and cleanup then explain how the game processes further events. With those foundations in place, apply them to keywords, revisit combat and scoring, and finish with named card interactions.
+The first three articles unpack playing a card: what happens, when you can respond, and which choices you commit. Triggers and cleanup then explain how the game processes further events.
+
+With those foundations in place, apply them to keywords, revisit combat and scoring, and finish with named card interactions.
 
 ## Mechanics studies
 
-For individual mechanics, browse the separate [Mechanics section](/mechanics/). The first study, [Hidden](/mechanics/hidden), explains hiding versus playing, timing, costs, targeting and control edge cases, and dated rules changes and card errata. It is **Draft — awaiting review**, with sources checked November 20, 2026. Mechanics has its own directory and navigation; the eight-article learning sequence above remains the introductory Advanced Rules path.
+For individual mechanics, browse the separate [Mechanics section](/mechanics/). The first study, [Hidden](/mechanics/hidden), explains hiding versus playing, timing, costs, targeting and control edge cases, and dated rules changes and card errata.
+
+It is **Draft — awaiting review**, with sources checked November 20, 2026. Mechanics has its own directory and navigation; the eight-article learning sequence above remains the introductory Advanced Rules path.
 
 ## Article format
 
 Start with a precise question and enough game context to reproduce the situation. Explain each decision in order, cite the rules supporting it, and identify relevant card text and errata. Keep unresolved questions explicitly unresolved.
 
-The user selected the introductory mechanics and official-FAQ batch on November 14, 2026, then authorized individual mechanic studies beginning with Hidden on November 20. Mechanics became an independent primary section on November 21, 2026. Further mechanic studies and individual card cases will be selected before drafting.
+The user selected the introductory mechanics and official-FAQ batch on November 14, 2026, then authorized individual mechanic studies beginning with Hidden on November 20.
+
+Mechanics became an independent primary section on November 21, 2026. Further mechanic studies and individual card cases will be selected before drafting.
 
 ## Rules references
 
-The batch uses [Core Rules updated October 9, 2026](/reference/core-rules), Radiance patch notes effective October 16, relevant errata, and the Radiance FAQ published October 26. The [Rules Hub](https://playriftbound.com/en-us/rules-hub/) was checked November 14, 2026. Exact references link to individual rules beside explanations, with a source record on each article. See the [sources guide](/sources) for the sourcing process.
+The batch uses [Core Rules updated October 9, 2026](/reference/core-rules), Radiance patch notes effective October 16, relevant errata, and the Radiance FAQ published October 26. The [Rules Hub](https://playriftbound.com/en-us/rules-hub/) was checked November 21, 2026.
 
-The expanded cleanup and layers article was rechecked November 15, 2026. Each article records its own source review date.
+Exact references link to individual rules beside explanations, with a source record on each article. See the [sources guide](/sources) for the sourcing process.
+
+All eight articles received a terminology and prerequisite pass on November 21, 2026. Each article records its source review date.
 
 Existing [timing](/rules/timing), [combat](/rules/combat), and [interaction](/interactions/) research checklists remain available as supporting material.
