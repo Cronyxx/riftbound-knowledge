@@ -33,11 +33,21 @@
 .VPSidebar .group .title { letter-spacing: 0.07em; }
 .vp-doc h1 { font-family: Georgia, 'Times New Roman', serif; font-weight: 500; }
 
-/* Native hash navigation from the rule lookup must clear the fixed header. */
-.rulebook-anchors span {
-  display: block;
-  height: 0;
+/* Rule citations land on the text, clear the header, and highlight the rule. */
+.rule-entry {
+  padding: 1px 12px 1px calc(12px + var(--rule-depth, 0) * 12px);
+  margin: 8px 0;
+  border-left: 1px solid var(--vp-c-divider);
+  border-radius: 0 6px 6px 0;
   scroll-margin-top: calc(var(--vp-nav-height) + 24px);
+}
+.rule-entry:target { background: var(--vp-c-brand-soft); border-left: 3px solid var(--vp-c-brand-1); }
+.vp-doc .rule-entry p { margin: 10px 0; }
+.rule-number { font-variant-numeric: tabular-nums; font-weight: 650; }
+.vp-doc .rule-entry .rule-example { margin: 12px 0; padding: 1px 14px; background: var(--vp-c-bg-soft); font-size: .9375rem; }
+.rule-reference { font-style: italic; color: var(--vp-c-text-2); }
+@media (max-width: 640px) {
+  .rule-entry { padding-left: calc(8px + var(--rule-depth, 0) * 5px); padding-right: 8px; }
 }
 
 .card-examples {

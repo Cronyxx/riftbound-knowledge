@@ -1,13 +1,13 @@
 <script setup>
 import { computed, onMounted, onUnmounted, ref } from 'vue'
+import { withBase } from 'vitepress'
 import book from '../../../reference/core-rules.json'
 
 const selected = ref('000')
 const input = ref('')
 const error = ref('')
-const ready = ref(false)
 const page = computed(() => book.rules[selected.value])
-const pdfUrl = computed(() => `${book.url}#page=${page.value}`)
+const pdfUrl = computed(() => `${withBase(book.localPdf)}#page=${page.value}`)
 
 function readHash() {
   const hash = window.location.hash.slice(1)
@@ -28,20 +28,21 @@ function jump() {
     error.value = 'Enter a rule number from this edition, such as 312 or 359.3.e.5.'
     return
   }
-  window.location.hash = `rule-${rule.replaceAll('.', '-')}`
+  const id = `rule-${rule.replaceAll('.', '-')}`
+  window.location.hash = id
   readHash()
+  document.getElementById(id)?.scrollIntoView({ block: 'start' })
 }
 
 onMounted(() => {
   readHash()
-  ready.value = true
   window.addEventListener('hashchange', readHash)
 })
 onUnmounted(() => window.removeEventListener('hashchange', readHash))
 </script>
 
 <template>
-  <section class="rulebook-reader" aria-label="Official Core Rules reader">
+  <section class="rulebook-reader" aria-label="Rulebook lookup">
     <form @submit.prevent="jump" class="rule-jump">
       <label for="rule-number">Go to a rule</label>
       <div class="rule-jump-controls">
@@ -51,10 +52,9 @@ onUnmounted(() => window.removeEventListener('hashchange', readHash))
       <p id="rule-error" role="status">{{ error }}</p>
     </form>
     <p aria-live="polite"><strong>Rule {{ selected }}</strong> · PDF page {{ page }} of {{ book.pageCount }} · {{ book.version }}</p>
-    <p><a :href="pdfUrl" target="_blank" rel="noopener">Open this page in Riot’s official PDF ↗</a></p>
-    <p class="reader-help">The reader opens the page containing the rule. Find the exact rule number on that page. If the reader stays blank or your browser cannot display PDFs, use the link above.</p>
-    <iframe v-if="ready" :key="page" :src="pdfUrl" :title="`Official Core Rules, rule ${selected}, PDF page ${page}`" class="rulebook-pdf" />
-    <noscript><p>JavaScript is needed for the embedded reader and rule lookup. Use the official PDF links in the section index below.</p></noscript>
+    <p><a :href="pdfUrl" target="_blank" rel="noopener">Compare this rule with the source PDF ↗</a></p>
+    <p class="reader-help">Find rule jumps directly to the text below. Use your browser’s Find command to search the full rulebook.</p>
+    <noscript><p>The complete text and section links work without JavaScript. JavaScript is needed only for this rule-number lookup.</p></noscript>
   </section>
 </template>
 
@@ -67,6 +67,5 @@ onUnmounted(() => window.removeEventListener('hashchange', readHash))
 .rule-jump input:focus-visible, .rule-jump button:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: 3px; }
 #rule-error { color: var(--vp-c-danger-1); margin: 8px 0; }
 .reader-help { font-size: .875rem; color: var(--vp-c-text-2); }
-.rulebook-pdf { display: block; width: 100%; height: 75vh; min-height: 420px; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: white; }
 @media (max-width: 640px) { .rulebook-reader { padding: 12px; } }
 </style>

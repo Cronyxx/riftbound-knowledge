@@ -11,7 +11,7 @@ export default defineConfig({
   lang: 'en-US',
   base,
   cleanUrls: false,
-  srcExclude: ['reference/rule-anchors.md'],
+  srcExclude: ['reference/rule-text.md', 'reference/rule-contents.md'],
   lastUpdated: true,
   head: [['meta', { name: 'theme-color', content: '#133f3d' }]],
   themeConfig: {

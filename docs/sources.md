@@ -2,7 +2,7 @@
 
 Start at Riot’s [Riftbound Rules Hub](https://playriftbound.com/en-us/rules-hub/). It brings together the rulebooks, legality information, patch notes, and errata.
 
-For numbered Core Rules citations, use the [official rulebook reference](/reference/core-rules). It embeds Riot’s October 9, 2026 PDF and opens the page containing a linked rule or subrule. Its index was checked November 20, 2026; this does not change individual articles’ review dates or the source baseline below.
+For numbered Core Rules citations, use the [official rulebook reference](/reference/core-rules). It contains the complete text of the supplied October 9, 2026 PDF, with links to individual rules and subrules and a local source PDF for comparison. The website copy was checked November 20, 2026; this does not change individual articles’ review dates or the source baseline below.
 
 **Source hub reviewed:** November 14, 2026. This notebook does not automatically synchronize with Riot’s documents. Individual articles retain their own review dates.
 

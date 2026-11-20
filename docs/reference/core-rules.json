@@ -2500,5 +2500,263 @@
     "832.2": 142,
     "832.2.a": 142,
     "832.3": 142
-  }
+  },
+  "localPdf": "/reference/riftbound-core-rules-2026-10-09.pdf",
+  "sections": [
+    {
+      "number": "000",
+      "title": "Golden and Silver Rules",
+      "level": 2
+    },
+    {
+      "number": "001",
+      "title": "Golden Rule",
+      "level": 3
+    },
+    {
+      "number": "050",
+      "title": "Silver Rule",
+      "level": 3
+    },
+    {
+      "number": "100",
+      "title": "Game Concepts",
+      "level": 2
+    },
+    {
+      "number": "101",
+      "title": "Deck Construction",
+      "level": 3
+    },
+    {
+      "number": "104",
+      "title": "Setup",
+      "level": 3
+    },
+    {
+      "number": "119",
+      "title": "Game Objects",
+      "level": 3
+    },
+    {
+      "number": "125",
+      "title": "Cards",
+      "level": 3
+    },
+    {
+      "number": "140",
+      "title": "Units",
+      "level": 3
+    },
+    {
+      "number": "147",
+      "title": "Gear",
+      "level": 3
+    },
+    {
+      "number": "153",
+      "title": "Spells",
+      "level": 3
+    },
+    {
+      "number": "160",
+      "title": "Runes",
+      "level": 3
+    },
+    {
+      "number": "169",
+      "title": "Battlefields",
+      "level": 3
+    },
+    {
+      "number": "173",
+      "title": "Legends",
+      "level": 3
+    },
+    {
+      "number": "177",
+      "title": "Multiple Types",
+      "level": 3
+    },
+    {
+      "number": "179",
+      "title": "Tokens",
+      "level": 3
+    },
+    {
+      "number": "188",
+      "title": "Control",
+      "level": 3
+    },
+    {
+      "number": "193",
+      "title": "Winning",
+      "level": 3
+    },
+    {
+      "number": "197",
+      "title": "Locations",
+      "level": 3
+    },
+    {
+      "number": "201",
+      "title": "Costs",
+      "level": 3
+    },
+    {
+      "number": "300",
+      "title": "Playing the Game",
+      "level": 2
+    },
+    {
+      "number": "301",
+      "title": "The Turn",
+      "level": 3
+    },
+    {
+      "number": "318",
+      "title": "Cleanups",
+      "level": 3
+    },
+    {
+      "number": "325",
+      "title": "Chains and Showdowns",
+      "level": 3
+    },
+    {
+      "number": "327",
+      "title": "Chains",
+      "level": 3
+    },
+    {
+      "number": "349",
+      "title": "Playing Cards",
+      "level": 3
+    },
+    {
+      "number": "360",
+      "title": "Abilities",
+      "level": 3
+    },
+    {
+      "number": "408",
+      "title": "Game Actions",
+      "level": 3
+    },
+    {
+      "number": "447",
+      "title": "Movement",
+      "level": 3
+    },
+    {
+      "number": "461",
+      "title": "Combat",
+      "level": 3
+    },
+    {
+      "number": "465",
+      "title": "The Steps of Combat",
+      "level": 3
+    },
+    {
+      "number": "469",
+      "title": "Scoring",
+      "level": 3
+    },
+    {
+      "number": "475",
+      "title": "Layers",
+      "level": 3
+    },
+    {
+      "number": "483",
+      "title": "Modes of Play",
+      "level": 3
+    },
+    {
+      "number": "649",
+      "title": "Conceding",
+      "level": 3
+    },
+    {
+      "number": "700",
+      "title": "Additional Rules",
+      "level": 2
+    },
+    {
+      "number": "701",
+      "title": "Buffs",
+      "level": 3
+    },
+    {
+      "number": "706",
+      "title": "Mighty",
+      "level": 3
+    },
+    {
+      "number": "712",
+      "title": "Bonus Damage",
+      "level": 3
+    },
+    {
+      "number": "716",
+      "title": "Attachment",
+      "level": 3
+    },
+    {
+      "number": "720",
+      "title": "Inactive",
+      "level": 3
+    },
+    {
+      "number": "726",
+      "title": "Dependent Keywords",
+      "level": 3
+    },
+    {
+      "number": "728",
+      "title": "XP",
+      "level": 3
+    },
+    {
+      "number": "734",
+      "title": "Additional Turns",
+      "level": 3
+    },
+    {
+      "number": "739",
+      "title": "Special Terms",
+      "level": 3
+    },
+    {
+      "number": "741",
+      "title": "Counters",
+      "level": 3
+    },
+    {
+      "number": "750",
+      "title": "Making New Choices",
+      "level": 3
+    },
+    {
+      "number": "756",
+      "title": "Untargetability",
+      "level": 3
+    },
+    {
+      "number": "759",
+      "title": "Naming Cards, Types, and Tags",
+      "level": 3
+    },
+    {
+      "number": "764",
+      "title": "Ignoring Effects",
+      "level": 3
+    },
+    {
+      "number": "800",
+      "title": "Keywords",
+      "level": 3
+    }
+  ]
 }
