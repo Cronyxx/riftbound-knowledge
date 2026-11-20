@@ -25,11 +25,15 @@ Finished [Build your first deck](/basics/build-your-first-deck)? Continue with [
 
 The first three articles unpack playing a card: what happens, when you can respond, and which choices you commit. Triggers and cleanup then explain how the game processes further events. With those foundations in place, apply them to keywords, revisit combat and scoring, and finish with named card interactions.
 
+## Mechanics studies
+
+For individual mechanics, browse the [Mechanics studies directory](/advanced/mechanics/). The first study, [Hidden](/advanced/mechanics/hidden), explains hiding versus playing, timing, costs, targeting and control edge cases, and dated rules changes and card errata. It is **Draft — awaiting review**, with sources checked November 20, 2026. These studies form a separate lookup path within Advanced Rules; the eight-article learning sequence above remains the introductory path.
+
 ## Article format
 
 Start with a precise question and enough game context to reproduce the situation. Explain each decision in order, cite the rules supporting it, and identify relevant card text and errata. Keep unresolved questions explicitly unresolved.
 
-The user selected this mechanics and official-FAQ batch on November 14, 2026. It is an introductory Advanced Rules path, not an exhaustive index of every mechanic or card interaction. Further mechanics and individual card cases will be selected before drafting.
+The user selected the introductory mechanics and official-FAQ batch on November 14, 2026, then authorized a dedicated mechanics subsection beginning with Hidden on November 20, 2026. Further mechanic studies and individual card cases will be selected before drafting.
 
 ## Rules references
 

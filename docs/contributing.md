@@ -12,6 +12,8 @@ The site is written in Markdown. Each page should answer one clear question and 
 
 For deck studies, use the [deck-study outline](./meta/index.md#proposed-deck-study-format) and distinguish strategic analysis from rules explanations.
 
+For an approved individual mechanic, use `docs/advanced/mechanics/<mechanic>.md` and the [Mechanics studies format](/advanced/mechanics/#what-each-study-contains). Explain the procedure, a worked example, edge cases, dated mechanic-wide changes, and separately identified card errata. Link exact local rulebook anchors beside the explanations and the relevant official update section beside each historical claim. Record the edition and review date; mark the new study Draft — awaiting review. Add it to the mechanic directory and nested sidebar group.
+
 ## Beginner lessons
 
 Use the [beginner writing rules](./site-design.md#beginner-writing-rules): simple concepts, accurate game terms defined at first mention, and useful gameplay examples. Keep technicalities and exceptions in Advanced Rules. Put exact rule references and review information in an expandable reference note. The structured template below is most useful for advanced rules questions.

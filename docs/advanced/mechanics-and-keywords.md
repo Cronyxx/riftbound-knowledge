@@ -10,6 +10,8 @@ Use the chain, timing, choice, and cleanup procedures from the preceding article
 
 Keywords can grant permission, change a procedure, or refer to a game object. Read the keyword together with the rest of the card: timing permission does not waive costs or targeting requirements.
 
+For individual mechanic references, visit [Mechanics studies](/advanced/mechanics/). The [Hidden study](/advanced/mechanics/hidden) expands the introduction below with a worked example, targeting and control edge cases, and dated rules changes and card errata. It is a separate draft checked November 20, 2026.
+
 | Term | How to use it | Reference |
 | --- | --- | --- |
 | Action | Play the card or activate that ability during an open showdown on either player's turn, as well as at its ordinary timing. It does not permit a response to an existing chain. | [Core Rules][core], [806](/reference/core-rules#rule-806); [308](/reference/core-rules#rule-308)–[310](/reference/core-rules#rule-310) |

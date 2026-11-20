@@ -36,3 +36,7 @@ The [eight-article Advanced Rules path](/advanced/) continues from Basics throug
 :::
 
 Rules explanations link to specific rules in the [official rulebook reference](/reference/core-rules) and relevant updates. Deck studies will distinguish rules from strategic analysis. See the [official sources guide](/sources) and [site design and content plan](/site-design).
+
+::: info Mechanics studies · Hidden
+Explore the new [Mechanics studies section](/advanced/mechanics/) within Advanced Rules. Start with [Hidden](/advanced/mechanics/hidden): how it works, edge cases, and dated rules changes and card errata. The first study is a draft awaiting review, checked November 20, 2026.
+:::

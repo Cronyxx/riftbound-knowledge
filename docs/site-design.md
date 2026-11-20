@@ -2,7 +2,7 @@
 
 **Design recorded:** November 9, 2026
 
-**Current stage:** All 14 Basics lessons are approved sourced notes. On November 14, 2026, the user authorized drafting and publication of all eight Advanced Rules topics and selected Action, Reaction, Hidden, buffs, and official FAQ cases. The eight articles are published as **Draft — awaiting review**. Meta Deck Studies awaits drafting authorization.
+**Current stage:** All 14 Basics lessons are approved sourced notes. The eight introductory Advanced Rules articles are published as **Draft — awaiting review**, following authorization on November 14, 2026. On November 20, the user requested a section for individual mechanics, starting with Hidden, explaining procedures, edge cases, and errata. The Mechanics studies subsection within Advanced Rules now contains a Hidden study marked **Draft — awaiting review**. Meta Deck Studies awaits drafting authorization.
 
 ## Permanent information architecture
 
@@ -21,6 +21,8 @@ Sidebar groups are collapsible and start expanded. Readers can toggle each secti
 Future articles live under `docs/basics/<topic>.md`, `docs/advanced/<topic>.md`, or `docs/meta/<deck-or-topic>.md`. Add real article links to both the section index and sidebar when creating them. Use descriptive, stable filenames. Until then, topic rows remain plain text with their status; do not link to nonexistent pages.
 
 Preserve existing `/rules/` and `/interactions/` URLs as supporting research checklists. Move their material into the appropriate section only as approved articles are written, keeping a useful pointer at an old URL if its content moves. Do not create a fourth primary section.
+
+**Mechanics studies, requested November 20, 2026:** `/advanced/mechanics/` is a dedicated subsection within Advanced Rules, with its own mechanic directory and a collapsible sidebar group nested under Advanced Rules. Individual studies live at `/advanced/mechanics/<mechanic>`. Keep the three primary sections and their order. The original `/advanced/mechanics-and-keywords` overview remains useful and links to the deeper studies. The initial authorized study is Hidden; do not treat the new directory as authorization to fill every mechanic. Each study explains the current procedure, a worked example, edge cases, dated changes to the mechanic, and separately identified card errata. Preserve exact local rulebook anchors, official update URLs, document editions, and the study’s own review date. Distinguish publication dates from effective dates where provided, and mark selected change histories as non-exhaustive.
 
 ## Learning order
 

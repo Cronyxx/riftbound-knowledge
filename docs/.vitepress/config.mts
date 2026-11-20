@@ -62,7 +62,15 @@ export default defineConfig({
           { text: 'Effects, exceptions, and cleanup', link: '/advanced/effects-and-cleanup' },
           { text: 'Mechanics and keywords', link: '/advanced/mechanics-and-keywords' },
           { text: 'Combat and scoring edge cases', link: '/advanced/combat-and-scoring' },
-          { text: 'Special card interactions', link: '/advanced/special-card-interactions' }
+          { text: 'Special card interactions', link: '/advanced/special-card-interactions' },
+          {
+            text: 'Mechanics studies',
+            collapsed: false,
+            items: [
+              { text: 'Mechanic directory', link: '/advanced/mechanics/' },
+              { text: 'Hidden', link: '/advanced/mechanics/hidden' }
+            ]
+          }
         ]
       },
       {
