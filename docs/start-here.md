@@ -28,3 +28,5 @@ The [Mechanics studies subsection](/advanced/mechanics/) within Advanced Rules a
 Community explanations do not become official rulings through these labels. Check document versions and errata before relying on a note; at an organized event, ask the event’s judge about unresolved situations.
 
 Use local search to find published content. Look up exact rule numbers in the [official rulebook reference](/reference/core-rules). For sources and writing guidance, see [Official sources](/sources), [Writing a note](/contributing), and the persistent [site design and content plan](/site-design).
+
+Hover over a numbered rule citation, or focus it with the keyboard, for a short preview. Click or tap it to keep the rule open in a reference pane while reading. A section citation includes its subrules and examples. Close the pane with its Close button or Escape, or follow “Read in full rulebook” to the complete reference. Ctrl/Cmd-click still opens the citation normally in another tab.

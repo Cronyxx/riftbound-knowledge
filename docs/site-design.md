@@ -81,6 +81,8 @@ Separate rule facts, observed tournament results, and strategic judgments. Do no
 
 ## Writing and maintenance
 
+**Citation previews, requested November 20, 2026:** Numbered Core Rules citations in articles show a short preview on mouse hover or keyboard focus and open a persistent reference pane on an ordinary click. Keep the real rulebook URL available, preserve modified-click navigation and the no-JavaScript fallback, and show the document edition with the rule text. Section citations include their subrules. The pane is docked beside the article on wide screens and becomes a dismissible dialog on smaller screens. Load excerpts from the same supplied PDF conversion as the rulebook; do not maintain a second hand-written version. Official patch-note and FAQ links remain ordinary source links. This presentation change does not re-review article content or authorize new topics.
+
 Each basics article answers one small question in plain language, using an optional short example and only concepts introduced in that lesson or earlier ones. Keep official references in an expandable source note and add a next lesson link when available. Each advanced article records context, a precise question, an ordered explanation, and references. Each deck study follows the outline on the Meta Deck Studies index.
 
 Keep status labels consistent with [Start here](/start-here). After an approved change, update navigation and the relevant index, then run `npm run docs:build` to check the production site and internal links. Update this plan when the user changes the structure or approval workflow.

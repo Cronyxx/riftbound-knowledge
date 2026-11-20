@@ -9,6 +9,7 @@
   --vp-font-family-base: 'Avenir Next', Avenir, 'Segoe UI', sans-serif;
   --vp-home-hero-name-color: #246b61;
   --vp-home-hero-image-background-image: radial-gradient(#d5e5d8, transparent);
+  --rule-reference-width: 460px;
 }
 
 .dark {
@@ -46,6 +47,12 @@
 .rule-number { font-variant-numeric: tabular-nums; font-weight: 650; }
 .vp-doc .rule-entry .rule-example { margin: 12px 0; padding: 1px 14px; background: var(--vp-c-bg-soft); font-size: .9375rem; }
 .rule-reference { font-style: italic; color: var(--vp-c-text-2); }
+.rule-citation { text-decoration-style: dotted !important; text-underline-offset: 4px; }
+@media (min-width: 1280px) {
+  .rule-reference-docked .VPContent.has-sidebar { padding-right: var(--rule-reference-width); }
+  .rule-reference-docked .VPDoc .aside { display: none; }
+  .rule-reference-docked .VPDoc .content { min-width: 0; padding-left: 0; padding-right: 0; }
+}
 @media (max-width: 640px) {
   .rule-entry { padding-left: calc(8px + var(--rule-depth, 0) * 5px); padding-right: 8px; }
 }

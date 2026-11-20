@@ -1,4 +1,11 @@
 import DefaultTheme from 'vitepress/theme'
+import { h } from 'vue'
+import RuleReferences from './components/RuleReferences.vue'
 import './style.css'
 
-export default DefaultTheme
+export default {
+  ...DefaultTheme,
+  Layout: () => h(DefaultTheme.Layout, null, {
+    'layout-bottom': () => h(RuleReferences)
+  })
+}
