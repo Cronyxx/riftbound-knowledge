@@ -22,6 +22,8 @@ An instruction with an illegal target, or unavailable required information, is *
 
 Ignoring an instruction also suppresses later instructions linked to it; negating it does not automatically suppress those linked instructions. ([Core Rules][core], [359.3.e](/reference/core-rules#rule-359-3-e); [Radiance patch notes][patch], “Negated and Ignored Instructions.”)
 
+For contrasting Hidden Blade cases, impossible movement, and “if you do” requirements, continue to [Negated vs ignored](/advanced/negated-vs-ignored).
+
 Do not turn this into a rule that every later sentence fails. Establish whether the later instruction is actually linked to the failed instruction. The independent draw in the [Void Seeker example](/advanced/costs-targets-and-choices#what-if-the-target-changes) still happens.
 
 ## Use layers for ongoing modifications
@@ -123,7 +125,7 @@ For a new situation, record current Might, marked damage, each modifier's durati
 
 [Riftbound Core Rules][core], updated October 9, 2026, rules cited above; [Radiance patch notes][patch], effective October 16, sections named above; [Core Rules patch notes][origins], October 24, 2025, “Cleanups,” for the introduction of repeated and special cleanups. Procedures and illustrative outcomes were checked against the current Core Rules. The [Rules Hub][hub], these documents, and the [Radiance FAQ][faq], October 26, were checked November 21, 2026.
 
-[Previous: Triggers](/advanced/triggers) · [Next: Mechanics and keywords](/advanced/mechanics-and-keywords)
+[Previous: Triggers](/advanced/triggers) · [Next: Negated vs ignored](/advanced/negated-vs-ignored)
 
 [core]: /reference/core-rules
 [hub]: https://playriftbound.com/en-us/rules-hub/

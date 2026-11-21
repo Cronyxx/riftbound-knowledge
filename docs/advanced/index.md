@@ -4,7 +4,7 @@ Understand why a sequence works, when players can act, and how to resolve unusua
 
 Continue from playing a first game and building a deck: learn what happens when you play a card, when players can respond, and how those procedures explain more complex cards and combat.
 
-::: warning Eight articles · Draft — awaiting review
+::: warning Nine articles · Draft — awaiting review
 This batch is published for review. It covers two-player Duel, starting with chains, finalization, and resolution, and ending with official FAQ cases. Sources and terminology checked November 21, 2026.
 :::
 
@@ -19,9 +19,10 @@ Finished [Build your first deck](/basics/build-your-first-deck)? Continue with [
 | 3 | [Costs, targets, and choices](/advanced/costs-targets-and-choices) | Payment order, choices made before responses, and changed targets. | Draft — awaiting review |
 | 4 | [Triggers](/advanced/triggers) | Conditions, processing, multiple triggers, and optional instructions. | Draft — awaiting review |
 | 5 | [Effects, exceptions, and cleanup](/advanced/effects-and-cleanup) | Linked instructions, ongoing modifiers, layer calculations, and repeated cleanup, with worked examples. | Draft — awaiting review |
-| 6 | [Mechanics and keywords](/advanced/mechanics-and-keywords) | Action, Reaction, Hidden, and buff counters. | Draft — awaiting review |
-| 7 | [Combat and scoring edge cases](/advanced/combat-and-scoring) | Damage assignment, control, scoring limits, the final point, and victory checks. | Draft — awaiting review |
-| 8 | [Special card interactions](/advanced/special-card-interactions) | Gravity Field with Charm or Angler Wyrm, and Runeblade Anvil’s permission duration. | Draft — awaiting review |
+| 6 | [Negated vs ignored](/advanced/negated-vs-ignored) | Why an instruction fails, linked instructions, replacements, and “if you do,” with contrasting examples. | Draft — awaiting review |
+| 7 | [Mechanics and keywords](/advanced/mechanics-and-keywords) | Action, Reaction, Hidden, and buff counters. | Draft — awaiting review |
+| 8 | [Combat and scoring edge cases](/advanced/combat-and-scoring) | Damage assignment, control, scoring limits, the final point, and victory checks. | Draft — awaiting review |
+| 9 | [Special card interactions](/advanced/special-card-interactions) | Gravity Field with Charm or Angler Wyrm, and Runeblade Anvil’s permission duration. | Draft — awaiting review |
 
 ## Vocabulary along the way
 
@@ -31,13 +32,13 @@ Each article introduces its technical terms before using them in a procedure. La
 
 The first three articles unpack playing a card: what happens, when you can respond, and which choices you commit. Triggers and cleanup then explain how the game processes further events.
 
-With those foundations in place, apply them to keywords, revisit combat and scoring, and finish with named card interactions.
+Compare negated and ignored instructions in detail, then apply those foundations to keywords, revisit combat and scoring, and finish with named card interactions.
 
 ## Mechanics studies
 
 For individual mechanics, browse the separate [Mechanics section](/mechanics/). The first study, [Hidden](/mechanics/hidden), explains hiding versus playing, timing, costs, targeting and control edge cases, and dated rules changes and card errata.
 
-It is **Draft — awaiting review**, with sources checked November 20, 2026. Mechanics has its own directory and navigation; the eight-article learning sequence above remains the introductory Advanced Rules path.
+It is **Draft — awaiting review**, with sources checked November 20, 2026. Mechanics has its own directory and navigation; the nine-article learning sequence above remains the introductory Advanced Rules path.
 
 ## Article format
 
@@ -53,6 +54,6 @@ The batch uses [Core Rules updated October 9, 2026](/reference/core-rules), Radi
 
 Exact references link to individual rules beside explanations, with a source record on each article. See the [sources guide](/sources) for the sourcing process.
 
-All eight articles received a terminology and prerequisite pass on November 21, 2026. Each article records its source review date.
+The original eight articles received a terminology and prerequisite pass on November 21, 2026. Negated vs ignored was added at the user’s request the same day. Each article records its source review date.
 
 Existing [timing](/rules/timing), [combat](/rules/combat), and [interaction](/interactions/) research checklists remain available as supporting material.

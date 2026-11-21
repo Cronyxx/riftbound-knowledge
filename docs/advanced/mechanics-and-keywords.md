@@ -51,7 +51,7 @@ A **counter** here is a marker on a unit. It differs from the **Counter action**
 
 [Riftbound Core Rules][core], updated October 9, 2026; sections cited above. [Rules Hub][hub], [Radiance patch notes][patch] (effective October 16), and [Radiance errata][errata] (October 9) checked November 21, 2026. Use corrected card text when applying Hidden to individual cards.
 
-[Previous: Effects, exceptions, and cleanup](/advanced/effects-and-cleanup) · [Next: Combat and scoring edge cases](/advanced/combat-and-scoring)
+[Previous: Negated vs ignored](/advanced/negated-vs-ignored) · [Next: Combat and scoring edge cases](/advanced/combat-and-scoring)
 
 [core]: /reference/core-rules
 [hub]: https://playriftbound.com/en-us/rules-hub/

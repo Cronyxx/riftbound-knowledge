@@ -61,6 +61,7 @@ export default defineConfig({
           { text: 'Costs, targets, and choices', link: '/advanced/costs-targets-and-choices' },
           { text: 'Triggers', link: '/advanced/triggers' },
           { text: 'Effects, exceptions, and cleanup', link: '/advanced/effects-and-cleanup' },
+          { text: 'Negated vs ignored', link: '/advanced/negated-vs-ignored' },
           { text: 'Mechanics and keywords', link: '/advanced/mechanics-and-keywords' },
           { text: 'Combat and scoring edge cases', link: '/advanced/combat-and-scoring' },
           { text: 'Special card interactions', link: '/advanced/special-card-interactions' }

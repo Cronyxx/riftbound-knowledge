@@ -76,6 +76,8 @@ A **linked instruction** depends on an earlier instruction’s action or object.
 
 [Core Rules: 359.3.e.5](/reference/core-rules#rule-359-3-e-5), [359.3.e.14](/reference/core-rules#rule-359-3-e-14).
 
+For a fuller comparison of failed instructions and their consequences, see [Negated vs ignored](/advanced/negated-vs-ignored).
+
 ## Source record
 
 [Core Rules][core], October 9, 2026 edition: costs, choices, targeting, and target rechecks at the references above.
