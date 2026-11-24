@@ -1,6 +1,6 @@
 ---
 title: Ezreal Pack Control — November 2026
-description: A dated study of post-ban Ezreal, with a representative list, opening decisions, Pack of Wonders sequences, and practice scenarios.
+description: A dated study of post-ban Ezreal, with a representative list, opening decisions, Pack of Wonders sequences, weaknesses, counters, and practice scenarios.
 ---
 
 # Ezreal Pack Control
@@ -132,6 +132,36 @@ The following are **testing hypotheses**, not measured favorable or unfavorable 
 
 **Open question:** how these plans perform against the most-played decks after November 23. The bans change the field; older matchup percentages do not answer that question. Record games by opposing list, play/draw, sideboard configuration, and the decision that determined the score before drawing conclusions.
 
+## Weaknesses and counters
+
+**Strategic analysis, checked November 24, 2026:** these are ways to attack the representative list’s structure. They are not a ranking of counter decks or evidence of favorable matchup percentages. A counter card must fit your deck’s domains and game plan; Salvage and Ruin Runner are absent from Riot’s [November 23 Constructed ban list](https://playriftbound.com/en-us/rules-hub/).
+
+### Where Ezreal is vulnerable
+
+| Weakness | How to exploit it | What the Ezreal pilot can do |
+| --- | --- | --- |
+| Setup competes with defense. | Establish scoring pressure before Pack and paid replays can take over. Make Ezreal spend resources answering the board. | Keep early interaction and delay extra engine pieces when the next point is at risk. |
+| Repeated value depends on gear and available resources. | Remove Pack when possible, then use the interruption to develop or score. Watch for a second Pack before assuming the engine is stopped. | Keep a useful line that works without Pack and avoid spending every resource on a replay. |
+| Much of its interaction chooses enemy units. | Present threats that cannot be chosen, or make choosing them more expensive with Deflect. | Preserve an applicable effect that does not choose those units, or contest them through combat. |
+| Its scoring units also serve the engine. | Contest a location when returning Spirit or Fizz would leave Ezreal short of defenders. | Count the battlefield cost of a bounce before activating Pack. |
+| Discard needs cards in hand to remove. | Turn resources into useful board presence before repeated Spirit plays strip them away. Keep a follow-up rather than committing everything into a possible answer. | Stop paying for low-value discard and switch to controlling the board and scoring. |
+
+Pressure across two battlefields can make Ezreal choose which point to defend, but spreading weak units without a scoring plan can simply give its interaction better targets. Likewise, playing out your whole hand to avoid discard can leave you unable to rebuild. The aim is to make its answers insufficient for the next scoring exchange.
+
+### Counter tools and their limits
+
+**Salvage — attack Pack directly.** Order decks can consider this gear-removal spell: its current effect optionally kills up to one gear and draws a card. Pack is usually the engine target to evaluate first, rather than a gear whose play effect has already provided its value. Salvage has **Action** timing, so plan a legal opportunity on your turn or in a showdown; it cannot simply be used as a Reaction to a Pack activation on the chain. Removing one Pack also leaves any other copies available. Card wording: Riot’s [Origins Errata, “Salvage”](https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/), October 28, 2025. Timing reminder: [Timing and reaction opportunities](/advanced/timing-and-reactions).
+
+**Ruin Runner — challenge the targeting plan.** This Body unit cannot be chosen by enemy spells and abilities, which makes it a candidate against answers that must choose it. It still needs a way to reach and win a battlefield. It can also be affected by effects that do not choose it: Watcher’s blanket Might reduction applies to it, and combat remains an answer. Ruin Runner therefore changes the answers Ezreal needs; it does not shut off the deck. Card-text transcription: [SFD-105, Ruin Runner](https://riftbound.org/cards/sfd-spiritforged/sfd-105-221/ruin-runner). The distinction between choosing and affecting comes from [Core Rules, October 9, 2026, 355.10.d](/reference/core-rules#rule-355-10-d).
+
+**Deflect — tax repeated targeting.** Deflect adds a Power cost to opposing spells and abilities each time they choose the protected object; an unspecified value means one. That can make a sequence of cheap answers harder to afford, especially when Ezreal has also paid for a replay. It does not forbid choosing the unit, and effects that do not target it avoid this tax. See [Core Rules, October 9, 2026, 809.1.b–809.1.d](/reference/core-rules#rule-809). Choose a Deflect threat that already advances your deck’s scoring plan rather than adding protection with no useful follow-up.
+
+### Turn disruption into a point
+
+Suppose you have Salvage available at a legal Action opportunity, Ezreal has one Pack, and you have a unit ready to contest a battlefield. Removing Pack can limit future replays, but the important follow-up is using your unit to create scoring pressure while Ezreal rebuilds. If you spend the whole turn removing gear and make no progress, its ordinary spells and units may buy enough time to find another Pack.
+
+For testing, record whether a counter tool changed a scoring opportunity, how Ezreal answered it, and what you gave up to include it. **Open question:** which complete decks reliably counter Ezreal in the new environment; the evidence in this study does not establish that yet.
+
 ## Practice and common mistakes
 
 Try these situations before changing the list:
@@ -150,12 +180,12 @@ Common mistakes are keeping an engine-heavy opening without early interaction, t
 | Source | Edition or section checked | Use |
 | --- | --- | --- |
 | [Riot Rules Hub](https://playriftbound.com/en-us/rules-hub/) | Constructed Format Legality, November 23, 2026; Core Rules listing, October 9, 2026 | Current ban list and rules edition |
-| [Core Rules reference](/reference/core-rules) | October 9, 2026; 103.2–103.3, 124, 377, 382, 805, 830 | Deck counting, zone changes, abilities, Accelerate, Deploy |
-| [Origins Errata](https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/) | October 28, 2025; Pack of Wonders and Sigil of the Storm | Updated card wording |
+| [Core Rules reference](/reference/core-rules) | October 9, 2026; 103.2–103.3, 124, 355.10.d, 377, 382, 805, 809, 830 | Deck counting, zone changes, targeting, abilities, Accelerate, Deflect, Deploy |
+| [Origins Errata](https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/) | October 28, 2025; Pack of Wonders, Salvage, and Sigil of the Storm | Updated card wording |
 | [Vendetta Errata](https://playriftbound.com/en-us/news/announcements/vendetta-errata-updates/) | July 23, 2026; Fizz, Trickster | Updated play effect |
 | [Radiance Errata](https://playriftbound.com/en-us/news/announcements/radiance-errata-updates/) | October 9, 2026 | Checked for changes to the selected cards; none listed there |
 | [Radiance patch notes](https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/) | Effective October 16, 2026; Deploy | Battlefield gear procedure |
-| Linked card records above | SFD-199, UNL-121, RAD-106, OGN-116 | Card-text transcriptions; these community records are secondary sources, not official rulings |
+| Linked card records above | SFD-199, SFD-105, UNL-121, RAD-106, OGN-116 | Card-text transcriptions; these community records are secondary sources, not official rulings |
 | Linked event and list records above | November 14–22, 2026 | List provenance, results, and stated evidence limits |
 
 The official [Card Gallery](https://playriftbound.com/en-us/card-gallery/) remains the primary card reference; its dynamic card text was not available in the research extract. Community transcriptions were used where identified, with official errata taking precedence. Recheck this study when legality, card wording, or new tournament evidence changes. The Bologna event date and a substantiated post-ban matchup dataset remain open research items.

@@ -3,7 +3,7 @@
 Study how competitive decks work: what they try to achieve, which cards enable the plan, and how decisions change across matchups. This section applies the concepts from [Basics](/basics/), [Advanced Rules](/advanced/), and [Mechanics](/mechanics/).
 
 ::: info First study available
-[Ezreal Pack Control](/meta/ezreal-pack-control) covers Standard Constructed in the November 23, 2026 ban environment, using recent international evidence. It is **Draft — awaiting review**, with sources checked November 24, 2026. Further deck studies and broad meta comparisons await topic approval.
+[Ezreal Pack Control](/meta/ezreal-pack-control) covers Standard Constructed in the November 23, 2026 ban environment, using recent international evidence. It includes [weaknesses and counters](/meta/ezreal-pack-control#weaknesses-and-counters). It is **Draft — awaiting review**, with sources checked November 24, 2026. Further deck studies and broad meta comparisons await topic approval.
 :::
 
 ## Deck directory

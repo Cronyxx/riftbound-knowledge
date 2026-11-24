@@ -99,3 +99,5 @@ Keep status labels consistent with [Start here](/start-here). After an approved 
 
 
 **Authorized first deck study, November 24, 2026:** The user requested a current Ezreal write-up and publication to GitHub Pages, and confirmed Standard Constructed in the post–November 23 ban environment with recent international lists. [Ezreal Pack Control](/meta/ezreal-pack-control) is published as **Draft — awaiting review**, checked November 24. It preserves a representative Bologna list, separates strategic judgments from rules and results, and records the event-date discrepancy, secondary card-text sources, and limited post-ban evidence. This authorization covers this named study; further decks and broad meta rankings still await approval.
+
+**Authorized Ezreal expansion, November 24, 2026:** The user requested weaknesses and counters in the existing study. The added section covers structural weaknesses, practical counterplay, Salvage, Ruin Runner, and Deflect, with rule references and limits on each approach. These recommendations remain strategic analysis rather than established post-ban counter-matchup results; the study retains its draft status.
