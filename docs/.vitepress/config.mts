@@ -80,7 +80,8 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Overview & study format', link: '/meta/' },
-          { text: 'Ezreal Pack Control', link: '/meta/ezreal-pack-control' }
+          { text: 'Ezreal Pack Control', link: '/meta/ezreal-pack-control' },
+          { text: 'Rek’Sai Breacher', link: '/meta/reksai-breacher' }
         ]
       },
       {

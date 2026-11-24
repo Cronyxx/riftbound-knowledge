@@ -2,8 +2,8 @@
 
 Study how competitive decks work: what they try to achieve, which cards enable the plan, and how decisions change across matchups. This section applies the concepts from [Basics](/basics/), [Advanced Rules](/advanced/), and [Mechanics](/mechanics/).
 
-::: info First study available
-[Ezreal Pack Control](/meta/ezreal-pack-control) covers Standard Constructed in the November 23, 2026 ban environment, using recent international evidence. It includes [weaknesses and counters](/meta/ezreal-pack-control#weaknesses-and-counters). It is **Draft — awaiting review**, with sources checked November 24, 2026. Further deck studies and broad meta comparisons await topic approval.
+::: info Studies available
+[Ezreal Pack Control](/meta/ezreal-pack-control) covers Standard Constructed in the November 23, 2026 ban environment, using recent international evidence. It includes [weaknesses and counters](/meta/ezreal-pack-control#weaknesses-and-counters). It is **Draft — awaiting review**, with sources checked November 24, 2026. [Rek’Sai Breacher](/meta/reksai-breacher) studies Fury/Order development, Accelerate, weaknesses, and counterplay, checked November 25, 2026. Both studies are **Draft — awaiting review**. Further deck studies and broad meta comparisons await topic approval.
 :::
 
 ## Deck directory
@@ -11,14 +11,15 @@ Study how competitive decks work: what they try to achieve, which cards enable t
 | Study | Context | Status |
 | --- | --- | --- |
 | [Ezreal Pack Control](/meta/ezreal-pack-control) | Standard Constructed Duel; international evidence from November 14–22, checked against November 23 legality. | Draft — awaiting review |
+| [Rek’Sai Breacher](/meta/reksai-breacher) | Standard Constructed Duel; Bologna list from November 21–22, checked November 25 against November 23 legality. | Draft — awaiting review |
 
 ## Proposed study areas
 
 | Area | What it will cover | Status |
 | --- | --- | --- |
 | Meta snapshot | The format, region, date range, and tournament evidence used to select decks. | Awaiting approval |
-| Deck directory | Approved archetypes and dated representative lists, linked to individual studies. | Ezreal available; further decks await approval |
-| Individual deck studies | A repeatable breakdown of a deck’s plan, cards, and decisions. | Ezreal draft — awaiting review |
+| Deck directory | Approved archetypes and dated representative lists, linked to individual studies. | Ezreal and Rek’Sai available; further decks await approval |
+| Individual deck studies | A repeatable breakdown of a deck’s plan, cards, and decisions. | Ezreal and Rek’Sai drafts — awaiting review |
 | Matchup comparisons | How approved decks interact, with evidence and uncertainty made explicit. | Awaiting approval |
 | Practice and review | Focused scenarios and questions for learning an approved deck. | Awaiting approval |
 

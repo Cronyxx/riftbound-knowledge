@@ -45,6 +45,6 @@ Rules explanations link to specific rules in the [official rulebook reference](/
 Browse the [Mechanics section](/mechanics/). Start with [Hidden](/mechanics/hidden): how it works, edge cases, and dated rules changes and card errata. The first study is a draft awaiting review, checked November 20, 2026.
 :::
 
-::: info Meta Deck Studies · Ezreal Pack Control
-Read [Ezreal Pack Control](/meta/ezreal-pack-control) for a dated list, engine sequences, opening decisions, and practice scenarios in the November 23 Standard Constructed ban environment. Draft awaiting review; sources checked November 24, 2026.
+::: info Meta Deck Studies · Ezreal and Rek’Sai
+Read [Ezreal Pack Control](/meta/ezreal-pack-control) for a dated list, engine sequences, opening decisions, and practice scenarios in the November 23 Standard Constructed ban environment. Draft awaiting review; sources checked November 24, 2026. [Rek’Sai Breacher](/meta/reksai-breacher) adds Fury/Order development, Accelerate sequences, weaknesses, and counters; draft checked November 25, 2026.
 :::
