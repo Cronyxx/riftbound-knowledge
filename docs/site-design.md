@@ -2,7 +2,7 @@
 
 **Design recorded:** November 9, 2026
 
-**Current stage:** All 14 Basics lessons are approved sourced notes. The nine introductory Advanced Rules articles are published as **Draft — awaiting review**, following the original batch authorization on November 14, 2026 and the addition of Negated vs ignored on November 21, 2026. The user authorized individual mechanics studies beginning with Hidden on November 20, then requested that Mechanics become its own primary section on November 21, 2026. Hidden remains **Draft — awaiting review**. Meta Deck Studies awaits drafting authorization.
+**Current stage:** All 14 Basics lessons are approved sourced notes. The nine introductory Advanced Rules articles are published as **Draft — awaiting review**, following the original batch authorization on November 14, 2026 and the addition of Negated vs ignored on November 21, 2026. The user authorized individual mechanics studies beginning with Hidden on November 20, then requested that Mechanics become its own primary section on November 21, 2026. Hidden remains **Draft — awaiting review**. The first Meta Deck Study, Ezreal Pack Control, is published as **Draft — awaiting review**, with sources checked November 24, 2026.
 
 ## Permanent information architecture
 
@@ -96,3 +96,6 @@ Separate rule facts, observed tournament results, and strategic judgments. Do no
 Each basics article answers one small question in plain language, using an optional short example and only concepts introduced in that lesson or earlier ones. Keep official references in an expandable source note and add a next lesson link when available. Each advanced article records context, a precise question, an ordered explanation, and references. Each deck study follows the outline on the Meta Deck Studies index.
 
 Keep status labels consistent with [Start here](/start-here). After an approved change, update navigation and the relevant index, then run `npm run docs:build` to check the production site and internal links. Update this plan when the user changes the structure or approval workflow.
+
+
+**Authorized first deck study, November 24, 2026:** The user requested a current Ezreal write-up and publication to GitHub Pages, and confirmed Standard Constructed in the post–November 23 ban environment with recent international lists. [Ezreal Pack Control](/meta/ezreal-pack-control) is published as **Draft — awaiting review**, checked November 24. It preserves a representative Bologna list, separates strategic judgments from rules and results, and records the event-date discrepancy, secondary card-text sources, and limited post-ban evidence. This authorization covers this named study; further decks and broad meta rankings still await approval.

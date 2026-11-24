@@ -39,8 +39,12 @@ Follow all 14 lessons from the objective of the game through your first Duel and
 The [nine-article Advanced Rules path](/advanced/) continues from Basics through chains, timing, choices, triggers, cleanup, negated vs ignored instructions, mechanics, combat, and official FAQ interactions. Sources checked November 21, 2026; content awaits user review.
 :::
 
-Rules explanations link to specific rules in the [official rulebook reference](/reference/core-rules) and relevant updates. Deck studies will distinguish rules from strategic analysis. See the [official sources guide](/sources) and [site design and content plan](/site-design).
+Rules explanations link to specific rules in the [official rulebook reference](/reference/core-rules) and relevant updates. Deck studies distinguish rules from strategic analysis. See the [official sources guide](/sources) and [site design and content plan](/site-design).
 
 ::: info Mechanics studies · Hidden
 Browse the [Mechanics section](/mechanics/). Start with [Hidden](/mechanics/hidden): how it works, edge cases, and dated rules changes and card errata. The first study is a draft awaiting review, checked November 20, 2026.
+:::
+
+::: info Meta Deck Studies · Ezreal Pack Control
+Read [Ezreal Pack Control](/meta/ezreal-pack-control) for a dated list, engine sequences, opening decisions, and practice scenarios in the November 23 Standard Constructed ban environment. Draft awaiting review; sources checked November 24, 2026.
 :::

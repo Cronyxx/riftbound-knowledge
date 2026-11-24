@@ -78,7 +78,10 @@ export default defineConfig({
       {
         text: '04 · META DECK STUDIES',
         collapsed: false,
-        items: [{ text: 'Overview & study format', link: '/meta/' }]
+        items: [
+          { text: 'Overview & study format', link: '/meta/' },
+          { text: 'Ezreal Pack Control', link: '/meta/ezreal-pack-control' }
+        ]
       },
       {
         text: 'RESOURCES',
