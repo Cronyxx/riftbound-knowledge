@@ -41,6 +41,8 @@ Garen’s Champion Legend, **Might of Demacia**, shows **Body** and **Order**. C
 
 With Might of Demacia, a **Body Rune** or **Order Rune** fits your Rune Deck. A **Mind Rune** does not match either domain. A card showing both Body and Order passes the domain check because Garen supplies both.
 
+For deckbuilding, see [Domain identities and interaction cards](/reference/domain-interactions) for each domain’s playstyle and cards grouped by effect.
+
 Next lesson is [Runes, resources, and costs](/basics/runes-and-costs).
 
 *Card images and domain symbols © Riot Games. [Official Card Gallery](https://playriftbound.com/en-us/card-gallery/).*

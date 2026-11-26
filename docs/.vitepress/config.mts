@@ -25,6 +25,7 @@ export default defineConfig({
         { text: 'Start here', link: '/start-here' },
         { text: 'Official rulebook', link: '/reference/core-rules' },
         { text: 'Official sources', link: '/sources' },
+        { text: 'Domain identities and interaction cards', link: '/reference/domain-interactions' },
         { text: 'Writing a note', link: '/contributing' },
         { text: 'Site design & plan', link: '/site-design' }
       ] }
@@ -91,6 +92,7 @@ export default defineConfig({
           { text: 'Start here', link: '/start-here' },
           { text: 'Official rulebook', link: '/reference/core-rules' },
           { text: 'Official sources', link: '/sources' },
+          { text: 'Domain identities and interaction cards', link: '/reference/domain-interactions' },
           { text: 'Writing a note', link: '/contributing' },
           { text: 'Site design & plan', link: '/site-design' }
         ]
