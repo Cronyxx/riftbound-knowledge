@@ -17,6 +17,8 @@ The [Mechanics section](/mechanics/) contains individual mechanic references. It
 
 ## Status labels
 
+For deckbuilding, the supporting [domain reference](/reference/domain-interactions) links to separate illustrated pages for Fury, Calm, Mind, Body, Chaos, and Order, with each domain’s cards grouped by role. These references are **Draft — awaiting review**.
+
 | Status | Meaning |
 | --- | --- |
 | Awaiting approval | Proposed content; drafting has not been authorized yet. |

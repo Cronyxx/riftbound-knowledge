@@ -143,6 +143,56 @@
   cursor: pointer;
 }
 
+.domain-card-intro {
+  display: grid;
+  grid-template-columns: minmax(160px, 220px) minmax(0, 1fr);
+  align-items: center;
+  gap: 24px;
+  margin: 16px 0 32px;
+  padding: 16px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+}
+
+.domain-card-intro img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.domain-card-intro a:focus-visible {
+  outline: 3px solid var(--vp-c-brand-1);
+  outline-offset: 3px;
+}
+
+.domain-card-intro figcaption {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.domain-card-intro figcaption p:first-child {
+  margin-top: 0;
+}
+
+.domain-card-intro figcaption p:last-child {
+  margin-bottom: 0;
+  font-size: 0.875rem;
+}
+
+@media (max-width: 640px) {
+  .domain-card-intro {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 16px;
+  }
+
+  .domain-card-intro > a {
+    width: 100%;
+    max-width: 260px;
+    justify-self: center;
+  }
+}
+
 @media (max-width: 640px) {
   .deck-card-gallery {
     grid-template-columns: repeat(2, minmax(0, 1fr));

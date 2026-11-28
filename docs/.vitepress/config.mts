@@ -92,7 +92,19 @@ export default defineConfig({
           { text: 'Start here', link: '/start-here' },
           { text: 'Official rulebook', link: '/reference/core-rules' },
           { text: 'Official sources', link: '/sources' },
-          { text: 'Domain identities and interaction cards', link: '/reference/domain-interactions' },
+          {
+            text: 'Domain identities and interaction cards',
+            link: '/reference/domain-interactions',
+            collapsed: false,
+            items: [
+              { text: 'Fury (Red)', link: '/reference/domains/fury' },
+              { text: 'Calm (Green)', link: '/reference/domains/calm' },
+              { text: 'Mind (Blue)', link: '/reference/domains/mind' },
+              { text: 'Body (Orange)', link: '/reference/domains/body' },
+              { text: 'Chaos (Purple)', link: '/reference/domains/chaos' },
+              { text: 'Order (Yellow)', link: '/reference/domains/order' }
+            ]
+          },
           { text: 'Writing a note', link: '/contributing' },
           { text: 'Site design & plan', link: '/site-design' }
         ]
