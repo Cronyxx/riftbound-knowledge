@@ -134,7 +134,7 @@ A Sand Soldier is a domainless 2 Might unit token ([Core Rules 187.3](/reference
 
 The low-cost gear—**Doran’s Shield, Eye of the Herald, and Soul Sword**—helps you establish the engine without spending an entire turn on one expensive card. **Brutalizer, Hand Hammer, and B.F. Sword** fill out the equipment density. Judge a gear play by what it enables this turn and what it contributes to a later Arise!, rather than treating a high Equipment count as a score by itself.
 
-Weaponmaster offers an attachment at the Equip cost reduced by one **Any Power**; it does not make every Equip cost free. In particular, a cost containing only a specified domain’s Power receives no reduction under [821.1.c.3](/reference/core-rules#rule-821-1-c-3). You may select already attached Equipment, subject to legal attachment and payment; moving it strengthens one Soldier by taking it away from another. See [821.1.b–c](/reference/core-rules#rule-821-1-b) for the full procedure.
+Weaponmaster offers an attachment at the Equip cost reduced by **one Power of any domain**. This discount can reduce a domain-specific Power cost: **Doran’s Shield’s one-Calm-Power Equip cost becomes zero**, so the Soldier can attach it without spending Power. The Any Power symbol does not restrict the discount to costs printed with that same symbol. The official domain-specific discount example in [356.4.f.1](/reference/core-rules#rule-356-4-f-1) demonstrates this. Weaponmaster does not erase Energy or non-resource costs; a cost with no Power receives no Power discount ([821.1.c](/reference/core-rules#rule-821-1-c)). You may select already attached Equipment, subject to legal attachment and payment; moving it strengthens one Soldier by taking it away from another. See [821.1.b–c](/reference/core-rules#rule-821-1-b) for the full procedure.
 
 ### Arise!, Guards!, and current wording
 
@@ -162,12 +162,12 @@ Early, establish gear while keeping enough Energy for the Legend. In the middle 
 
 ### Worked sequence: one Equipment, one Soldier
 
-Start in an open state during your turn with a ready Emperor of the Sands, Doran’s Shield in hand, at least two Energy available, and access to one Calm Power if you want to attach the Shield. Assume no opposing response changes the board.
+Start in an open state during your turn with a ready Emperor of the Sands, Doran’s Shield in hand, at least two Energy available, and no effects increasing Equip costs. No Power is needed for this sequence. Assume no opposing response changes the board.
 
 1. Play Doran’s Shield for one Energy and let it resolve. You have now played an Equipment this turn.
 2. Spend one Energy and exhaust the Legend to activate its token ability. The opponent can respond through the normal chain procedure; once it resolves, play the Soldier to your base.
-3. The Soldier’s Weaponmaster ability triggers. On resolution, you may choose the Shield and pay its Calm Equip cost to attach it. The Any Power discount does not erase that specified Calm cost.
-4. The Soldier has not been readied by these effects. Preserve it for later development rather than treating it as an immediate standard-move attacker.
+3. The Soldier’s Weaponmaster ability triggers. On resolution, you may choose the Shield and attach it: its one-Calm-Power Equip cost is reduced to zero by Weaponmaster. No Calm Power is spent.
+4. The complete sequence costs two Energy and exhausts the Legend, with no Power payment. The Soldier has not been readied by these effects. Preserve it for later development rather than treating it as an immediate standard-move attacker.
 
 Azir’s **Accelerate** is a different route to immediate action: an additional one Energy and one Order Power lets him enter ready. Budget that on top of his four-Energy play cost ([Core Rules 805](/reference/core-rules#rule-805)).
 
@@ -206,7 +206,7 @@ Against fast pressure, test whether your setup can defend before the first subst
 
 ## Sources and limits
 
-All sources were checked **November 28, 2026**.
+All sources were checked **November 28, 2026**. **Rules correction checked November 29, 2026:** the Weaponmaster explanation and Doran’s Shield sequence now correctly apply the one-Power discount to a domain-specific Equip cost. Riot’s live Rules Hub still links the October 9 Core Rules; rules 821.1.c and the example in 356.4.f.1 support this correction. The remainder of the study retains its original review date.
 
 1. **List and result:** [G. Sensi’s Azir list](https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi), dated November 21; [TCGContender event archive](https://tcgcontender.com/riftbound/tournaments/demacia-league-bologna-post-ban-meta-2026-11-22), dated November 22. These establish the representative build and reported finish, not matchup rates.
 2. **Current legality and rules edition:** [Riot Rules Hub](https://playriftbound.com/en-us/rules-hub/), Standard Constructed banned list updated November 23, 2026; Core Rules listed October 9, 2026. Exact local rule links above use that edition. Recheck after the next legality or rules update.
