@@ -112,7 +112,7 @@
   background: var(--vp-c-bg-soft);
 }
 
-.deck-card-gallery a {
+.deck-card-gallery figure > a {
   display: grid;
   place-items: center;
   aspect-ratio: 744 / 1039;
@@ -154,6 +154,23 @@
   .deck-card-gallery {
     grid-template-columns: 1fr;
   }
+}
+
+.deck-card-gallery.domain-interaction-gallery {
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: 8px;
+  margin: 12px 0;
+}
+
+.domain-interaction-gallery figure {
+  padding: 6px;
+  border-radius: 8px;
+}
+
+.domain-interaction-gallery figcaption {
+  margin-top: 6px;
+  font-size: 0.75rem;
+  line-height: 1.3;
 }
 
 @media (max-width: 480px) {
