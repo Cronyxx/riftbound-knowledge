@@ -11,6 +11,19 @@ description: A current Fury/Order Rek’Sai study with a dated list, Accelerate 
 This study covers the November 23 ban environment using a recent Italian tournament list. Recommendations are strategic analysis unless identified as observed results. The source event predates the bans’ official effective date; its reported finish does not establish a settled post-ban matchup ranking.
 :::
 
+<div class="deck-card-gallery deck-card-gallery--identity">
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2db78549c30d8f9012af797fe075c4dc2355ec5d-744x1039.png?accountingTag=RB" aria-label="View full-size Void Burrower card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2db78549c30d8f9012af797fe075c4dc2355ec5d-744x1039.png?accountingTag=RB&amp;w=480" alt="Void Burrower printed legend card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>Legend · Void Burrower</strong><br>SFD-187/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/999e2d25ea32da971e7b99b6e75558286c17949e-744x1039.png?accountingTag=RB" aria-label="View full-size Rek’Sai, Breacher card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/999e2d25ea32da971e7b99b6e75558286c17949e-744x1039.png?accountingTag=RB&amp;w=480" alt="Rek’Sai, Breacher printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>Chosen Champion · Rek’Sai, Breacher</strong><br>SFD-029/221</figcaption>
+  </figure>
+</div>
+
+Select an image to view it at full size. Printed text can predate errata; use the rules and errata references in this study for current wording.
+
 ## Game plan: make the next unit matter now
 
 Rek’Sai combines Fury’s attacking pressure with Order’s extra bodies and resource tools. The list studied here uses **Rek’Sai, Breacher** as its Chosen Champion. Breacher gives friendly units played from outside a player’s hand access to **Accelerate**, an optional additional payment that lets a unit enter ready. Tokens and plays enabled by the Legend can therefore become immediate battlefield threats when you can afford the extra costs.
@@ -65,6 +78,159 @@ This preserves Cattin’s published list. The Chosen Champion starts separately 
 | Rune Deck — 12 | 7 Fury Rune; 5 Order Rune |
 | Battlefields — 3 | Forbidding Waste; Hunters’ Circle; The Candlelit Sanctum |
 | Sideboard — 10 | 1 Grim Apothecary; 1 Hunting Dog; 1 Rengar, Pouncing; 1 Ferrous Forerunner; 1 Mordekaiser, Dominating; 1 Against the Odds; 1 Salvage; 1 Dragon Form; 1 Imperial Decree; 1 Thermo Beam |
+
+### Card images
+
+<details class="deck-card-images">
+<summary>Main Deck — 39 cards plus the Chosen Champion shown above</summary>
+
+<div class="deck-card-gallery">
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0e80322dac6065e3ee726f5f9a2650a88195a44c-744x1039.png?accountingTag=RB" aria-label="View full-size Concert Poster card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0e80322dac6065e3ee726f5f9a2650a88195a44c-744x1039.png?accountingTag=RB&amp;w=480" alt="Concert Poster printed gear card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Concert Poster</strong><br>RAD-116/167</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/48d798bf93afd1ef139dcafc6cd8705742b93169-744x1039.png?accountingTag=RB" aria-label="View full-size Long Sword card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/48d798bf93afd1ef139dcafc6cd8705742b93169-744x1039.png?accountingTag=RB&amp;w=480" alt="Long Sword printed gear card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Long Sword</strong><br>SFD-022/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/49338a4b31727c6ef50e7dbc54e7004dcd2b6f4c-744x1039.png?accountingTag=RB" aria-label="View full-size Cull the Weak card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/49338a4b31727c6ef50e7dbc54e7004dcd2b6f4c-744x1039.png?accountingTag=RB&amp;w=480" alt="Cull the Weak printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Cull the Weak</strong><br>OGN-209/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9cf2d2e59e1bf839cdf5c2a77e95f5d1e871788f-744x1039.png?accountingTag=RB" aria-label="View full-size Falling Star card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9cf2d2e59e1bf839cdf5c2a77e95f5d1e871788f-744x1039.png?accountingTag=RB&amp;w=480" alt="Falling Star printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Falling Star</strong><br>OGN-029/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/84d8b6d7a9cab2b78a465a8e0caf597f3ef5a175-744x1039.png?accountingTag=RB" aria-label="View full-size Carrion Dredger card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/84d8b6d7a9cab2b78a465a8e0caf597f3ef5a175-744x1039.png?accountingTag=RB&amp;w=480" alt="Carrion Dredger printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Carrion Dredger</strong><br>UNL-153/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5db9d66fc22887e8686a13ffdfe480106cbd3b35-744x1039.png?accountingTag=RB" aria-label="View full-size Inferna card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5db9d66fc22887e8686a13ffdfe480106cbd3b35-744x1039.png?accountingTag=RB&amp;w=480" alt="Inferna printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Inferna</strong><br>UNL-002/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/914ced10400826a878ed5cf7294207a4e7b542b1-744x1039.png?accountingTag=RB" aria-label="View full-size Trifarian Captain card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/914ced10400826a878ed5cf7294207a4e7b542b1-744x1039.png?accountingTag=RB&amp;w=480" alt="Trifarian Captain printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Trifarian Captain</strong><br>RAD-129/167</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b660759a6bcb9c7ca41ea969cf11463259e284c9-744x1039.png?accountingTag=RB" aria-label="View full-size Bilgewater Tracker card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b660759a6bcb9c7ca41ea969cf11463259e284c9-744x1039.png?accountingTag=RB&amp;w=480" alt="Bilgewater Tracker printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Bilgewater Tracker</strong><br>RAD-003/167</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b41107b7456a2a38d203983b1e504e3789d6b6ea-744x1039.png?accountingTag=RB" aria-label="View full-size Faithful Manufactor card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b41107b7456a2a38d203983b1e504e3789d6b6ea-744x1039.png?accountingTag=RB&amp;w=480" alt="Faithful Manufactor printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Faithful Manufactor</strong><br>OGN-211/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cefd575150527670879748a7212f80a1f4c1c4fc-744x1039.png?accountingTag=RB" aria-label="View full-size Hunting Dog card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cefd575150527670879748a7212f80a1f4c1c4fc-744x1039.png?accountingTag=RB&amp;w=480" alt="Hunting Dog printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Hunting Dog</strong><br>RAD-119/167</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e24eb3fb835c4762479da5608b018785ef22e02c-744x1039.png?accountingTag=RB" aria-label="View full-size Rengar, Pouncing card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e24eb3fb835c4762479da5608b018785ef22e02c-744x1039.png?accountingTag=RB&amp;w=480" alt="Rengar, Pouncing printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>2× Rengar, Pouncing</strong><br>SFD-025/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/02ef2a5c93cf60048bb932a709d3a5b17b93bb1d-744x1039.png?accountingTag=RB" aria-label="View full-size Shimmering Swimmer card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/02ef2a5c93cf60048bb932a709d3a5b17b93bb1d-744x1039.png?accountingTag=RB&amp;w=480" alt="Shimmering Swimmer printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Shimmering Swimmer</strong><br>RAD-014/167</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c3bb6f4cb58feeb50e396d12ec9865c5434025af-744x1039.png?accountingTag=RB" aria-label="View full-size Noxus Hopeful card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c3bb6f4cb58feeb50e396d12ec9865c5434025af-744x1039.png?accountingTag=RB&amp;w=480" alt="Noxus Hopeful printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Noxus Hopeful</strong><br>OGN-012/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fc6ab617f1ce20c82ed76dc6446d42d416c08b34-744x1039.png?accountingTag=RB" aria-label="View full-size Imperial Decree card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fc6ab617f1ce20c82ed76dc6446d42d416c08b34-744x1039.png?accountingTag=RB&amp;w=480" alt="Imperial Decree printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Imperial Decree</strong><br>OGN-221/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b2873a352c0158a677255894cec458d1c17709f7-744x1039.png?accountingTag=RB" aria-label="View full-size Ferrous Forerunner card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b2873a352c0158a677255894cec458d1c17709f7-744x1039.png?accountingTag=RB&amp;w=480" alt="Ferrous Forerunner printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Ferrous Forerunner</strong><br>SFD-021/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aa3bd795a1fa015b42bf64a2d588f527342c2a15-744x1039.png?accountingTag=RB" aria-label="View full-size Undertitan card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aa3bd795a1fa015b42bf64a2d588f527342c2a15-744x1039.png?accountingTag=RB&amp;w=480" alt="Undertitan printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Undertitan</strong><br>SFD-175/221</figcaption>
+  </figure>
+</div>
+
+</details>
+
+<details class="deck-card-images">
+<summary>Runes and battlefields</summary>
+
+<div class="deck-card-gallery">
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/12bcd0cde5d9ff4640e82945001e9fef863530f1-744x1039.png?accountingTag=RB" aria-label="View full-size Fury Rune card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/12bcd0cde5d9ff4640e82945001e9fef863530f1-744x1039.png?accountingTag=RB&amp;w=480" alt="Fury Rune printed rune card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>7× Fury Rune</strong><br>OGN-007/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/35ec6fdd2124324bb7052cba31c8c44f2e98f3ae-744x1039.png?accountingTag=RB" aria-label="View full-size Order Rune card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/35ec6fdd2124324bb7052cba31c8c44f2e98f3ae-744x1039.png?accountingTag=RB&amp;w=480" alt="Order Rune printed rune card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>5× Order Rune</strong><br>OGN-214/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/83dbc88d462da85be9398c790e88ff13da8637d4-1039x744.png?accountingTag=RB" aria-label="View full-size Forbidding Waste card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/83dbc88d462da85be9398c790e88ff13da8637d4-1039x744.png?accountingTag=RB&amp;w=480" alt="Forbidding Waste printed battlefield card" width="1039" height="744" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Forbidding Waste</strong><br>UNL-210/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e7e25d90506d805f1996e7f751cb5b6baa8ec305-1039x744.png?accountingTag=RB" aria-label="View full-size Hunters’ Circle card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e7e25d90506d805f1996e7f751cb5b6baa8ec305-1039x744.png?accountingTag=RB&amp;w=480" alt="Hunters’ Circle printed battlefield card" width="1039" height="744" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Hunters’ Circle</strong><br>RAD-163/167</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f14fe78f2b7f3909eadb07bce24bd582e190653d-1038x744.png?accountingTag=RB" aria-label="View full-size The Candlelit Sanctum card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f14fe78f2b7f3909eadb07bce24bd582e190653d-1038x744.png?accountingTag=RB&amp;w=480" alt="The Candlelit Sanctum printed battlefield card" width="1038" height="744" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× The Candlelit Sanctum</strong><br>OGN-291/298</figcaption>
+  </figure>
+</div>
+
+</details>
+
+<details class="deck-card-images">
+<summary>Sideboard — 10 cards</summary>
+
+<div class="deck-card-gallery">
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/af548bbfc856e306c5feefb34eb6bd9a4e442904-744x1039.png?accountingTag=RB" aria-label="View full-size Grim Apothecary card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/af548bbfc856e306c5feefb34eb6bd9a4e442904-744x1039.png?accountingTag=RB&amp;w=480" alt="Grim Apothecary printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Grim Apothecary</strong><br>UNL-021/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cefd575150527670879748a7212f80a1f4c1c4fc-744x1039.png?accountingTag=RB" aria-label="View full-size Hunting Dog card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cefd575150527670879748a7212f80a1f4c1c4fc-744x1039.png?accountingTag=RB&amp;w=480" alt="Hunting Dog printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Hunting Dog</strong><br>RAD-119/167</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e24eb3fb835c4762479da5608b018785ef22e02c-744x1039.png?accountingTag=RB" aria-label="View full-size Rengar, Pouncing card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e24eb3fb835c4762479da5608b018785ef22e02c-744x1039.png?accountingTag=RB&amp;w=480" alt="Rengar, Pouncing printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Rengar, Pouncing</strong><br>SFD-025/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b2873a352c0158a677255894cec458d1c17709f7-744x1039.png?accountingTag=RB" aria-label="View full-size Ferrous Forerunner card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b2873a352c0158a677255894cec458d1c17709f7-744x1039.png?accountingTag=RB&amp;w=480" alt="Ferrous Forerunner printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Ferrous Forerunner</strong><br>SFD-021/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/43068166258356908b364566abcfc57123e96caa-744x1039.png?accountingTag=RB" aria-label="View full-size Mordekaiser, Dominating card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/43068166258356908b364566abcfc57123e96caa-744x1039.png?accountingTag=RB&amp;w=480" alt="Mordekaiser, Dominating printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Mordekaiser, Dominating</strong><br>RAD-137/167</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4c4ab0c838854ccd5d5399a045835876450287e8-744x1039.png?accountingTag=RB" aria-label="View full-size Against the Odds card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4c4ab0c838854ccd5d5399a045835876450287e8-744x1039.png?accountingTag=RB&amp;w=480" alt="Against the Odds printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Against the Odds</strong><br>SFD-001/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9bdbac358e7c9415c1354b6d1f6888dcf9c5519b-744x1039.png?accountingTag=RB" aria-label="View full-size Salvage card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9bdbac358e7c9415c1354b6d1f6888dcf9c5519b-744x1039.png?accountingTag=RB&amp;w=480" alt="Salvage printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Salvage</strong><br>OGN-224/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ded9b54d93d7c3ade8a1d65c8ac66a13d1246329-744x1039.png?accountingTag=RB" aria-label="View full-size Dragon Form card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ded9b54d93d7c3ade8a1d65c8ac66a13d1246329-744x1039.png?accountingTag=RB&amp;w=480" alt="Dragon Form printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Dragon Form</strong><br>VEN-116/166</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fc6ab617f1ce20c82ed76dc6446d42d416c08b34-744x1039.png?accountingTag=RB" aria-label="View full-size Imperial Decree card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fc6ab617f1ce20c82ed76dc6446d42d416c08b34-744x1039.png?accountingTag=RB&amp;w=480" alt="Imperial Decree printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Imperial Decree</strong><br>OGN-221/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/88661e852b864491e6d7f5f087caf4263f61c361-744x1039.png?accountingTag=RB" aria-label="View full-size Thermo Beam card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/88661e852b864491e6d7f5f087caf4263f61c361-744x1039.png?accountingTag=RB&amp;w=480" alt="Thermo Beam printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Thermo Beam</strong><br>OGN-022/298</figcaption>
+  </figure>
+</div>
+
+</details>
+
+*Card images © Riot Games · [Official Card Gallery](https://playriftbound.com/en-us/card-gallery/). Image URLs matched by card name and collector number using the [October 26 gallery mapping snapshot](https://github.com/Dystorted888/riftbound-card-data/blob/main/data/cards.json), checked November 28, 2026. Printed images are illustrations, not updated rules text.*
+
 
 **Provenance:** [full list and result](https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin), checked November 25. The construction has 29 units, four gear, and seven spells, counting Breacher among the units. No substitutions have been made.
 

@@ -11,6 +11,19 @@ description: A dated study of post-ban Ezreal, with a representative list, openi
 This study was authorized for publication on November 24, 2026. It covers the November 23 ban environment using recent international lists. Strategic recommendations below are analysis for testing; publication does not mark the study as user-reviewed.
 :::
 
+<div class="deck-card-gallery deck-card-gallery--identity">
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d0e143d9edbc14971b2a7b463b3c25b2b6a0c098-744x1039.png?accountingTag=RB" aria-label="View full-size Prodigal Explorer card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d0e143d9edbc14971b2a7b463b3c25b2b6a0c098-744x1039.png?accountingTag=RB&amp;w=480" alt="Prodigal Explorer printed legend card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>Legend · Prodigal Explorer</strong><br>SFD-199/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b48d6242ceb84c3eae7109317d51efaf1e56c9c3-744x1039.png?accountingTag=RB" aria-label="View full-size Ezreal, Prodigy card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b48d6242ceb84c3eae7109317d51efaf1e56c9c3-744x1039.png?accountingTag=RB&amp;w=480" alt="Ezreal, Prodigy printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>Chosen Champion · Ezreal, Prodigy</strong><br>SFD-149/221</figcaption>
+  </figure>
+</div>
+
+Select an image to view it at full size. Printed text can predate errata; use the rules and errata references in this study for current wording.
+
 ## The plan: survive, reuse, then score
 
 Ezreal Pack Control uses Mind and Chaos interaction to slow the opponent while building a reusable resource engine. **Pack of Wonders** returns useful cards to hand so their play effects can be used again. **Bewitching Spirit** pressures the opponent’s hand, **Fizz, Trickster** reuses spells, and **Thousand-Tailed Watcher** helps turn a stabilized position into battlefield pressure.
@@ -65,6 +78,159 @@ The following is the published Mikulski list, preserved rather than blended with
 | Rune Deck — 12 | 6 Mind Rune; 6 Chaos Rune |
 | Battlefields — 3 | Frozen Fortress; Rockfall Path; Sigil of the Storm |
 | Sideboard — 10 | 1 Aspiring Engineer; 1 Ravenbloom Prefect; 2 Kha’Zix, Mutating Horror; 1 Vex, Apathetic; 1 Sprite Fountain; 2 An Offer You Can’t Refuse; 1 Hard Bargain; 1 Star-Crossed |
+
+### Card images
+
+<details class="deck-card-images">
+<summary>Main Deck — 39 cards plus the Chosen Champion shown above</summary>
+
+<div class="deck-card-gallery">
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f35b49faeb444071445662c9af13710c00a4569c-744x1039.png?accountingTag=RB" aria-label="View full-size The List card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f35b49faeb444071445662c9af13710c00a4569c-744x1039.png?accountingTag=RB&amp;w=480" alt="The List printed gear card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>2× The List</strong><br>UNL-138/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f0ae1c4bb788f6fadc251c9d9b36f3f92eef4c56-744x1039.png?accountingTag=RB" aria-label="View full-size Bellows Breath card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f0ae1c4bb788f6fadc251c9d9b36f3f92eef4c56-744x1039.png?accountingTag=RB&amp;w=480" alt="Bellows Breath printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Bellows Breath</strong><br>SFD-080/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dfd3b161ab76ba0c5d503384f1289b3395434b10-744x1039.png?accountingTag=RB" aria-label="View full-size Gust card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dfd3b161ab76ba0c5d503384f1289b3395434b10-744x1039.png?accountingTag=RB&amp;w=480" alt="Gust printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Gust</strong><br>OGN-169/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/837a5976192bbf8bdb4086429802167548ecc119-744x1039.png?accountingTag=RB" aria-label="View full-size Stupefy card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/837a5976192bbf8bdb4086429802167548ecc119-744x1039.png?accountingTag=RB&amp;w=480" alt="Stupefy printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Stupefy</strong><br>OGN-095/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a0830f326c49abe7fb1d3c9787e7ce5d7b776eec-744x1039.png?accountingTag=RB" aria-label="View full-size Pack of Wonders card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a0830f326c49abe7fb1d3c9787e7ce5d7b776eec-744x1039.png?accountingTag=RB&amp;w=480" alt="Pack of Wonders printed gear card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Pack of Wonders</strong><br>OGN-181/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fcb3ea3e8f829b8dc845fbf49080552d635bb47b-744x1039.png?accountingTag=RB" aria-label="View full-size Sprite Fountain card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fcb3ea3e8f829b8dc845fbf49080552d635bb47b-744x1039.png?accountingTag=RB&amp;w=480" alt="Sprite Fountain printed gear card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Sprite Fountain</strong><br>UNL-078/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/682f5ee828ede4dbaf428cd0666db64ee8bae722-744x1039.png?accountingTag=RB" aria-label="View full-size Treasure Trove card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/682f5ee828ede4dbaf428cd0666db64ee8bae722-744x1039.png?accountingTag=RB&amp;w=480" alt="Treasure Trove printed gear card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Treasure Trove</strong><br>OGN-186/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png?accountingTag=RB" aria-label="View full-size Hard Bargain card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png?accountingTag=RB&amp;w=480" alt="Hard Bargain printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Hard Bargain</strong><br>SFD-136/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7c670dc3d997c52b90d67043989b53c67a72f4c4-744x1039.png?accountingTag=RB" aria-label="View full-size Temporal Breach card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7c670dc3d997c52b90d67043989b53c67a72f4c4-744x1039.png?accountingTag=RB&amp;w=480" alt="Temporal Breach printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>2× Temporal Breach</strong><br>VEN-066/166</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e7dcc9ad059b471373f0093453a0ca7537d6aa0f-744x1039.png?accountingTag=RB" aria-label="View full-size The Good Stuff card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e7dcc9ad059b471373f0093453a0ca7537d6aa0f-744x1039.png?accountingTag=RB&amp;w=480" alt="The Good Stuff printed gear card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>2× The Good Stuff</strong><br>RAD-106/167</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0bfa45e6e86dfc256de0163f96273b761e9592fb-744x1039.png?accountingTag=RB" aria-label="View full-size Star-Crossed card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0bfa45e6e86dfc256de0163f96273b761e9592fb-744x1039.png?accountingTag=RB&amp;w=480" alt="Star-Crossed printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>2× Star-Crossed</strong><br>UNL-128/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aef5c891bd6f7cbc3a97b1e01688868316599929-744x1039.png?accountingTag=RB" aria-label="View full-size Wages of Pain card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aef5c891bd6f7cbc3a97b1e01688868316599929-744x1039.png?accountingTag=RB&amp;w=480" alt="Wages of Pain printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Wages of Pain</strong><br>SFD-070/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a771917dea98b137c3f4a13e4967dccf9ee445e5-744x1039.png?accountingTag=RB" aria-label="View full-size Bewitching Spirit card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a771917dea98b137c3f4a13e4967dccf9ee445e5-744x1039.png?accountingTag=RB&amp;w=480" alt="Bewitching Spirit printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Bewitching Spirit</strong><br>UNL-121/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6d1c6615fb6ef5fb520a35b2ce76f8feee9167dc-744x1039.png?accountingTag=RB" aria-label="View full-size Fizz, Trickster card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6d1c6615fb6ef5fb520a35b2ce76f8feee9167dc-744x1039.png?accountingTag=RB&amp;w=480" alt="Fizz, Trickster printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Fizz, Trickster</strong><br>SFD-140/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/81195df7122beaba38ebc8b8212ceb0e7593afe9-744x1039.png?accountingTag=RB" aria-label="View full-size Deadly Flourish card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/81195df7122beaba38ebc8b8212ceb0e7593afe9-744x1039.png?accountingTag=RB&amp;w=480" alt="Deadly Flourish printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>3× Deadly Flourish</strong><br>UNL-073/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7f13b0216c5d805400bb64cf26cd119acfc6c5ca-744x1039.png?accountingTag=RB" aria-label="View full-size Vex, Apathetic card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7f13b0216c5d805400bb64cf26cd119acfc6c5ca-744x1039.png?accountingTag=RB&amp;w=480" alt="Vex, Apathetic printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Vex, Apathetic</strong><br>UNL-150/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/792edce1a64d4a92740aa3fa240e21e161513944-744x1039.png?accountingTag=RB" aria-label="View full-size Singularity card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/792edce1a64d4a92740aa3fa240e21e161513944-744x1039.png?accountingTag=RB&amp;w=480" alt="Singularity printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Singularity</strong><br>OGN-105/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b20e5644c33924a58e0497dd9f7db19723147003-744x1039.png?accountingTag=RB" aria-label="View full-size Thousand-Tailed Watcher card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b20e5644c33924a58e0497dd9f7db19723147003-744x1039.png?accountingTag=RB&amp;w=480" alt="Thousand-Tailed Watcher printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>2× Thousand-Tailed Watcher</strong><br>OGN-116/298</figcaption>
+  </figure>
+</div>
+
+</details>
+
+<details class="deck-card-images">
+<summary>Runes and battlefields</summary>
+
+<div class="deck-card-gallery">
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f99aa4874baaebd2e81798c8a3aa01c5900f6d30-744x1039.png?accountingTag=RB" aria-label="View full-size Mind Rune card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f99aa4874baaebd2e81798c8a3aa01c5900f6d30-744x1039.png?accountingTag=RB&amp;w=480" alt="Mind Rune printed rune card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>6× Mind Rune</strong><br>OGN-089/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/daf23b0deaa5e1a5a5d310b59e9ad25d1bd70363-744x1039.png?accountingTag=RB" aria-label="View full-size Chaos Rune card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/daf23b0deaa5e1a5a5d310b59e9ad25d1bd70363-744x1039.png?accountingTag=RB&amp;w=480" alt="Chaos Rune printed rune card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>6× Chaos Rune</strong><br>OGN-166/298</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b5e33fdb4ddc8c73e03bca648862fc080aa8bbcf-1039x744.png?accountingTag=RB" aria-label="View full-size Frozen Fortress card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b5e33fdb4ddc8c73e03bca648862fc080aa8bbcf-1039x744.png?accountingTag=RB&amp;w=480" alt="Frozen Fortress printed battlefield card" width="1039" height="744" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Frozen Fortress</strong><br>UNL-212/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a1bde66bccf2786e7c0b9d44fcdcdaa6b59f0328-1039x744.png?accountingTag=RB" aria-label="View full-size Rockfall Path card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a1bde66bccf2786e7c0b9d44fcdcdaa6b59f0328-1039x744.png?accountingTag=RB&amp;w=480" alt="Rockfall Path printed battlefield card" width="1039" height="744" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Rockfall Path</strong><br>SFD-216/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9b795e7a2af421aabc01dc6f35c0b5d547fe3c0e-1038x744.png?accountingTag=RB" aria-label="View full-size Sigil of the Storm card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9b795e7a2af421aabc01dc6f35c0b5d547fe3c0e-1038x744.png?accountingTag=RB&amp;w=480" alt="Sigil of the Storm printed battlefield card" width="1038" height="744" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Sigil of the Storm</strong><br>OGN-287/298</figcaption>
+  </figure>
+</div>
+
+</details>
+
+<details class="deck-card-images">
+<summary>Sideboard — 10 cards</summary>
+
+<div class="deck-card-gallery">
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5d61995ae384bcee56838beb0eb6d83bf5faefad-744x1039.png?accountingTag=RB" aria-label="View full-size Aspiring Engineer card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5d61995ae384bcee56838beb0eb6d83bf5faefad-744x1039.png?accountingTag=RB&amp;w=480" alt="Aspiring Engineer printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Aspiring Engineer</strong><br>SFD-061/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/57ecb26880ea084ea16b785c9a563ff298ee6a42-744x1039.png?accountingTag=RB" aria-label="View full-size Ravenbloom Prefect card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/57ecb26880ea084ea16b785c9a563ff298ee6a42-744x1039.png?accountingTag=RB&amp;w=480" alt="Ravenbloom Prefect printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Ravenbloom Prefect</strong><br>VEN-102/166</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8306abc5ffce45add8c75c2e215162b2d1aed320-744x1039.png?accountingTag=RB" aria-label="View full-size Kha’Zix, Mutating Horror card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8306abc5ffce45add8c75c2e215162b2d1aed320-744x1039.png?accountingTag=RB&amp;w=480" alt="Kha’Zix, Mutating Horror printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>2× Kha’Zix, Mutating Horror</strong><br>UNL-143/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7f13b0216c5d805400bb64cf26cd119acfc6c5ca-744x1039.png?accountingTag=RB" aria-label="View full-size Vex, Apathetic card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7f13b0216c5d805400bb64cf26cd119acfc6c5ca-744x1039.png?accountingTag=RB&amp;w=480" alt="Vex, Apathetic printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Vex, Apathetic</strong><br>UNL-150/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fcb3ea3e8f829b8dc845fbf49080552d635bb47b-744x1039.png?accountingTag=RB" aria-label="View full-size Sprite Fountain card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fcb3ea3e8f829b8dc845fbf49080552d635bb47b-744x1039.png?accountingTag=RB&amp;w=480" alt="Sprite Fountain printed gear card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Sprite Fountain</strong><br>UNL-078/219</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f724f95257abeacee82c774eff64973b56035357-744x1039.png?accountingTag=RB" aria-label="View full-size An Offer You Can’t Refuse card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f724f95257abeacee82c774eff64973b56035357-744x1039.png?accountingTag=RB&amp;w=480" alt="An Offer You Can’t Refuse printed gear card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>2× An Offer You Can’t Refuse</strong><br>RAD-101/167</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png?accountingTag=RB" aria-label="View full-size Hard Bargain card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png?accountingTag=RB&amp;w=480" alt="Hard Bargain printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Hard Bargain</strong><br>SFD-136/221</figcaption>
+  </figure>
+  <figure>
+    <a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0bfa45e6e86dfc256de0163f96273b761e9592fb-744x1039.png?accountingTag=RB" aria-label="View full-size Star-Crossed card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0bfa45e6e86dfc256de0163f96273b761e9592fb-744x1039.png?accountingTag=RB&amp;w=480" alt="Star-Crossed printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a>
+    <figcaption><strong>1× Star-Crossed</strong><br>UNL-128/219</figcaption>
+  </figure>
+</div>
+
+</details>
+
+*Card images © Riot Games · [Official Card Gallery](https://playriftbound.com/en-us/card-gallery/). Image URLs matched by card name and collector number using the [October 26 gallery mapping snapshot](https://github.com/Dystorted888/riftbound-card-data/blob/main/data/cards.json), checked November 28, 2026. Printed images are illustrations, not updated rules text.*
+
 
 **Provenance:** [Mikulski’s published decklist](https://riftbound.org/meta/ezreal-prodigal-explorer/11788-m-mikulski), checked November 24. The source has no individual match pairings; it cannot establish this list’s matchup record.
 

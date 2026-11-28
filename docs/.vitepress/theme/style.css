@@ -91,6 +91,71 @@
   line-height: 1.45;
 }
 
+.deck-card-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 16px 0;
+}
+
+.deck-card-gallery--identity {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  max-width: 560px;
+}
+
+.deck-card-gallery figure {
+  min-width: 0;
+  margin: 0;
+  padding: 10px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+}
+
+.deck-card-gallery a {
+  display: grid;
+  place-items: center;
+  aspect-ratio: 744 / 1039;
+  border-radius: 6px;
+}
+
+.deck-card-gallery a:focus-visible {
+  outline: 3px solid var(--vp-c-brand-1);
+  outline-offset: 3px;
+}
+
+.deck-card-gallery img {
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+.deck-card-gallery figcaption {
+  margin-top: 10px;
+  overflow-wrap: anywhere;
+  font-size: 0.875rem;
+  line-height: 1.45;
+}
+
+.deck-card-images summary {
+  cursor: pointer;
+}
+
+@media (max-width: 640px) {
+  .deck-card-gallery {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+}
+
+@media (max-width: 380px) {
+  .deck-card-gallery {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 480px) {
   .card-examples {
     grid-template-columns: 1fr;
