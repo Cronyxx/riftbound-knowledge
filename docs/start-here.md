@@ -11,7 +11,7 @@ Riftbound Notes is organized into four learning sections. Begin with the basics,
 
 ## Current stage
 
-All 14 Basics lessons are approved sourced notes. The [Basics learning path](/basics/) lists each lesson in order. The nine introductory [Advanced Rules articles](/advanced/) are published as **Draft — awaiting review**, with sources checked November 21, 2026. The first Meta Deck Study, [Ezreal Pack Control](/meta/ezreal-pack-control), is **Draft — awaiting review**, with sources checked November 24, 2026 against the November 23 Standard Constructed ban list. [Rek’Sai Breacher](/meta/reksai-breacher) is also **Draft — awaiting review**, checked November 25, 2026 for the same legality environment.
+All 14 Basics lessons are approved sourced notes. The [Basics learning path](/basics/) lists each lesson in order. The nine introductory [Advanced Rules articles](/advanced/) are published as **Draft — awaiting review**, with sources checked November 21, 2026. The first Meta Deck Study, [Ezreal Pack Control](/meta/ezreal-pack-control), is **Draft — awaiting review**, with sources checked November 24, 2026 against the November 23 Standard Constructed ban list. [Rek’Sai Breacher](/meta/reksai-breacher) is also **Draft — awaiting review**, checked November 25, 2026 for the same legality environment. [Azir Equipment](/meta/azir-equipment) is a third draft awaiting review, checked November 28, 2026, covering Sand Soldiers, Equipment sequencing, weaknesses, and counters.
 
 The [Mechanics section](/mechanics/) contains individual mechanic references. Its first study, [Hidden](/mechanics/hidden), covers procedures, examples, edge cases, and dated rules changes and card errata. It is **Draft — awaiting review**, with sources checked November 20, 2026.
 
