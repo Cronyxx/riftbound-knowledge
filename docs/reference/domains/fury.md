@@ -46,7 +46,7 @@ This reference covers English main-deck cards from Origins and Proving Grounds t
 :::
 
 
-The summaries describe broad roles; individual cards have their own targets, conditions, and costs. Images show printed cards, which can predate errata. Select any image for a full-size view. Some listed cards are banned; check the [current legality and errata](https://playriftbound.com/en-us/rules-hub/) before using them at an event.
+The summaries describe broad roles; individual cards have their own targets, conditions, and costs. Images show printed cards, which can predate errata. Select a card to enlarge it over the page. Close the preview with Escape, the Close button, or a click outside it. Some listed cards are banned; check the [current legality and errata](https://playriftbound.com/en-us/rules-hub/) before using them at an event.
 
 ## Card draw
 
@@ -917,6 +917,6 @@ Develop runes or generate resources to support more plays.
 ## Sources and image notes
 
 - [Riot’s Deckbuilding Primer](https://playriftbound.com/en-us/news/rules-and-releases/deckbuilding-primer/), July 28, 2025, “Discovering the Domains”: the domain’s broad identity, not a current tier ranking.
-- Each card links to its English printing and collector number in the [Official Card Gallery](https://playriftbound.com/en-us/card-gallery/). Card images © Riot Games; select an image for the full-size version.
+- Each card links to its English printing and collector number in the [Official Card Gallery](https://playriftbound.com/en-us/card-gallery/). Card images © Riot Games; select an image to enlarge it; the preview also links to the full-size version.
 - Card names, collector numbers, and image mappings were matched against the [October 26 gallery snapshot](https://github.com/Dystorted888/riftbound-card-data/blob/main/data/cards.json) on November 28, 2026. This is a secondary catalog of Riot’s published assets. Printed images may predate errata; use the current [Rules Hub](https://playriftbound.com/en-us/rules-hub/) and its linked errata for rulings.
 - The existing role lists were moved from the domain overview, not exhaustively reclassified. The card lists and their category assignments are preserved from the earlier index; every listed card now has an image. Catalog spelling differences for Sky Cruiser (VEN-060/166) and Corina Veraza (SFD-179/221) were resolved by collector number. Their original sources include the [RiftHunt card catalog](https://rifthunt.com/api/). The reference remains a draft awaiting review.
