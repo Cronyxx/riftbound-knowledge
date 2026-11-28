@@ -8,7 +8,7 @@ next: false
 
 # Domain identities and interaction cards
 
-Choose a domain below to explore its identity, see the cards as they are introduced, and browse its cards by effect. The dual-domain index remains on this page. The [Domains lesson](/basics/domains) explains how a Legend’s domain identity determines which cards you can include.
+Choose a domain below for a summary of its interaction types, followed by the image of every listed card grouped under its interaction. The dual-domain index remains on this page. The [Domains lesson](/basics/domains) explains how a Legend’s domain identity determines which cards you can include.
 
 ::: warning Draft — awaiting review
 The index covers English main-deck cards from Origins and Proving Grounds through Radiance. Cards may appear under several effects. The index is based on card text and spot checks. Some conditional effects may be missing or misclassified. Check the current ban list for tournament legality.
