@@ -63,8 +63,7 @@ The cross-check labels the event “post-ban,” but its date precedes the offic
 | 1 | Vi, Peacekeeper |
 | 3 | Arise! |
 
-<details>
-<summary>Show Main Deck card images</summary>
+**Main Deck card images**
 
 <div class="deck-card-gallery domain-interaction-gallery">
 <figure><a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/49a24d4c6d770ed233c4a69bf8d87385bfc997d8-744x1039.png?accountingTag=RB" aria-label="View full-size Doran&#x27;s Shield card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/49a24d4c6d770ed233c4a69bf8d87385bfc997d8-744x1039.png?accountingTag=RB&amp;w=480" alt="Doran&#x27;s Shield printed gear card" width="744" height="1039" loading="lazy" decoding="async"></a><figcaption><strong>3× Doran&#x27;s Shield</strong><br>SFD-033/221</figcaption></figure>
@@ -86,14 +85,12 @@ The cross-check labels the event “post-ban,” but its date precedes the offic
 <figure><a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/346f4698fea2878dde88470c1793047140c981e3-744x1039.png?accountingTag=RB" aria-label="View full-size Arise! card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/346f4698fea2878dde88470c1793047140c981e3-744x1039.png?accountingTag=RB&amp;w=480" alt="Arise! printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a><figcaption><strong>3× Arise!</strong><br>SFD-198/221</figcaption></figure>
 </div>
 
-</details>
 
 ### Rune Deck, battlefields, and sideboard
 
 **Runes:** 7 Calm Rune, 5 Order Rune. **Battlefields:** Forge of the Fluft, Hall of Legends, Trifarian War Camp.
 
-<details>
-<summary>Show rune and battlefield images</summary>
+**Rune and battlefield images**
 
 <div class="deck-card-gallery domain-interaction-gallery">
 <figure><a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0a0e8c3d16c2595e2f8efcc2b1466226539b506c-744x1039.png?accountingTag=RB" aria-label="View full-size Calm Rune card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0a0e8c3d16c2595e2f8efcc2b1466226539b506c-744x1039.png?accountingTag=RB&amp;w=480" alt="Calm Rune printed rune card" width="744" height="1039" loading="lazy" decoding="async"></a><figcaption><strong>7× Calm Rune</strong><br>OGN-042/298</figcaption></figure>
@@ -103,7 +100,6 @@ The cross-check labels the event “post-ban,” but its date precedes the offic
 <figure><a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3788cf718e716e35a7fa20ec1dc56991644e6484-1038x744.png?accountingTag=RB" aria-label="View full-size Trifarian War Camp card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3788cf718e716e35a7fa20ec1dc56991644e6484-1038x744.png?accountingTag=RB&amp;w=480" alt="Trifarian War Camp printed battlefield card" width="744" height="1039" loading="lazy" decoding="async"></a><figcaption><strong>1× Trifarian War Camp</strong><br>OGN-294/298</figcaption></figure>
 </div>
 
-</details>
 
 **Sideboard — 10 cards**
 
@@ -117,8 +113,7 @@ The cross-check labels the event “post-ban,” but its date precedes the offic
 | 2 | Decree of Unity |
 | 1 | Salvage |
 
-<details>
-<summary>Show sideboard card images</summary>
+**Sideboard card images**
 
 <div class="deck-card-gallery domain-interaction-gallery">
 <figure><a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/523732db17d8cf3c7c55f57c5dfb397b73e2b116-744x1039.png?accountingTag=RB" aria-label="View full-size Disarming Rake card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/523732db17d8cf3c7c55f57c5dfb397b73e2b116-744x1039.png?accountingTag=RB&amp;w=480" alt="Disarming Rake printed unit card" width="744" height="1039" loading="lazy" decoding="async"></a><figcaption><strong>1× Disarming Rake</strong><br>SFD-032/221</figcaption></figure>
@@ -130,7 +125,6 @@ The cross-check labels the event “post-ban,” but its date precedes the offic
 <figure><a href="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9bdbac358e7c9415c1354b6d1f6888dcf9c5519b-744x1039.png?accountingTag=RB" aria-label="View full-size Salvage card image"><img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9bdbac358e7c9415c1354b6d1f6888dcf9c5519b-744x1039.png?accountingTag=RB&amp;w=480" alt="Salvage printed spell card" width="744" height="1039" loading="lazy" decoding="async"></a><figcaption><strong>1× Salvage</strong><br>OGN-224/298</figcaption></figure>
 </div>
 
-</details>
 
 ## The important interactions
 
